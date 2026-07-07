@@ -1,6 +1,6 @@
 {
   "version" : "1.0.0",
-  "starterTitles" : [
+  "starter_titles" : [
     "Bài 1: Khủng Long T-Rex",
     "Bài 2:",
     "Bài 3:",
@@ -8,7 +8,7 @@
     "Bài 5:",
     "Bài 6:",
   ],
-  "starterUrls" : [
+  "starter_urls" : [
     "https://www.youtube.com/watch?v=2Um4TNzFoW8",
     "youtube",
     "youtube",
