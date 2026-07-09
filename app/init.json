@@ -48,7 +48,7 @@
     {"name" : "Game Máy Bay Chiến Đấu ", "url" : "https://www.youtube.com/watch?v=ZS1b5zUBOGs"},
     {"name" : "Game Câu Cá", "url" : "https://www.youtube.com/watch?v=Khu45FsrA-c"},
   ],
-  "hub" : [
+  "hubs" : [
     {"code" : "3D80" , "id" : "1CBC422A13D8" , "name" : "Robot Wedo 2.0" , "activation" : "" , "version" : "1.0.0"},
   ],
 }
