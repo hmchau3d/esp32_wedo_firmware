@@ -1,8 +1,8 @@
 {
   "index" : 1,
   "version" : "1.0.0",
-  "facebook" : "",
-  "youtube" : "",
+  "facebook" : "facebook",
+  "youtube" : "youtube",
   "zalo" : "https://zalo.me/0901073883",
   "robot_help" : "https://www.youtube.com/watch?v=q4xG-A5ZKCE",
   "lineup_help" : "https://www.youtube.com/watch?v=q4xG-A5ZKCE",
