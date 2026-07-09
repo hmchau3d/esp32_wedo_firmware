@@ -1,5 +1,8 @@
 {
   "version" : "1.0.0",
+  "facebook" : "",
+  "youtube" : "",
+  "zalo" : "https://zalo.me/0901073883",
   "robot_help" : "robot help",
   "lineup_help" : "line up help",
   "starter" : [
@@ -43,5 +46,8 @@
     {"name" : "Game Đường Đua Siêu Tốc", "url" : "https://youtu.be/6IRqYCC4uWw?si=ylFpVL1sxsbJOfPq"},
     {"name" : "Game Máy Bay Chiến Đấu ", "url" : "https://www.youtube.com/watch?v=ZS1b5zUBOGs"},
     {"name" : "Game Câu Cá", "url" : "https://www.youtube.com/watch?v=Khu45FsrA-c"},
+  ],
+  "hub" : [
+    {"code" : "3D80" , "id" : "1CBC422A13D8" , "name" : "Robot Wedo 2.0" , "activation" : "" , "version" : "1.0.0"},
   ],
 }
