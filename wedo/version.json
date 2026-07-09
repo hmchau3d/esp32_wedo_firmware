@@ -1,7 +1,7 @@
 {
 		"Configurations": [
 			{
-			"Version": "1.0.0",
+			"Version": "1.0.1",
 			"URL": "https://github.com/hmchau3d/esp32_wedo_firmware/raw/refs/heads/main/wedo/firmware.bin"
 			}
 		]
