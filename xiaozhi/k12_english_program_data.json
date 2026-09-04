@@ -1,0 +1,2173 @@
+{
+    "program_info": {
+        "title": "Chương trình Tiếng Anh Toàn Diện - K12 English Program Data",
+        "description": "Dữ liệu cấu trúc bài học, từ vựng, mẫu câu và câu hỏi trắc nghiệm chi tiết cho chương trình Tiếng Anh từ lớp 1 đến lớp 12.",
+        "source_reference": "Chương trình Giáo dục phổ thông môn Tiếng Anh cập nhật",
+        "target_audience": "Students from Grade 1 to Grade 12",
+        "total_grades": 12
+    },
+    "grades": [
+        {
+            "grade_id": "grade_01",
+            "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+            "units": [
+                {
+                    "unit_id": "g1_u01",
+                    "unit_title": "Unit 1: In the School Playground",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g1_u01_l1",
+                            "lesson_title": "Lesson 1: Letter B sounds",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "book",
+                                    "meaning": "quyển sách",
+                                    "phonetic": "/bʊk/",
+                                    "audio_url": "audio/grade_01/g1_u01/book.mp3"
+                                },
+                                {
+                                    "word": "bike",
+                                    "meaning": "xe đạp",
+                                    "phonetic": "/baɪk/",
+                                    "audio_url": "audio/grade_01/g1_u01/bike.mp3"
+                                },
+                                {
+                                    "word": "ball",
+                                    "meaning": "quả bóng",
+                                    "phonetic": "/bɔːl/",
+                                    "audio_url": "audio/grade_01/g1_u01/ball.mp3"
+                                },
+                                {
+                                    "word": "boy",
+                                    "meaning": "cậu bé",
+                                    "phonetic": "/bɔɪ/",
+                                    "audio_url": "audio/grade_01/g1_u01/boy.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Look! A [noun].",
+                                    "example": "Look! A ball.",
+                                    "meaning": "Nhìn kìa! Một quả bóng."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g1_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'quyển sách'?",
+                                    "options": [
+                                        "book",
+                                        "bike",
+                                        "ball",
+                                        "boy"
+                                    ],
+                                    "correct_option": "book",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g1_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Nhìn kìa! Một quả bóng.'",
+                                    "options": [
+                                        "Look! A ball.",
+                                        "I am testing bike.",
+                                        "This is not ball.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "Look! A ball.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g1_u02",
+                    "unit_title": "Unit 2: In the Dining Room",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g1_u02_l1",
+                            "lesson_title": "Lesson 1: Letter C sounds",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "cat",
+                                    "meaning": "con mèo",
+                                    "phonetic": "/kæt/",
+                                    "audio_url": "audio/grade_01/g1_u02/cat.mp3"
+                                },
+                                {
+                                    "word": "car",
+                                    "meaning": "ô tô",
+                                    "phonetic": "/kɑːr/",
+                                    "audio_url": "audio/grade_01/g1_u02/car.mp3"
+                                },
+                                {
+                                    "word": "cake",
+                                    "meaning": "bánh ngọt",
+                                    "phonetic": "/keɪk/",
+                                    "audio_url": "audio/grade_01/g1_u02/cake.mp3"
+                                },
+                                {
+                                    "word": "cup",
+                                    "meaning": "cái cốc",
+                                    "phonetic": "/kʌp/",
+                                    "audio_url": "audio/grade_01/g1_u02/cup.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "I can see a [noun].",
+                                    "example": "I can see a cat.",
+                                    "meaning": "Mình có thể nhìn thấy một con mèo."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g1_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'con mèo'?",
+                                    "options": [
+                                        "cat",
+                                        "car",
+                                        "cake",
+                                        "cup"
+                                    ],
+                                    "correct_option": "cat",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g1_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Mình có thể nhìn thấy một con mèo.'",
+                                    "options": [
+                                        "I can see a cat.",
+                                        "I am testing car.",
+                                        "This is not cake.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "I can see a cat.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_02",
+            "grade_title": "Grade 2 - Tiếng Anh Lớp 2",
+            "units": [
+                {
+                    "unit_id": "g2_u01",
+                    "unit_title": "Unit 1: At the Zoo",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g2_u01_l1",
+                            "lesson_title": "Lesson 1: Letter G sounds",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "girl",
+                                    "meaning": "cô bé",
+                                    "phonetic": "/ɡɜːl/",
+                                    "audio_url": "audio/grade_02/g2_u01/girl.mp3"
+                                },
+                                {
+                                    "word": "gate",
+                                    "meaning": "cái cổng",
+                                    "phonetic": "/ɡeɪt/",
+                                    "audio_url": "audio/grade_02/g2_u01/gate.mp3"
+                                },
+                                {
+                                    "word": "goat",
+                                    "meaning": "con dê",
+                                    "phonetic": "/ɡəʊt/",
+                                    "audio_url": "audio/grade_02/g2_u01/goat.mp3"
+                                },
+                                {
+                                    "word": "garden",
+                                    "meaning": "khu vườn",
+                                    "phonetic": "/ˈɡɑːdn/",
+                                    "audio_url": "audio/grade_02/g2_u01/garden.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "This is a [noun].",
+                                    "example": "This is a goat.",
+                                    "meaning": "Đây là một con dê."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g2_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'cô bé'?",
+                                    "options": [
+                                        "girl",
+                                        "gate",
+                                        "goat",
+                                        "garden"
+                                    ],
+                                    "correct_option": "girl",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g2_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Đây là một con dê.'",
+                                    "options": [
+                                        "This is a goat.",
+                                        "I am testing gate.",
+                                        "This is not goat.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "This is a goat.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g2_u02",
+                    "unit_title": "Unit 2: In the Kitchen",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g2_u02_l1",
+                            "lesson_title": "Lesson 1: Letter K sounds",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "kitchen",
+                                    "meaning": "nhà bếp",
+                                    "phonetic": "/ˈkɪtʃɪn/",
+                                    "audio_url": "audio/grade_02/g2_u02/kitchen.mp3"
+                                },
+                                {
+                                    "word": "key",
+                                    "meaning": "chìa khóa",
+                                    "phonetic": "/kiː/",
+                                    "audio_url": "audio/grade_02/g2_u02/key.mp3"
+                                },
+                                {
+                                    "word": "kite",
+                                    "meaning": "cái diều",
+                                    "phonetic": "/kaɪt/",
+                                    "audio_url": "audio/grade_02/g2_u02/kite.mp3"
+                                },
+                                {
+                                    "word": "kitten",
+                                    "meaning": "mèo con",
+                                    "phonetic": "/ˈkɪtn/",
+                                    "audio_url": "audio/grade_02/g2_u02/kitten.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "I have a [noun].",
+                                    "example": "I have a key.",
+                                    "meaning": "Tôi có một chiếc chìa khóa."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g2_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'nhà bếp'?",
+                                    "options": [
+                                        "kitchen",
+                                        "key",
+                                        "kite",
+                                        "kitten"
+                                    ],
+                                    "correct_option": "kitchen",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g2_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Tôi có một chiếc chìa khóa.'",
+                                    "options": [
+                                        "I have a key.",
+                                        "I am testing key.",
+                                        "This is not kite.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "I have a key.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_03",
+            "grade_title": "Grade 3 - Tiếng Anh Lớp 3",
+            "units": [
+                {
+                    "unit_id": "g3_u01",
+                    "unit_title": "Unit 1: Hello!",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g3_u01_l1",
+                            "lesson_title": "Lesson 1: Greetings and Introductions",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "hello",
+                                    "meaning": "xin chào",
+                                    "phonetic": "/həˈləʊ/",
+                                    "audio_url": "audio/grade_03/g3_u01/hello.mp3"
+                                },
+                                {
+                                    "word": "friend",
+                                    "meaning": "người bạn",
+                                    "phonetic": "/frend/",
+                                    "audio_url": "audio/grade_03/g3_u01/friend.mp3"
+                                },
+                                {
+                                    "word": "name",
+                                    "meaning": "tên",
+                                    "phonetic": "/neɪm/",
+                                    "audio_url": "audio/grade_03/g3_u01/name.mp3"
+                                },
+                                {
+                                    "word": "teacher",
+                                    "meaning": "giáo viên",
+                                    "phonetic": "/ˈtiːtʃə(r)/",
+                                    "audio_url": "audio/grade_03/g3_u01/teacher.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "How are you? - I'm [adjective].",
+                                    "example": "How are you? - I'm fine.",
+                                    "meaning": "Bạn khỏe không? - Tôi khỏe."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g3_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'xin chào'?",
+                                    "options": [
+                                        "hello",
+                                        "friend",
+                                        "name",
+                                        "teacher"
+                                    ],
+                                    "correct_option": "hello",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g3_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn khỏe không? - Tôi khỏe.'",
+                                    "options": [
+                                        "How are you? - I'm fine.",
+                                        "I am testing friend.",
+                                        "This is not name.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "How are you? - I'm fine.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g3_u02",
+                    "unit_title": "Unit 2: Our Names",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g3_u02_l1",
+                            "lesson_title": "Lesson 1: Asking and spelling names",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "spell",
+                                    "meaning": "đánh vần",
+                                    "phonetic": "/spel/",
+                                    "audio_url": "audio/grade_03/g3_u02/spell.mp3"
+                                },
+                                {
+                                    "word": "alphabet",
+                                    "meaning": "bảng chữ cái",
+                                    "phonetic": "/ˈælfəbet/",
+                                    "audio_url": "audio/grade_03/g3_u02/alphabet.mp3"
+                                },
+                                {
+                                    "word": "how",
+                                    "meaning": "như thế nào",
+                                    "phonetic": "/haʊ/",
+                                    "audio_url": "audio/grade_03/g3_u02/how.mp3"
+                                },
+                                {
+                                    "word": "what",
+                                    "meaning": "cái gì",
+                                    "phonetic": "/wɒt/",
+                                    "audio_url": "audio/grade_03/g3_u02/what.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "How do you spell your name?",
+                                    "example": "How do you spell your name?",
+                                    "meaning": "Bạn đánh vần tên mình thế nào?"
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g3_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'đánh vần'?",
+                                    "options": [
+                                        "spell",
+                                        "alphabet",
+                                        "how",
+                                        "what"
+                                    ],
+                                    "correct_option": "spell",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g3_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn đánh vần tên mình thế nào?'",
+                                    "options": [
+                                        "How do you spell your name?",
+                                        "I am testing alphabet.",
+                                        "This is not how.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "How do you spell your name?",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_04",
+            "grade_title": "Grade 4 - Tiếng Anh Lớp 4",
+            "units": [
+                {
+                    "unit_id": "g4_u01",
+                    "unit_title": "Unit 1: My Friends",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g4_u01_l1",
+                            "lesson_title": "Lesson 1: Nationalities and Countries",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "America",
+                                    "meaning": "nước Mỹ",
+                                    "phonetic": "/əˈmerɪkə/",
+                                    "audio_url": "audio/grade_04/g4_u01/America.mp3"
+                                },
+                                {
+                                    "word": "Vietnam",
+                                    "meaning": "nước Việt Nam",
+                                    "phonetic": "/ˌvjetˈnæm/",
+                                    "audio_url": "audio/grade_04/g4_u01/Vietnam.mp3"
+                                },
+                                {
+                                    "word": "England",
+                                    "meaning": "nước Anh",
+                                    "phonetic": "/ˈɪŋɡlənd/",
+                                    "audio_url": "audio/grade_04/g4_u01/England.mp3"
+                                },
+                                {
+                                    "word": "Japan",
+                                    "meaning": "nước Nhật",
+                                    "phonetic": "/dʒəˈpæn/",
+                                    "audio_url": "audio/grade_04/g4_u01/Japan.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Where are you from? - I'm from [country].",
+                                    "example": "Where are you from? - I'm from Vietnam.",
+                                    "meaning": "Bạn từ đâu đến? - Tôi đến từ Việt Nam."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g4_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'nước Mỹ'?",
+                                    "options": [
+                                        "America",
+                                        "Vietnam",
+                                        "England",
+                                        "Japan"
+                                    ],
+                                    "correct_option": "America",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g4_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn từ đâu đến? - Tôi đến từ Việt Nam.'",
+                                    "options": [
+                                        "Where are you from? - I'm from Vietnam.",
+                                        "I am testing Vietnam.",
+                                        "This is not England.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "Where are you from? - I'm from Vietnam.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g4_u02",
+                    "unit_title": "Unit 2: Time and Daily Routines",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g4_u02_l1",
+                            "lesson_title": "Lesson 1: Telling the time",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "o'clock",
+                                    "meaning": "giờ đúng",
+                                    "phonetic": "/əˈklɒk/",
+                                    "audio_url": "audio/grade_04/g4_u02/o'clock.mp3"
+                                },
+                                {
+                                    "word": "morning",
+                                    "meaning": "buổi sáng",
+                                    "phonetic": "/ˈmɔːnɪŋ/",
+                                    "audio_url": "audio/grade_04/g4_u02/morning.mp3"
+                                },
+                                {
+                                    "word": "breakfast",
+                                    "meaning": "bữa sáng",
+                                    "phonetic": "/ˈbrekfəst/",
+                                    "audio_url": "audio/grade_04/g4_u02/breakfast.mp3"
+                                },
+                                {
+                                    "word": "bed",
+                                    "meaning": "giường",
+                                    "phonetic": "/bed/",
+                                    "audio_url": "audio/grade_04/g4_u02/bed.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "What time is it? - It's [time].",
+                                    "example": "What time is it? - It's seven o'clock.",
+                                    "meaning": "Mấy giờ rồi? - Bây giờ là 7 giờ đúng."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g4_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'giờ đúng'?",
+                                    "options": [
+                                        "o'clock",
+                                        "morning",
+                                        "breakfast",
+                                        "bed"
+                                    ],
+                                    "correct_option": "o'clock",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g4_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Mấy giờ rồi? - Bây giờ là 7 giờ đúng.'",
+                                    "options": [
+                                        "What time is it? - It's seven o'clock.",
+                                        "I am testing morning.",
+                                        "This is not breakfast.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "What time is it? - It's seven o'clock.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_05",
+            "grade_title": "Grade 5 - Tiếng Anh Lớp 5",
+            "units": [
+                {
+                    "unit_id": "g5_u01",
+                    "unit_title": "Unit 1: All About Me",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g5_u01_l1",
+                            "lesson_title": "Lesson 1: Addresses and Towns",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "address",
+                                    "meaning": "địa chỉ",
+                                    "phonetic": "/əˈdres/",
+                                    "audio_url": "audio/grade_05/g5_u01/address.mp3"
+                                },
+                                {
+                                    "word": "hometown",
+                                    "meaning": "quê hương",
+                                    "phonetic": "/ˈhəʊmtaʊn/",
+                                    "audio_url": "audio/grade_05/g5_u01/hometown.mp3"
+                                },
+                                {
+                                    "word": "floor",
+                                    "meaning": "tầng",
+                                    "phonetic": "/flɔː(r)/",
+                                    "audio_url": "audio/grade_05/g5_u01/floor.mp3"
+                                },
+                                {
+                                    "word": "lane",
+                                    "meaning": "ngõ, hẻm",
+                                    "phonetic": "/leɪn/",
+                                    "audio_url": "audio/grade_05/g5_u01/lane.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "What's your address? - It's [address].",
+                                    "example": "What's your address? - It's 81 Tran Hung Dao Street.",
+                                    "meaning": "Địa chỉ của bạn là gì? - Đó là số 81 đường Trần Hưng Đạo."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g5_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'địa chỉ'?",
+                                    "options": [
+                                        "address",
+                                        "hometown",
+                                        "floor",
+                                        "lane"
+                                    ],
+                                    "correct_option": "address",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g5_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Địa chỉ của bạn là gì? - Đó là số 81 đường Trần Hưng Đạo.'",
+                                    "options": [
+                                        "What's your address? - It's 81 Tran Hung Dao Street.",
+                                        "I am testing hometown.",
+                                        "This is not floor.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "What's your address? - It's 81 Tran Hung Dao Street.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g5_u02",
+                    "unit_title": "Unit 2: Our School Lessons",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g5_u02_l1",
+                            "lesson_title": "Lesson 1: Frequency of activities",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "always",
+                                    "meaning": "luôn luôn",
+                                    "phonetic": "/ˈɔːlweɪz/",
+                                    "audio_url": "audio/grade_05/g5_u02/always.mp3"
+                                },
+                                {
+                                    "word": "usually",
+                                    "meaning": "thường xuyên",
+                                    "phonetic": "/ˈjuːʒuəli/",
+                                    "audio_url": "audio/grade_05/g5_u02/usually.mp3"
+                                },
+                                {
+                                    "word": "often",
+                                    "meaning": "thường",
+                                    "phonetic": "/ˈɒfn/",
+                                    "audio_url": "audio/grade_05/g5_u02/often.mp3"
+                                },
+                                {
+                                    "word": "sometimes",
+                                    "meaning": "đôi khi",
+                                    "phonetic": "/ˈsʌmtaɪmz/",
+                                    "audio_url": "audio/grade_05/g5_u02/sometimes.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "How often do you [activity]? - I [frequency]...",
+                                    "example": "How often do you watch TV? - I usually watch TV.",
+                                    "meaning": "Bạn có thường xem TV không? - Tôi thường xuyên xem TV."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g5_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'luôn luôn'?",
+                                    "options": [
+                                        "always",
+                                        "usually",
+                                        "often",
+                                        "sometimes"
+                                    ],
+                                    "correct_option": "always",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g5_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn có thường xem TV không? - Tôi thường xuyên xem TV.'",
+                                    "options": [
+                                        "How often do you watch TV? - I usually watch TV.",
+                                        "I am testing usually.",
+                                        "This is not often.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "How often do you watch TV? - I usually watch TV.",
+                                    "difficulty": "medium",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_06",
+            "grade_title": "Grade 6 - Tiếng Anh Lớp 6",
+            "units": [
+                {
+                    "unit_id": "g6_u01",
+                    "unit_title": "Unit 1: My New School",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g6_u01_l1",
+                            "lesson_title": "Lesson 1: School items and activities",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "calculator",
+                                    "meaning": "máy tính cầm tay",
+                                    "phonetic": "/ˈkælkjuleɪtə(r)/",
+                                    "audio_url": "audio/grade_06/g6_u01/calculator.mp3"
+                                },
+                                {
+                                    "word": "uniform",
+                                    "meaning": "đồng phục",
+                                    "phonetic": "/ˈjuːnɪfɔːm/",
+                                    "audio_url": "audio/grade_06/g6_u01/uniform.mp3"
+                                },
+                                {
+                                    "word": "compass",
+                                    "meaning": "la bàn/com-pa",
+                                    "phonetic": "/ˈkʌmpəs/",
+                                    "audio_url": "audio/grade_06/g6_u01/compass.mp3"
+                                },
+                                {
+                                    "word": "excited",
+                                    "meaning": "hào hứng",
+                                    "phonetic": "/ɪkˈsaɪtɪd/",
+                                    "audio_url": "audio/grade_06/g6_u01/excited.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Present Simple vs Present Continuous",
+                                    "example": "We are wearing our uniform today.",
+                                    "meaning": "Hôm nay chúng tôi đang mặc đồng phục."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g6_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'máy tính cầm tay'?",
+                                    "options": [
+                                        "calculator",
+                                        "uniform",
+                                        "compass",
+                                        "excited"
+                                    ],
+                                    "correct_option": "calculator",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g6_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Hôm nay chúng tôi đang mặc đồng phục.'",
+                                    "options": [
+                                        "We are wearing our uniform today.",
+                                        "I am testing uniform.",
+                                        "This is not compass.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "We are wearing our uniform today.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g6_u02",
+                    "unit_title": "Unit 2: My House",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g6_u02_l1",
+                            "lesson_title": "Lesson 1: Types of rooms and furniture",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "apartment",
+                                    "meaning": "căn hộ",
+                                    "phonetic": "/əˈpɑːtmənt/",
+                                    "audio_url": "audio/grade_06/g6_u02/apartment.mp3"
+                                },
+                                {
+                                    "word": "cupboard",
+                                    "meaning": "tủ chén đĩa",
+                                    "phonetic": "/ˈkʌbəd/",
+                                    "audio_url": "audio/grade_06/g6_u02/cupboard.mp3"
+                                },
+                                {
+                                    "word": "dishwasher",
+                                    "meaning": "máy rửa bát",
+                                    "phonetic": "/ˈdɪʃwɒʃə(r)/",
+                                    "audio_url": "audio/grade_06/g6_u02/dishwasher.mp3"
+                                },
+                                {
+                                    "word": "attic",
+                                    "meaning": "gác mái",
+                                    "phonetic": "/ˈætɪk/",
+                                    "audio_url": "audio/grade_06/g6_u02/attic.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Prepositions of place",
+                                    "example": "The cat is in front of the cupboard.",
+                                    "meaning": "Con mèo ở trước cái tủ chén."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g6_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'căn hộ'?",
+                                    "options": [
+                                        "apartment",
+                                        "cupboard",
+                                        "dishwasher",
+                                        "attic"
+                                    ],
+                                    "correct_option": "apartment",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g6_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Con mèo ở trước cái tủ chén.'",
+                                    "options": [
+                                        "The cat is in front of the cupboard.",
+                                        "I am testing cupboard.",
+                                        "This is not dishwasher.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "The cat is in front of the cupboard.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_07",
+            "grade_title": "Grade 7 - Tiếng Anh Lớp 7",
+            "units": [
+                {
+                    "unit_id": "g7_u01",
+                    "unit_title": "Unit 1: My Hobbies",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g7_u01_l1",
+                            "lesson_title": "Lesson 1: Expressing likes and dislikes",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "carving",
+                                    "meaning": "chạm khắc",
+                                    "phonetic": "/ˈkɑːvɪŋ/",
+                                    "audio_url": "audio/grade_07/g7_u01/carving.mp3"
+                                },
+                                {
+                                    "word": "gardening",
+                                    "meaning": "làm vườn",
+                                    "phonetic": "/ˈɡɑːdnɪŋ/",
+                                    "audio_url": "audio/grade_07/g7_u01/gardening.mp3"
+                                },
+                                {
+                                    "word": "collaging",
+                                    "meaning": "làm tranh cắt dán",
+                                    "phonetic": "/kəˈlɑːʒɪŋ/",
+                                    "audio_url": "audio/grade_07/g7_u01/collaging.mp3"
+                                },
+                                {
+                                    "word": "unusual",
+                                    "meaning": "khác thường",
+                                    "phonetic": "/ʌnˈjuːʒuəl/",
+                                    "audio_url": "audio/grade_07/g7_u01/unusual.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Verbs of liking + V-ing",
+                                    "example": "I love collecting teddy bears.",
+                                    "meaning": "Tôi yêu thích việc sưu tập gấu bông."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g7_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'chạm khắc'?",
+                                    "options": [
+                                        "carving",
+                                        "gardening",
+                                        "collaging",
+                                        "unusual"
+                                    ],
+                                    "correct_option": "carving",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g7_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Tôi yêu thích việc sưu tập gấu bông.'",
+                                    "options": [
+                                        "I love collecting teddy bears.",
+                                        "I am testing gardening.",
+                                        "This is not collaging.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "I love collecting teddy bears.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g7_u02",
+                    "unit_title": "Unit 2: Healthy Living",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g7_u02_l1",
+                            "lesson_title": "Lesson 1: Health problems and advice",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "allergy",
+                                    "meaning": "dị ứng",
+                                    "phonetic": "/ˈælədʒi/",
+                                    "audio_url": "audio/grade_07/g7_u02/allergy.mp3"
+                                },
+                                {
+                                    "word": "sunburn",
+                                    "meaning": "cháy nắng",
+                                    "phonetic": "/ˈsʌnbɜːn/",
+                                    "audio_url": "audio/grade_07/g7_u02/sunburn.mp3"
+                                },
+                                {
+                                    "word": "dimple",
+                                    "meaning": "lúm đồng tiền",
+                                    "phonetic": "/ˈdɪmpl/",
+                                    "audio_url": "audio/grade_07/g7_u02/dimple.mp3"
+                                },
+                                {
+                                    "word": "calorie",
+                                    "meaning": "calo",
+                                    "phonetic": "/ˈkæləri/",
+                                    "audio_url": "audio/grade_07/g7_u02/calorie.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Compound sentences with 'and, or, but, so'",
+                                    "example": "Keep clean, or you will get acne.",
+                                    "meaning": "Hãy giữ sạch sẽ, nếu không bạn sẽ bị mụn trứng cá."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g7_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'dị ứng'?",
+                                    "options": [
+                                        "allergy",
+                                        "sunburn",
+                                        "dimple",
+                                        "calorie"
+                                    ],
+                                    "correct_option": "allergy",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g7_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Hãy giữ sạch sẽ, nếu không bạn sẽ bị mụn trứng cá.'",
+                                    "options": [
+                                        "Keep clean, or you will get acne.",
+                                        "I am testing sunburn.",
+                                        "This is not dimple.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "Keep clean, or you will get acne.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_08",
+            "grade_title": "Grade 8 - Tiếng Anh Lớp 8",
+            "units": [
+                {
+                    "unit_id": "g8_u01",
+                    "unit_title": "Unit 1: Leisure Time",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g8_u01_l1",
+                            "lesson_title": "Lesson 1: Leisure activities",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "recreational",
+                                    "meaning": "giải trí",
+                                    "phonetic": "/ˌrekriˈeɪʃənl/",
+                                    "audio_url": "audio/grade_08/g8_u01/recreational.mp3"
+                                },
+                                {
+                                    "word": "addicted",
+                                    "meaning": "nghiện",
+                                    "phonetic": "/əˈdɪktɪd/",
+                                    "audio_url": "audio/grade_08/g8_u01/addicted.mp3"
+                                },
+                                {
+                                    "word": "craft",
+                                    "meaning": "thủ công",
+                                    "phonetic": "/krɑːft/",
+                                    "audio_url": "audio/grade_08/g8_u01/craft.mp3"
+                                },
+                                {
+                                    "word": "socialize",
+                                    "meaning": "giao lưu",
+                                    "phonetic": "/ˈsəʊʃəlaɪz/",
+                                    "audio_url": "audio/grade_08/g8_u01/socialize.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Verbs of liking + Gerunds/To-infinitives",
+                                    "example": "She is addicted to using social media.",
+                                    "meaning": "Cô ấy bị nghiện sử dụng mạng xã hội."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g8_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'giải trí'?",
+                                    "options": [
+                                        "recreational",
+                                        "addicted",
+                                        "craft",
+                                        "socialize"
+                                    ],
+                                    "correct_option": "recreational",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g8_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy bị nghiện sử dụng mạng xã hội.'",
+                                    "options": [
+                                        "She is addicted to using social media.",
+                                        "I am testing addicted.",
+                                        "This is not craft.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "She is addicted to using social media.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g8_u02",
+                    "unit_title": "Unit 2: Life in the Countryside",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g8_u02_l1",
+                            "lesson_title": "Lesson 1: Countryside description",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "buffalo",
+                                    "meaning": "con trâu",
+                                    "phonetic": "/ˈbʌfələʊ/",
+                                    "audio_url": "audio/grade_08/g8_u02/buffalo.mp3"
+                                },
+                                {
+                                    "word": "harvest",
+                                    "meaning": "vụ mùa",
+                                    "phonetic": "/ˈhɑːvɪst/",
+                                    "audio_url": "audio/grade_08/g8_u02/harvest.mp3"
+                                },
+                                {
+                                    "word": "paddy",
+                                    "meaning": "đồng lúa",
+                                    "phonetic": "/ˈpædi/",
+                                    "audio_url": "audio/grade_08/g8_u02/paddy.mp3"
+                                },
+                                {
+                                    "word": "hospitable",
+                                    "meaning": "mến khách",
+                                    "phonetic": "/hɒˈspɪtəbl/",
+                                    "audio_url": "audio/grade_08/g8_u02/hospitable.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Comparative form of adverbs",
+                                    "example": "People in the countryside live more happily.",
+                                    "meaning": "Người dân ở nông thôn sống hạnh phúc hơn."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g8_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'con trâu'?",
+                                    "options": [
+                                        "buffalo",
+                                        "harvest",
+                                        "paddy",
+                                        "hospitable"
+                                    ],
+                                    "correct_option": "buffalo",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g8_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Người dân ở nông thôn sống hạnh phúc hơn.'",
+                                    "options": [
+                                        "People in the countryside live more happily.",
+                                        "I am testing harvest.",
+                                        "This is not paddy.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "People in the countryside live more happily.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_09",
+            "grade_title": "Grade 9 - Tiếng Anh Lớp 9",
+            "units": [
+                {
+                    "unit_id": "g9_u01",
+                    "unit_title": "Unit 1: Local Community",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g9_u01_l1",
+                            "lesson_title": "Lesson 1: Community service and places",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "artisan",
+                                    "meaning": "artisan/thợ thủ công",
+                                    "phonetic": "/ˌɑːtɪˈzæn/",
+                                    "audio_url": "audio/grade_09/g9_u01/artisan.mp3"
+                                },
+                                {
+                                    "word": "handicraft",
+                                    "meaning": "đồ thủ công",
+                                    "phonetic": "/ˈhændikrɑːft/",
+                                    "audio_url": "audio/grade_09/g9_u01/handicraft.mp3"
+                                },
+                                {
+                                    "word": "attraction",
+                                    "meaning": "điểm thu hút",
+                                    "phonetic": "/əˈtrækʃn/",
+                                    "audio_url": "audio/grade_09/g9_u01/attraction.mp3"
+                                },
+                                {
+                                    "word": "preserve",
+                                    "meaning": "bảo tồn",
+                                    "phonetic": "/prɪˈzɜːv/",
+                                    "audio_url": "audio/grade_09/g9_u01/preserve.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Complex sentences with adverbial clauses",
+                                    "example": "We went to Bat Trang although it rained.",
+                                    "meaning": "Chúng tôi đã đi Bát Tràng mặc dù trời mưa."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g9_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'artisan/thợ thủ công'?",
+                                    "options": [
+                                        "artisan",
+                                        "handicraft",
+                                        "attraction",
+                                        "preserve"
+                                    ],
+                                    "correct_option": "artisan",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g9_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Chúng tôi đã đi Bát Tràng mặc dù trời mưa.'",
+                                    "options": [
+                                        "We went to Bat Trang although it rained.",
+                                        "I am testing handicraft.",
+                                        "This is not attraction.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "We went to Bat Trang although it rained.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g9_u02",
+                    "unit_title": "Unit 2: City Life",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g9_u02_l1",
+                            "lesson_title": "Lesson 1: Urban living challenges",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "metropolis",
+                                    "meaning": "đô thị lớn",
+                                    "phonetic": "/məˈtrɒpəlɪs/",
+                                    "audio_url": "audio/grade_09/g9_u02/metropolis.mp3"
+                                },
+                                {
+                                    "word": "overcrowded",
+                                    "meaning": "quá tải dân số",
+                                    "phonetic": "/ˌəʊvəˈkraʊdɪd/",
+                                    "audio_url": "audio/grade_09/g9_u02/overcrowded.mp3"
+                                },
+                                {
+                                    "word": "affordable",
+                                    "meaning": "giá cả phải chăng",
+                                    "phonetic": "/əˈfɔːdəbl/",
+                                    "audio_url": "audio/grade_09/g9_u02/affordable.mp3"
+                                },
+                                {
+                                    "word": "multicultural",
+                                    "meaning": "đa văn hóa",
+                                    "phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+                                    "audio_url": "audio/grade_09/g9_u02/multicultural.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Comparison of adjectives and adverbs",
+                                    "example": "This is the most affordable city in the area.",
+                                    "meaning": "Đây là thành phố có chi phí hợp lý nhất vùng."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g9_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'đô thị lớn'?",
+                                    "options": [
+                                        "metropolis",
+                                        "overcrowded",
+                                        "affordable",
+                                        "multicultural"
+                                    ],
+                                    "correct_option": "metropolis",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g9_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Đây là thành phố có chi phí hợp lý nhất vùng.'",
+                                    "options": [
+                                        "This is the most affordable city in the area.",
+                                        "I am testing overcrowded.",
+                                        "This is not affordable.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "This is the most affordable city in the area.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_10",
+            "grade_title": "Grade 10 - Tiếng Anh Lớp 10",
+            "units": [
+                {
+                    "unit_id": "g10_u01",
+                    "unit_title": "Unit 1: Family Life",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g10_u01_l1",
+                            "lesson_title": "Lesson 1: Household chores and duties",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "breadwinner",
+                                    "meaning": "trụ cột gia đình",
+                                    "phonetic": "/ˈbredwɪnə(r)/",
+                                    "audio_url": "audio/grade_10/g10_u01/breadwinner.mp3"
+                                },
+                                {
+                                    "word": "homemaker",
+                                    "meaning": "người nội trợ",
+                                    "phonetic": "/ˈhəʊmmeɪkə(r)/",
+                                    "audio_url": "audio/grade_10/g10_u01/homemaker.mp3"
+                                },
+                                {
+                                    "word": "groceries",
+                                    "meaning": "nhu yếu phẩm",
+                                    "phonetic": "/ˈɡrəʊsəriz/",
+                                    "audio_url": "audio/grade_10/g10_u01/groceries.mp3"
+                                },
+                                {
+                                    "word": "heavy-lifting",
+                                    "meaning": "việc nặng nhọc",
+                                    "phonetic": "/ˌhevi ˈlɪftɪŋ/",
+                                    "audio_url": "audio/grade_10/g10_u01/heavy-lifting.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Present Simple vs Present Continuous",
+                                    "example": "My mother is cooking dinner right now.",
+                                    "meaning": "Mẹ tôi hiện đang nấu bữa tối."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g10_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'trụ cột gia đình'?",
+                                    "options": [
+                                        "breadwinner",
+                                        "homemaker",
+                                        "groceries",
+                                        "heavy-lifting"
+                                    ],
+                                    "correct_option": "breadwinner",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g10_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Mẹ tôi hiện đang nấu bữa tối.'",
+                                    "options": [
+                                        "My mother is cooking dinner right now.",
+                                        "I am testing homemaker.",
+                                        "This is not groceries.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "My mother is cooking dinner right now.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g10_u02",
+                    "unit_title": "Unit 2: Humans and the Environment",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g10_u02_l1",
+                            "lesson_title": "Lesson 1: Eco-friendly lifestyle",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "ecosystem",
+                                    "meaning": "hệ sinh thái",
+                                    "phonetic": "/ˈiːkəʊsɪstəm/",
+                                    "audio_url": "audio/grade_10/g10_u02/ecosystem.mp3"
+                                },
+                                {
+                                    "word": "carbon-footprint",
+                                    "meaning": "dấu chân carbon",
+                                    "phonetic": "/ˌkɑːbən ˈfʊtprɪnt/",
+                                    "audio_url": "audio/grade_10/g10_u02/carbon-footprint.mp3"
+                                },
+                                {
+                                    "word": "sustainable",
+                                    "meaning": "bền vững",
+                                    "phonetic": "/səˈsteɪnəbl/",
+                                    "audio_url": "audio/grade_10/g10_u02/sustainable.mp3"
+                                },
+                                {
+                                    "word": "decompose",
+                                    "meaning": "phân hủy",
+                                    "phonetic": "/,di:kəm'pəuz/",
+                                    "audio_url": "audio/grade_10/g10_u02/decompose.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Passive voice with modals",
+                                    "example": "More trees should be planted in the city.",
+                                    "meaning": "Nên trồng nhiều cây xanh hơn trong thành phố."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g10_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'hệ sinh thái'?",
+                                    "options": [
+                                        "ecosystem",
+                                        "carbon-footprint",
+                                        "sustainable",
+                                        "decompose"
+                                    ],
+                                    "correct_option": "ecosystem",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g10_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Nên trồng nhiều cây xanh hơn trong thành phố.'",
+                                    "options": [
+                                        "More trees should be planted in the city.",
+                                        "I am testing carbon-footprint.",
+                                        "This is not sustainable.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "More trees should be planted in the city.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_11",
+            "grade_title": "Grade 11 - Tiếng Anh Lớp 11",
+            "units": [
+                {
+                    "unit_id": "g11_u01",
+                    "unit_title": "Unit 1: A Long and Healthy Life",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g11_u01_l1",
+                            "lesson_title": "Lesson 1: Longevity and wellness",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "longevity",
+                                    "meaning": "tuổi thọ",
+                                    "phonetic": "/lɒnˈdʒevəti/",
+                                    "audio_url": "audio/grade_11/g11_u01/longevity.mp3"
+                                },
+                                {
+                                    "word": "expectancy",
+                                    "meaning": "kỳ vọng",
+                                    "phonetic": "/ɪkˈspektənsi/",
+                                    "audio_url": "audio/grade_11/g11_u01/expectancy.mp3"
+                                },
+                                {
+                                    "word": "immune-system",
+                                    "meaning": "hệ miễn dịch",
+                                    "phonetic": "/ɪˈmjuːn sɪstəm/",
+                                    "audio_url": "audio/grade_11/g11_u01/immune-system.mp3"
+                                },
+                                {
+                                    "word": "nutritious",
+                                    "meaning": "giàu dinh dưỡng",
+                                    "phonetic": "/njuːˈtrɪʃəs/",
+                                    "audio_url": "audio/grade_11/g11_u01/nutritious.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Past Simple vs Present Perfect",
+                                    "example": "He has suffered from a rare illness since 2024.",
+                                    "meaning": "Anh ấy đã phải chịu đựng một căn bệnh hiếm gặp từ năm 2024."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g11_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'tuổi thọ'?",
+                                    "options": [
+                                        "longevity",
+                                        "expectancy",
+                                        "immune-system",
+                                        "nutritious"
+                                    ],
+                                    "correct_option": "longevity",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g11_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Anh ấy đã phải chịu đựng một căn bệnh hiếm gặp từ năm 2024.'",
+                                    "options": [
+                                        "He has suffered from a rare illness since 2024.",
+                                        "I am testing expectancy.",
+                                        "This is not immune-system.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "He has suffered from a rare illness since 2024.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g11_u02",
+                    "unit_title": "Unit 2: The Generation Gap",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g11_u02_l1",
+                            "lesson_title": "Lesson 1: Family relationships",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "generation",
+                                    "meaning": "thế hệ",
+                                    "phonetic": "/ˌdʒenəˈreɪʃn/",
+                                    "audio_url": "audio/grade_11/g11_u02/generation.mp3"
+                                },
+                                {
+                                    "word": "conflict",
+                                    "meaning": "xung đột",
+                                    "phonetic": "/ˈkɒnflɪkt/",
+                                    "audio_url": "audio/grade_11/g11_u02/conflict.mp3"
+                                },
+                                {
+                                    "word": "viewpoint",
+                                    "meaning": "quan điểm",
+                                    "phonetic": "/ˈvjuːpɔɪnt/",
+                                    "audio_url": "audio/grade_11/g11_u02/viewpoint.mp3"
+                                },
+                                {
+                                    "word": "characteristic",
+                                    "meaning": "đặc điểm",
+                                    "phonetic": "/ˌkærəktəˈrɪstɪk/",
+                                    "audio_url": "audio/grade_11/g11_u02/characteristic.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Modal verbs: must, have to, should",
+                                    "example": "You must respect your elders.",
+                                    "meaning": "Bạn phải tôn trọng những người lớn tuổi."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g11_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'thế hệ'?",
+                                    "options": [
+                                        "generation",
+                                        "conflict",
+                                        "viewpoint",
+                                        "characteristic"
+                                    ],
+                                    "correct_option": "generation",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g11_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn phải tôn trọng những người lớn tuổi.'",
+                                    "options": [
+                                        "You must respect your elders.",
+                                        "I am testing conflict.",
+                                        "This is not viewpoint.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "You must respect your elders.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "grade_id": "grade_12",
+            "grade_title": "Grade 12 - Tiếng Anh Lớp 12",
+            "units": [
+                {
+                    "unit_id": "g12_u01",
+                    "unit_title": "Unit 1: Life After High School",
+                    "start_page": 6,
+                    "end_page": 11,
+                    "lessons": [
+                        {
+                            "lesson_id": "g12_u01_l1",
+                            "lesson_title": "Lesson 1: Career paths and choices",
+                            "page": 6,
+                            "vocabulary": [
+                                {
+                                    "word": "undergraduate",
+                                    "meaning": "sinh viên đại học",
+                                    "phonetic": "/ˌʌndəˈɡrædʒuət/",
+                                    "audio_url": "audio/grade_12/g12_u01/undergraduate.mp3"
+                                },
+                                {
+                                    "word": "vocational",
+                                    "meaning": "học nghề",
+                                    "phonetic": "/vəʊˈkeɪʃənl/",
+                                    "audio_url": "audio/grade_12/g12_u01/vocational.mp3"
+                                },
+                                {
+                                    "word": "curriculum",
+                                    "meaning": "khương trình học",
+                                    "phonetic": "/kəˈrɪkjələm/",
+                                    "audio_url": "audio/grade_12/g12_u01/curriculum.mp3"
+                                },
+                                {
+                                    "word": "qualification",
+                                    "meaning": "bằng cấp",
+                                    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+                                    "audio_url": "audio/grade_12/g12_u01/qualification.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Phrasal Verbs and Idioms",
+                                    "example": "I need to sign up for a vocational course.",
+                                    "meaning": "Tôi cần đăng ký một khóa học nghề."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g12_u01_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'sinh viên đại học'?",
+                                    "options": [
+                                        "undergraduate",
+                                        "vocational",
+                                        "curriculum",
+                                        "qualification"
+                                    ],
+                                    "correct_option": "undergraduate",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g12_u01_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Tôi cần đăng ký một khóa học nghề.'",
+                                    "options": [
+                                        "I need to sign up for a vocational course.",
+                                        "I am testing vocational.",
+                                        "This is not curriculum.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "I need to sign up for a vocational course.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "unit_id": "g12_u02",
+                    "unit_title": "Unit 2: The World of Work",
+                    "start_page": 12,
+                    "end_page": 17,
+                    "lessons": [
+                        {
+                            "lesson_id": "g12_u02_l1",
+                            "lesson_title": "Lesson 1: Skills and job marketplace",
+                            "page": 12,
+                            "vocabulary": [
+                                {
+                                    "word": "entrepreneur",
+                                    "meaning": "nhà khởi nghiệp",
+                                    "phonetic": "/ˌɒntrəprəˈnɜː(r)/",
+                                    "audio_url": "audio/grade_12/g12_u02/entrepreneur.mp3"
+                                },
+                                {
+                                    "word": "apprentice",
+                                    "meaning": "người học việc",
+                                    "phonetic": "/əˈprentɪs/",
+                                    "audio_url": "audio/grade_12/g12_u02/apprentice.mp3"
+                                },
+                                {
+                                    "word": "profession",
+                                    "meaning": "nghề nghiệp chuyên môn",
+                                    "phonetic": "/prəˈfeʃn/",
+                                    "audio_url": "audio/grade_12/g12_u02/profession.mp3"
+                                },
+                                {
+                                    "word": "probation",
+                                    "meaning": "thời gian thử việc",
+                                    "phonetic": "/prəˈbeɪʃn/",
+                                    "audio_url": "audio/grade_12/g12_u02/probation.mp3"
+                                }
+                            ],
+                            "sentence_structures": [
+                                {
+                                    "pattern": "Conditional sentences Type 3 and Mixed",
+                                    "example": "If I had taken that job, I would be rich now.",
+                                    "meaning": "Nếu tôi nhận công việc đó, bây giờ tôi đã giàu rồi."
+                                }
+                            ],
+                            "activities": [
+                                {
+                                    "type": "listen_and_repeat",
+                                    "instruction": "Nghe và lặp lại từ vựng kèm phát âm chính xác."
+                                },
+                                {
+                                    "type": "practice_structure",
+                                    "instruction": "Luyện tập mẫu câu giao tiếp cùng bạn học."
+                                }
+                            ],
+                            "quiz_questions": [
+                                {
+                                    "question_id": "q_g12_u02_01",
+                                    "question_text": "Từ nào sau đây có nghĩa là 'nhà khởi nghiệp'?",
+                                    "options": [
+                                        "entrepreneur",
+                                        "apprentice",
+                                        "profession",
+                                        "probation"
+                                    ],
+                                    "correct_option": "entrepreneur",
+                                    "difficulty": "easy",
+                                    "score_weight": 10,
+                                    "timer_seconds": 15
+                                },
+                                {
+                                    "question_id": "q_g12_u02_02",
+                                    "question_text": "Dịch câu sau sang tiếng Anh: 'Nếu tôi nhận công việc đó, bây giờ tôi đã giàu rồi.'",
+                                    "options": [
+                                        "If I had taken that job, I would be rich now.",
+                                        "I am testing apprentice.",
+                                        "This is not profession.",
+                                        "Goodbye!"
+                                    ],
+                                    "correct_option": "If I had taken that job, I would be rich now.",
+                                    "difficulty": "hard",
+                                    "score_weight": 20,
+                                    "timer_seconds": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "user_progress_schema": {
+        "user_id": "string",
+        "last_updated": "string (ISO 8601)",
+        "overall_score": "integer",
+        "completed_lessons": [
+            "string (lesson_id)"
+        ],
+        "history": [
+            {
+                "attempt_id": "string",
+                "lesson_id": "string",
+                "timestamp": "string",
+                "score_achieved": "integer",
+                "total_possible_score": "integer",
+                "duration_seconds": "integer",
+                "answers": [
+                    {
+                        "question_id": "string",
+                        "selected_option": "string",
+                        "is_correct": "boolean",
+                        "time_taken_seconds": "integer"
+                    }
+                ]
+            }
+        ]
+    }
+}
