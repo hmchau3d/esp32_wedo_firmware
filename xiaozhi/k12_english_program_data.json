@@ -4,8 +4,7 @@
     "description": "Dữ liệu chi tiết cấu trúc bài học, từ vựng, mẫu câu và câu hỏi trắc nghiệm đầy đủ cho chương trình Tiếng Anh Global Success từ lớp 1 đến lớp 12.",
     "source_reference": "Chương trình Giáo dục phổ thông môn Tiếng Anh - Bộ Giáo dục và Đào tạo (Global Success)",
     "target_audience": "Students from Grade 1 to Grade 12",
-    "total_grades": 4,
-    ]
+    "total_grades": 12,
   },
   "grades": [
     {
