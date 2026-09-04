@@ -1,0 +1,656 @@
+{
+  "grade_id": "grade_04",
+  "grade_title": "Grade 4 - Tiếng Anh Lớp 4",
+  "units": [
+    {
+      "unit_id": "g4_u01",
+      "unit_title": "Unit 1: My friends",
+      "lessons": [
+        {
+          "lesson_id": "g4_u01_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "Viet Nam",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "America",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Australia",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Japan",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Where are you from? - I'm from ...",
+              "example": "Where are you from? - I'm from Viet Nam.",
+              "meaning": "Bạn từ đâu đến? - Mình từ Việt Nam đến."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 1: My friends?",
+              "options": [
+                "Viet Nam",
+                "America",
+                "Australia",
+                "Japan"
+              ],
+              "correct_option": "Viet Nam"
+            },
+            {
+              "question_text": "Dịch câu: 'Bạn từ đâu đến? - Mình từ Việt Nam đến.'",
+              "options": [
+                "Where are you from? - I'm from Viet Nam.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Where are you from? - I'm from Viet Nam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u02",
+      "unit_title": "Unit 2: Time and daily routines",
+      "lessons": [
+        {
+          "lesson_id": "g4_u02_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "get up",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "go to bed",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "breakfast",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "school",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What time do you ...? - I ... at ...",
+              "example": "What time do you get up? - I get up at six o'clock.",
+              "meaning": "Bạn thức dậy lúc mấy giờ? - Mình thức dậy lúc 6 giờ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 2: Time and daily routines?",
+              "options": [
+                "get up",
+                "go to bed",
+                "breakfast",
+                "school"
+              ],
+              "correct_option": "get up"
+            },
+            {
+              "question_text": "Dịch câu: 'Bạn thức dậy lúc mấy giờ? - Mình thức dậy lúc 6 giờ.'",
+              "options": [
+                "What time do you get up? - I get up at six o'clock.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What time do you get up? - I get up at six o'clock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u03",
+      "unit_title": "Unit 3: My week",
+      "lessons": [
+        {
+          "lesson_id": "g4_u03_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "Monday",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Tuesday",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Friday",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Sunday",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What day is it today? - It's ...",
+              "example": "What day is it today? - It's Monday.",
+              "meaning": "Hôm nay là thứ mấy? - Hôm nay là thứ Hai."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 3: My week?",
+              "options": [
+                "Monday",
+                "Tuesday",
+                "Friday",
+                "Sunday"
+              ],
+              "correct_option": "Monday"
+            },
+            {
+              "question_text": "Dịch câu: 'Hôm nay là thứ mấy? - Hôm nay là thứ Hai.'",
+              "options": [
+                "What day is it today? - It's Monday.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What day is it today? - It's Monday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u04",
+      "unit_title": "Unit 4: My birthday party",
+      "lessons": [
+        {
+          "lesson_id": "g4_u04_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "January",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "March",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "birthday",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "party",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "When's your birthday? - It's in ...",
+              "example": "When's your birthday? - It's in May.",
+              "meaning": "Sinh nhật bạn khi nào? - Vào tháng Năm."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 4: My birthday party?",
+              "options": [
+                "January",
+                "March",
+                "birthday",
+                "party"
+              ],
+              "correct_option": "January"
+            },
+            {
+              "question_text": "Dịch câu: 'Sinh nhật bạn khi nào? - Vào tháng Năm.'",
+              "options": [
+                "When's your birthday? - It's in May.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "When's your birthday? - It's in May."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u05",
+      "unit_title": "Unit 5: Things we can do",
+      "lessons": [
+        {
+          "lesson_id": "g4_u05_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "swim",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cook",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "draw",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "guitar",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Can you ...? - Yes, I can. / No, I can't.",
+              "example": "Can you swim? - Yes, I can.",
+              "meaning": "Bạn có biết bơi không? - Có, mình biết."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 5: Things we can do?",
+              "options": [
+                "swim",
+                "cook",
+                "draw",
+                "guitar"
+              ],
+              "correct_option": "swim"
+            },
+            {
+              "question_text": "Dịch câu: 'Bạn có biết bơi không? - Có, mình biết.'",
+              "options": [
+                "Can you swim? - Yes, I can.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Can you swim? - Yes, I can."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u06",
+      "unit_title": "Unit 6: Our school facilities",
+      "lessons": [
+        {
+          "lesson_id": "g4_u06_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "classroom",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "playground",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "garden",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "library",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Where's your school? - It's in the ...",
+              "example": "Where's your school? - It's in the village.",
+              "meaning": "Trường của bạn ở đâu? - Ở trong làng."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 6: Our school facilities?",
+              "options": [
+                "classroom",
+                "playground",
+                "garden",
+                "library"
+              ],
+              "correct_option": "classroom"
+            },
+            {
+              "question_text": "Dịch câu: 'Trường của bạn ở đâu? - Ở trong làng.'",
+              "options": [
+                "Where's your school? - It's in the village.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Where's your school? - It's in the village."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u07",
+      "unit_title": "Unit 7: Our timetables",
+      "lessons": [
+        {
+          "lesson_id": "g4_u07_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "maths",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "science",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "English",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "art",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What subjects do you have today? - I have ...",
+              "example": "What subjects do you have today? - I have maths.",
+              "meaning": "Hôm nay bạn có những môn học nào? - Mình có môn Toán."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 7: Our timetables?",
+              "options": [
+                "maths",
+                "science",
+                "English",
+                "art"
+              ],
+              "correct_option": "maths"
+            },
+            {
+              "question_text": "Dịch câu: 'Hôm nay bạn có những môn học nào? - Mình có môn Toán.'",
+              "options": [
+                "What subjects do you have today? - I have maths.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What subjects do you have today? - I have maths."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u08",
+      "unit_title": "Unit 8: My favourite subjects",
+      "lessons": [
+        {
+          "lesson_id": "g4_u08_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "painter",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "teacher",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "because",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "why",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Why do you like ...? - Because I want to be ...",
+              "example": "Why do you like English? - Because I want to be an English teacher.",
+              "meaning": "Tại sao bạn thích tiếng Anh? - Vì mình muốn trở thành giáo viên tiếng Anh."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 8: My favourite subjects?",
+              "options": [
+                "painter",
+                "teacher",
+                "because",
+                "why"
+              ],
+              "correct_option": "painter"
+            },
+            {
+              "question_text": "Dịch câu: 'Tại sao bạn thích tiếng Anh? - Vì mình muốn trở thành giáo viên tiếng Anh.'",
+              "options": [
+                "Why do you like English? - Because I want to be an English teacher.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Why do you like English? - Because I want to be an English teacher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u09",
+      "unit_title": "Unit 9: Our sports day",
+      "lessons": [
+        {
+          "lesson_id": "g4_u09_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "June",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "September",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "October",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "December",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "When's your sports day? - It's in ...",
+              "example": "When's your sports day? - It's in September.",
+              "meaning": "Ngày hội thể thao khi nào? - Vào tháng Chín."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 9: Our sports day?",
+              "options": [
+                "June",
+                "September",
+                "October",
+                "December"
+              ],
+              "correct_option": "June"
+            },
+            {
+              "question_text": "Dịch câu: 'Ngày hội thể thao khi nào? - Vào tháng Chín.'",
+              "options": [
+                "When's your sports day? - It's in September.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "When's your sports day? - It's in September."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g4_u10",
+      "unit_title": "Unit 10: Our summer holidays",
+      "lessons": [
+        {
+          "lesson_id": "g4_u10_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "beach",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "campsite",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "countryside",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "Tokyo",
+              "meaning": "Từ vựng lớp 4",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Where were you last summer? - I was in ...",
+              "example": "Where were you last summer? - I was in Tokyo.",
+              "meaning": "Mùa hè năm ngoái bạn ở đâu? - Mình ở Tokyo."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây là từ vựng thuộc Unit 10: Our summer holidays?",
+              "options": [
+                "beach",
+                "campsite",
+                "countryside",
+                "Tokyo"
+              ],
+              "correct_option": "beach"
+            },
+            {
+              "question_text": "Dịch câu: 'Mùa hè năm ngoái bạn ở đâu? - Mình ở Tokyo.'",
+              "options": [
+                "Where were you last summer? - I was in Tokyo.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Where were you last summer? - I was in Tokyo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "grade_id": "grade_02",
+  "grade_title": "Grade 2 - Tiếng Anh Lớp 2",
+  "units": [
+    {
+      "unit_id": "g2_u01",
+      "unit_title": "Unit 1: At my birthday party",
+      "lessons": [
+        {
+          "lesson_id": "g2_u01_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "pasta",
+              "meaning": "mì ống/mì Ý",
+              "phonetic": "/ˈpæstə/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "popcorn",
+              "meaning": "bắp rang bơ",
+              "phonetic": "/ˈpɒpkɔːn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pizza",
+              "meaning": "bánh pizza",
+              "phonetic": "/ˈpiːtsə/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cake",
+              "meaning": "bánh ngọt",
+              "phonetic": "/keɪk/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "The [noun] is yummy.",
+              "example": "The popcorn is yummy.",
+              "meaning": "Bắp rang bơ thật là ngon."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'bắp rang bơ'?",
+              "options": [
+                "pasta",
+                "popcorn",
+                "pizza",
+                "cake"
+              ],
+              "correct_option": "popcorn"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Bắp rang bơ thật là ngon.'",
+              "options": [
+                "The popcorn is yummy.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "The popcorn is yummy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u02",
+      "unit_title": "Unit 2: In the backyard",
+      "lessons": [
+        {
+          "lesson_id": "g2_u02_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "kite",
+              "meaning": "con diều",
+              "phonetic": "/kaɪt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bike",
+              "meaning": "xe đạp",
+              "phonetic": "/baɪk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "kitten",
+              "meaning": "con mèo con",
+              "phonetic": "/ˈkɪtn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "ball",
+              "meaning": "quả bóng",
+              "phonetic": "/bɔːl/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Is she/he flying a kite? - Yes, she/he is. / No, she/he isn't.",
+              "example": "Is she flying a kite? - Yes, she is.",
+              "meaning": "Cô ấy đang thả diều phải không? - Đúng vậy."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con diều'?",
+              "options": [
+                "kite",
+                "bike",
+                "kitten",
+                "ball"
+              ],
+              "correct_option": "kite"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy đang thả diều phải không? - Đúng vậy.'",
+              "options": [
+                "Is she flying a kite? - Yes, she is.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Is she flying a kite? - Yes, she is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u03",
+      "unit_title": "Unit 3: At the seaside",
+      "lessons": [
+        {
+          "lesson_id": "g2_u03_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "sail",
+              "meaning": "cánh buồm",
+              "phonetic": "/seɪl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sand",
+              "meaning": "cát",
+              "phonetic": "/sænd/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sea",
+              "meaning": "biển",
+              "phonetic": "/siː/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sun",
+              "meaning": "mặt trời",
+              "phonetic": "/sʌn/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Let's look at the [noun]!",
+              "example": "Let's look at the sea!",
+              "meaning": "Chúng ta hãy cùng nhìn ra biển nào!"
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'biển'?",
+              "options": [
+                "sail",
+                "sand",
+                "sea",
+                "sun"
+              ],
+              "correct_option": "sea"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Chúng ta hãy cùng nhìn ra biển nào!'",
+              "options": [
+                "Let's look at the sea!",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Let's look at the sea!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u04",
+      "unit_title": "Unit 4: In the countryside",
+      "lessons": [
+        {
+          "lesson_id": "g2_u04_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "rainbow",
+              "meaning": "cầu vồng",
+              "phonetic": "/ˈreɪnbəʊ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "river",
+              "meaning": "con sông",
+              "phonetic": "/ˈrɪvə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "road",
+              "meaning": "con đường",
+              "phonetic": "/rəʊd/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "lake",
+              "meaning": "hồ nước",
+              "phonetic": "/leɪk/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What can you see? - I can see a [noun].",
+              "example": "What can you see? - I can see a rainbow.",
+              "meaning": "Bạn có thể nhìn thấy gì? - Mình có thể nhìn thấy một cầu vồng."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'cầu vồng'?",
+              "options": [
+                "rainbow",
+                "river",
+                "road",
+                "lake"
+              ],
+              "correct_option": "rainbow"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn có thể nhìn thấy gì? - Mình có thể nhìn thấy một cầu vồng.'",
+              "options": [
+                "What can you see? - I can see a rainbow.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "What can you see? - I can see a rainbow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u05",
+      "unit_title": "Unit 5: In the classroom",
+      "lessons": [
+        {
+          "lesson_id": "g2_u05_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "question",
+              "meaning": "câu hỏi",
+              "phonetic": "/ˈkwestʃən/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "square",
+              "meaning": "hình vuông",
+              "phonetic": "/skweə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "quiz",
+              "meaning": "bài kiểm tra ngắn/đố vui",
+              "phonetic": "/kwɪz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pen",
+              "meaning": "bút mực",
+              "phonetic": "/pen/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's she/he doing? - She's/He's [v-ing] a [noun].",
+              "example": "What's he doing? - He's doing a quiz.",
+              "meaning": "Cậu ấy đang làm gì thế? - Cậu ấy đang làm bài đố vui."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'hình vuông'?",
+              "options": [
+                "question",
+                "square",
+                "quiz",
+                "pen"
+              ],
+              "correct_option": "square"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Cậu ấy đang làm gì thế? - Cậu ấy đang làm bài đố vui.'",
+              "options": [
+                "What's he doing? - He's doing a quiz.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "What's he doing? - He's doing a quiz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u06",
+      "unit_title": "Unit 6: On the farm",
+      "lessons": [
+        {
+          "lesson_id": "g2_u06_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "box",
+              "meaning": "cái hộp",
+              "phonetic": "/bɒks/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "fox",
+              "meaning": "con cáo",
+              "phonetic": "/fɒks/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "ox",
+              "meaning": "con bò đực",
+              "phonetic": "/ɒks/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "goat",
+              "meaning": "con dê",
+              "phonetic": "/ɡəʊt/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Is there a/an [noun]? - Yes, there is. / No, there isn't.",
+              "example": "Is there a fox? - Yes, there is.",
+              "meaning": "Có một con cáo ở đó phải không? - Đúng vậy, có một con."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con cáo'?",
+              "options": [
+                "box",
+                "fox",
+                "ox",
+                "goat"
+              ],
+              "correct_option": "fox"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Có một con cáo ở đó phải không? - Đúng vậy, có một con.'",
+              "options": [
+                "Is there a fox? - Yes, there is.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Is there a fox? - Yes, there is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u07",
+      "unit_title": "Unit 7: In the kitchen",
+      "lessons": [
+        {
+          "lesson_id": "g2_u07_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "juice",
+              "meaning": "nước ép",
+              "phonetic": "/dʒuːs/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "jelly",
+              "meaning": "thạch",
+              "phonetic": "/ˈdʒeli/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "jam",
+              "meaning": "mứt",
+              "phonetic": "/dʒæm/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "milk",
+              "meaning": "sữa",
+              "phonetic": "/mɪlk/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Pass me the [noun], please. - Here you are.",
+              "example": "Pass me the jam, please. - Here you are.",
+              "meaning": "Làm ơn đưa cho mình lọ mứt với. - Của bạn đây."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'mứt'?",
+              "options": [
+                "juice",
+                "jelly",
+                "jam",
+                "milk"
+              ],
+              "correct_option": "jam"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Làm ơn đưa cho mình lọ mứt với. - Của bạn đây.'",
+              "options": [
+                "Pass me the jam, please. - Here you are.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Pass me the jam, please. - Here you are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u08",
+      "unit_title": "Unit 8: In the village",
+      "lessons": [
+        {
+          "lesson_id": "g2_u08_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "village",
+              "meaning": "ngôi làng",
+              "phonetic": "/ˈvɪlɪdʒ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "van",
+              "meaning": "xe tải nhỏ",
+              "phonetic": "/væn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "volleyball",
+              "meaning": "môn bóng chuyền",
+              "phonetic": "/ˈvɒlibɔːl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bus",
+              "meaning": "xe buýt",
+              "phonetic": "/bʌs/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Can you draw a [noun]? - Yes, I can. / No, I can't.",
+              "example": "Can you draw a van? - Yes, I can.",
+              "meaning": "Bạn có thể vẽ một chiếc xe tải nhỏ không? - Mình có thể."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'xe tải nhỏ'?",
+              "options": [
+                "village",
+                "van",
+                "volleyball",
+                "bus"
+              ],
+              "correct_option": "van"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn có thể vẽ một chiếc xe tải nhỏ không? - Mình có thể.'",
+              "options": [
+                "Can you draw a van? - Yes, I can.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Can you draw a van? - Yes, I can."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u09",
+      "unit_title": "Unit 9: In the grocery store",
+      "lessons": [
+        {
+          "lesson_id": "g2_u09_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "yogurt",
+              "meaning": "sữa chua",
+              "phonetic": "/ˈjɒɡət/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "yams",
+              "meaning": "những củ khoai mỡ",
+              "phonetic": "/jæmz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "yo-yos",
+              "meaning": "những cái yo-yo",
+              "phonetic": "/ˈjəʊjəʊz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "apple",
+              "meaning": "quả táo",
+              "phonetic": "/ˈæpl/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What do you want? - I want some [noun].",
+              "example": "What do you want? - I want some yams.",
+              "meaning": "Bạn muốn mua gì? - Mình muốn một ít khoai mỡ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'sữa chua'?",
+              "options": [
+                "yogurt",
+                "yams",
+                "yo-yos",
+                "apple"
+              ],
+              "correct_option": "yogurt"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn muốn mua gì? - Mình muốn một ít khoai mỡ.'",
+              "options": [
+                "What do you want? - I want some yams.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "What do you want? - I want some yams."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u10",
+      "unit_title": "Unit 10: At the zoo",
+      "lessons": [
+        {
+          "lesson_id": "g2_u10_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "zoo",
+              "meaning": "sở thú",
+              "phonetic": "/zuː/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "zebu",
+              "meaning": "bò u/bò Zebu",
+              "phonetic": "/ˈziːbuː/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "zebra",
+              "meaning": "con ngựa vằn",
+              "phonetic": "/ˈzebrə/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "monkey",
+              "meaning": "con khỉ",
+              "phonetic": "/ˈmʌŋki/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Do you like the zoo? - Yes, I do. / No, I don't.",
+              "example": "Do you like the zoo? - Yes, I do.",
+              "meaning": "Bạn có thích sở thú không? - Mình có thích chứ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con ngựa vằn'?",
+              "options": [
+                "zoo",
+                "zebu",
+                "zebra",
+                "monkey"
+              ],
+              "correct_option": "zebra"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Bạn có thích sở thú không? - Mình có thích chứ.'",
+              "options": [
+                "Do you like the zoo? - Yes, I do.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Do you like the zoo? - Yes, I do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u11",
+      "unit_title": "Unit 11: In the playground",
+      "lessons": [
+        {
+          "lesson_id": "g2_u11_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "sliding",
+              "meaning": "đang trượt cầu tuột",
+              "phonetic": "/ˈslaɪdɪŋ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "riding",
+              "meaning": "đang cưỡi/lái xe",
+              "phonetic": "/ˈraɪdɪŋ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "driving",
+              "meaning": "đang lái xe ô tô",
+              "phonetic": "/ˈdraɪvɪŋ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "running",
+              "meaning": "đang chạy",
+              "phonetic": "/rʌn/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "They're [v-ing] [noun].",
+              "example": "They're driving cars.",
+              "meaning": "Họ đang lái những chiếc ô tô."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'đang lái xe ô tô'?",
+              "options": [
+                "sliding",
+                "riding",
+                "driving",
+                "running"
+              ],
+              "correct_option": "driving"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Họ đang lái những chiếc ô tô.'",
+              "options": [
+                "They're driving cars.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "They're driving cars."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u12",
+      "unit_title": "Unit 12: At the café",
+      "lessons": [
+        {
+          "lesson_id": "g2_u12_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "grapes",
+              "meaning": "những quả nho",
+              "phonetic": "/ɡreɪps/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cake",
+              "meaning": "bánh ngọt",
+              "phonetic": "/keɪk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "table",
+              "meaning": "cái bàn",
+              "phonetic": "/ˈteɪbl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cup",
+              "meaning": "cái cốc",
+              "phonetic": "/kʌp/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "The [noun] is/are on the table.",
+              "example": "The cake is on the table.",
+              "meaning": "Chiếc bánh ngọt đang ở trên bàn."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'những quả nho'?",
+              "options": [
+                "grapes",
+                "cake",
+                "table",
+                "cup"
+              ],
+              "correct_option": "grapes"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Chiếc bánh ngọt đang ở trên bàn.'",
+              "options": [
+                "The cake is on the table.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "The cake is on the table."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u13",
+      "unit_title": "Unit 13: In the maths class",
+      "lessons": [
+        {
+          "lesson_id": "g2_u13_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "eleven",
+              "meaning": "số mười một",
+              "phonetic": "/ɪˈlevn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "thirteen",
+              "meaning": "số mười ba",
+              "phonetic": "/ˌθɜːˈtiːn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "fourteen",
+              "meaning": "số mười bốn",
+              "phonetic": "/ˌfɔːˈtiːn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "fifteen",
+              "meaning": "số mười lăm",
+              "phonetic": "/ˌfɪfˈtiːn/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What number is it? - It's [number].",
+              "example": "What number is it? - It's eleven.",
+              "meaning": "Đây là số mấy vậy? - Đây là số mười một."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'số mười một'?",
+              "options": [
+                "eleven",
+                "thirteen",
+                "fourteen",
+                "fifteen"
+              ],
+              "correct_option": "eleven"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Đây là số mấy vậy? - Đây là số mười một.'",
+              "options": [
+                "What number is it? - It's eleven.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "What number is it? - It's eleven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u14",
+      "unit_title": "Unit 14: At home",
+      "lessons": [
+        {
+          "lesson_id": "g2_u14_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "brother",
+              "meaning": "anh/em trai",
+              "phonetic": "/ˈbrʌðə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sister",
+              "meaning": "chị/em gái",
+              "phonetic": "/ˈsɪstə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "grandmother",
+              "meaning": "bà",
+              "phonetic": "/ˈɡrænmʌðə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mother",
+              "meaning": "mẹ",
+              "phonetic": "/ˈmʌðə(r)/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "How old is your [family_member]? - He's/She's [number].",
+              "example": "How old is your brother? - He's nineteen.",
+              "meaning": "Anh trai của bạn bao nhiêu tuổi rồi? - Anh ấy 19 tuổi."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'anh/em trai'?",
+              "options": [
+                "brother",
+                "sister",
+                "grandmother",
+                "mother"
+              ],
+              "correct_option": "brother"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Anh trai của bạn bao nhiêu tuổi rồi? - Anh ấy 19 tuổi.'",
+              "options": [
+                "How old is your brother? - He's nineteen.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "How old is your brother? - He's nineteen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u15",
+      "unit_title": "Unit 15: In the clothes shop",
+      "lessons": [
+        {
+          "lesson_id": "g2_u15_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "shirts",
+              "meaning": "những chiếc áo sơ mi",
+              "phonetic": "/ʃɜːts/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "shoes",
+              "meaning": "đôi giày",
+              "phonetic": "/ʃuːz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "shorts",
+              "meaning": "những chiếc quần đùi",
+              "phonetic": "/ʃɔːts/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "hat",
+              "meaning": "cái mũ",
+              "phonetic": "/hæt/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Where are the [plural_noun]? - Over there.",
+              "example": "Where are the shoes? - Over there.",
+              "meaning": "Đôi giày ở đâu thế nhỉ? - Ở đằng kia kìa."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'đôi giày'?",
+              "options": [
+                "shirts",
+                "shoes",
+                "shorts",
+                "hat"
+              ],
+              "correct_option": "shoes"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Đôi giày ở đâu thế nhỉ? - Ở đằng kia kìa.'",
+              "options": [
+                "Where are the shoes? - Over there.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Where are the shoes? - Over there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g2_u16",
+      "unit_title": "Unit 16: At the campsite",
+      "lessons": [
+        {
+          "lesson_id": "g2_u16_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "tent",
+              "meaning": "cái lều",
+              "phonetic": "/tent/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "teapot",
+              "meaning": "ấm trà",
+              "phonetic": "/ˈtiːpɒt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "blanket",
+              "meaning": "cái chăn/mền",
+              "phonetic": "/ˈblæŋkɪt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "box",
+              "meaning": "cái hộp",
+              "phonetic": "/bɒks/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Is the [noun] near the [noun]? - No, it isn't. It's in the [noun].",
+              "example": "Is the blanket near the tent? - No, it isn't. It's in the tent.",
+              "meaning": "Cái chăn ở gần cái lều phải không? - Không phải, nó ở bên trong lều."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'cái lều'?",
+              "options": [
+                "tent",
+                "teapot",
+                "blanket",
+                "box"
+              ],
+              "correct_option": "tent"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Cái chăn ở gần cái lều phải không? - Không phải, nó ở bên trong lều.'",
+              "options": [
+                "Is the blanket near the tent? - No, it isn't. It's in the tent.",
+                "Incorrect Pattern 1",
+                "Incorrect Pattern 2",
+                "Incorrect Pattern 3"
+              ],
+              "correct_option": "Is the blanket near the tent? - No, it isn't. It's in the tent."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

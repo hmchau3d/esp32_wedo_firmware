@@ -1,0 +1,1306 @@
+{
+  "grade_id": "grade_03",
+  "grade_title": "Grade 3 - Tiếng Anh Lớp 3",
+  "units": [
+    {
+      "unit_id": "g3_u01",
+      "unit_title": "Unit 1: Hello",
+      "lessons": [
+        {
+          "lesson_id": "g3_u01_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "hello",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "hi",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "goodbye",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bye",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Hello. / Hi. I'm ...",
+              "example": "Hi. I'm Mai.",
+              "meaning": "Xin chào. Mình là Mai."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 1: Hello?",
+              "options": [
+                "hello",
+                "hi",
+                "goodbye",
+                "bye"
+              ],
+              "correct_option": "hello"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Xin chào. Mình là Mai.'",
+              "options": [
+                "Hi. I'm Mai.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Hi. I'm Mai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u02",
+      "unit_title": "Unit 2: Our names",
+      "lessons": [
+        {
+          "lesson_id": "g3_u02_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "name",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "what",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "your",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "my",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's your name? - My name's ...",
+              "example": "What's your name? - My name's Nam.",
+              "meaning": "Tên bạn là gì? - Tên mình là Nam."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 2: Our names?",
+              "options": [
+                "name",
+                "what",
+                "your",
+                "my"
+              ],
+              "correct_option": "name"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Tên bạn là gì? - Tên mình là Nam.'",
+              "options": [
+                "What's your name? - My name's Nam.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What's your name? - My name's Nam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u03",
+      "unit_title": "Unit 3: Our friends",
+      "lessons": [
+        {
+          "lesson_id": "g3_u03_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "friend",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "this",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "that",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "teacher",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "This is ... / That's ...",
+              "example": "This is Ms Hoa.",
+              "meaning": "Đây là cô Hoa."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 3: Our friends?",
+              "options": [
+                "friend",
+                "this",
+                "that",
+                "teacher"
+              ],
+              "correct_option": "friend"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Đây là cô Hoa.'",
+              "options": [
+                "This is Ms Hoa.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "This is Ms Hoa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u04",
+      "unit_title": "Unit 4: Our bodies",
+      "lessons": [
+        {
+          "lesson_id": "g3_u04_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "eye",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "ear",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "nose",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mouth",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's this? - It's ...",
+              "example": "What's this? - It's an eye.",
+              "meaning": "Đây là cái gì? - Nó là một con mắt."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 4: Our bodies?",
+              "options": [
+                "eye",
+                "ear",
+                "nose",
+                "mouth"
+              ],
+              "correct_option": "eye"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Đây là cái gì? - Nó là một con mắt.'",
+              "options": [
+                "What's this? - It's an eye.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What's this? - It's an eye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u05",
+      "unit_title": "Unit 5: My hobbies",
+      "lessons": [
+        {
+          "lesson_id": "g3_u05_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "running",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "swimming",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "dancing",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "singing",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's your hobby? - I like ...",
+              "example": "What's your hobby? - I like running.",
+              "meaning": "Sở thích của bạn là gì? - Mình thích chạy bộ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 5: My hobbies?",
+              "options": [
+                "running",
+                "swimming",
+                "dancing",
+                "singing"
+              ],
+              "correct_option": "running"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Sở thích của bạn là gì? - Mình thích chạy bộ.'",
+              "options": [
+                "What's your hobby? - I like running.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What's your hobby? - I like running."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u06",
+      "unit_title": "Unit 6: My school",
+      "lessons": [
+        {
+          "lesson_id": "g3_u06_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "school",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "classroom",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "library",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "gym",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Let's go to the ... - OK, let's go.",
+              "example": "Let's go to the library. - OK, let's go.",
+              "meaning": "Chúng ta hãy đến thư viện nào. - Được thôi, đi nào."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 6: My school?",
+              "options": [
+                "school",
+                "classroom",
+                "library",
+                "gym"
+              ],
+              "correct_option": "school"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Chúng ta hãy đến thư viện nào. - Được thôi, đi nào.'",
+              "options": [
+                "Let's go to the library. - OK, let's go.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Let's go to the library. - OK, let's go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u07",
+      "unit_title": "Unit 7: Classroom instructions",
+      "lessons": [
+        {
+          "lesson_id": "g3_u07_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "open",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "close",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sit down",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "stand up",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "May I ...? - Yes, you can.",
+              "example": "May I come in? - Yes, you can.",
+              "meaning": "Em xin phép vào lớp được không ạ? - Được chứ, em vào đi."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 7: Classroom instructions?",
+              "options": [
+                "open",
+                "close",
+                "sit down",
+                "stand up"
+              ],
+              "correct_option": "open"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Em xin phép vào lớp được không ạ? - Được chứ, em vào đi.'",
+              "options": [
+                "May I come in? - Yes, you can.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "May I come in? - Yes, you can."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u08",
+      "unit_title": "Unit 8: My school things",
+      "lessons": [
+        {
+          "lesson_id": "g3_u08_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "book",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pen",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pencil",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "ruler",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Do you have ...? - Yes, I do.",
+              "example": "Do you have a pen? - Yes, I do.",
+              "meaning": "Bạn có bút mực không? - Có, mình có."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 8: My school things?",
+              "options": [
+                "book",
+                "pen",
+                "pencil",
+                "ruler"
+              ],
+              "correct_option": "book"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn có bút mực không? - Có, mình có.'",
+              "options": [
+                "Do you have a pen? - Yes, I do.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Do you have a pen? - Yes, I do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u09",
+      "unit_title": "Unit 9: Colours",
+      "lessons": [
+        {
+          "lesson_id": "g3_u09_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "red",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "blue",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "yellow",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "green",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What colour is it? - It's ...",
+              "example": "What colour is it? - It's red.",
+              "meaning": "Nó có màu gì thế? - Nó màu đỏ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 9: Colours?",
+              "options": [
+                "red",
+                "blue",
+                "yellow",
+                "green"
+              ],
+              "correct_option": "red"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Nó có màu gì thế? - Nó màu đỏ.'",
+              "options": [
+                "What colour is it? - It's red.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What colour is it? - It's red."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u10",
+      "unit_title": "Unit 10: Break time",
+      "lessons": [
+        {
+          "lesson_id": "g3_u10_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "football",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "chess",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "badminton",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "chat",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What do you do at break time?",
+              "example": "What do you do at break time? - I play chess.",
+              "meaning": "Bạn làm gì vào giờ giải lao? - Mình chơi cờ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 10: Break time?",
+              "options": [
+                "football",
+                "chess",
+                "badminton",
+                "chat"
+              ],
+              "correct_option": "football"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn làm gì vào giờ giải lao? - Mình chơi cờ.'",
+              "options": [
+                "What do you do at break time? - I play chess.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What do you do at break time? - I play chess."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u11",
+      "unit_title": "Unit 11: My family",
+      "lessons": [
+        {
+          "lesson_id": "g3_u11_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "father",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mother",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "brother",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sister",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "How old is he / she? - He's / She's ...",
+              "example": "How old is your sister? - She's fifteen.",
+              "meaning": "Chị gái bạn bao nhiêu tuổi? - Chị ấy 15 tuổi."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 11: My family?",
+              "options": [
+                "father",
+                "mother",
+                "brother",
+                "sister"
+              ],
+              "correct_option": "father"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Chị gái bạn bao nhiêu tuổi? - Chị ấy 15 tuổi.'",
+              "options": [
+                "How old is your sister? - She's fifteen.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "How old is your sister? - She's fifteen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u12",
+      "unit_title": "Unit 12: Jobs",
+      "lessons": [
+        {
+          "lesson_id": "g3_u12_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "teacher",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "doctor",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "nurse",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "worker",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's his / her job? - He's / She's ...",
+              "example": "What's her job? - She's a nurse.",
+              "meaning": "Công việc của cô ấy là gì? - Cô ấy là một y tá."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 12: Jobs?",
+              "options": [
+                "teacher",
+                "doctor",
+                "nurse",
+                "worker"
+              ],
+              "correct_option": "teacher"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Công việc của cô ấy là gì? - Cô ấy là một y tá.'",
+              "options": [
+                "What's her job? - She's a nurse.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What's her job? - She's a nurse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u13",
+      "unit_title": "Unit 13: My house",
+      "lessons": [
+        {
+          "lesson_id": "g3_u13_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "house",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "living room",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bedroom",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "kitchen",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Where's the ...? - It's here / there.",
+              "example": "Where's the kitchen? - It's here.",
+              "meaning": "Nhà bếp ở đâu thế? - Nó ở đây."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 13: My house?",
+              "options": [
+                "house",
+                "living room",
+                "bedroom",
+                "kitchen"
+              ],
+              "correct_option": "house"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Nhà bếp ở đâu thế? - Nó ở đây.'",
+              "options": [
+                "Where's the kitchen? - It's here.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Where's the kitchen? - It's here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u14",
+      "unit_title": "Unit 14: My bedroom",
+      "lessons": [
+        {
+          "lesson_id": "g3_u14_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "bed",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "desk",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "window",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "door",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "There's / There are ... in the room.",
+              "example": "There's a bed in the room.",
+              "meaning": "Có một cái giường ở trong phòng."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 14: My bedroom?",
+              "options": [
+                "bed",
+                "desk",
+                "window",
+                "door"
+              ],
+              "correct_option": "bed"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Có một cái giường ở trong phòng.'",
+              "options": [
+                "There's a bed in the room.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "There's a bed in the room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u15",
+      "unit_title": "Unit 15: At the dining table",
+      "lessons": [
+        {
+          "lesson_id": "g3_u15_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "chicken",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "fish",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "milk",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "water",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Would you like some ...? - Yes, please.",
+              "example": "Would you like some milk? - Yes, please.",
+              "meaning": "Bạn có muốn một ít sữa không? - Vâng, làm ơn."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 15: At the dining table?",
+              "options": [
+                "chicken",
+                "fish",
+                "milk",
+                "water"
+              ],
+              "correct_option": "chicken"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn có muốn một ít sữa không? - Vâng, làm ơn.'",
+              "options": [
+                "Would you like some milk? - Yes, please.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "Would you like some milk? - Yes, please."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u16",
+      "unit_title": "Unit 16: My pets",
+      "lessons": [
+        {
+          "lesson_id": "g3_u16_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "cat",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "dog",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bird",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "rabbit",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "How many ... do you have? - I have ...",
+              "example": "How many dogs do you have? - I have two.",
+              "meaning": "Bạn có bao nhiêu con chó? - Mình có hai con."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 16: My pets?",
+              "options": [
+                "cat",
+                "dog",
+                "bird",
+                "rabbit"
+              ],
+              "correct_option": "cat"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn có bao nhiêu con chó? - Mình có hai con.'",
+              "options": [
+                "How many dogs do you have? - I have two.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "How many dogs do you have? - I have two."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u17",
+      "unit_title": "Unit 17: Our toys",
+      "lessons": [
+        {
+          "lesson_id": "g3_u17_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "car",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "truck",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "train",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "kite",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "He / She has ...",
+              "example": "She has a doll.",
+              "meaning": "Cô ấy có một con búp bê."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 17: Our toys?",
+              "options": [
+                "car",
+                "truck",
+                "train",
+                "kite"
+              ],
+              "correct_option": "car"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Cô ấy có một con búp bê.'",
+              "options": [
+                "She has a doll.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "She has a doll."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u18",
+      "unit_title": "Unit 18: Playing and doing",
+      "lessons": [
+        {
+          "lesson_id": "g3_u18_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "reading",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "writing",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "singing",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "dancing",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What are you doing? - I'm ...",
+              "example": "What are you doing? - I'm reading.",
+              "meaning": "Bạn đang làm gì thế? - Mình đang đọc sách."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 18: Playing and doing?",
+              "options": [
+                "reading",
+                "writing",
+                "singing",
+                "dancing"
+              ],
+              "correct_option": "reading"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn đang làm gì thế? - Mình đang đọc sách.'",
+              "options": [
+                "What are you doing? - I'm reading.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What are you doing? - I'm reading."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u19",
+      "unit_title": "Unit 19: Outdoor activities",
+      "lessons": [
+        {
+          "lesson_id": "g3_u19_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "cycling",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "skating",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "skipping",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "walking",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What's he / she doing? - He's / She's ...",
+              "example": "What's she doing? - She's cycling.",
+              "meaning": "Cô ấy đang làm gì ngoài trời thế? - Cô ấy đang đạp xe."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 19: Outdoor activities?",
+              "options": [
+                "cycling",
+                "skating",
+                "skipping",
+                "walking"
+              ],
+              "correct_option": "cycling"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Cô ấy đang làm gì ngoài trời thế? - Cô ấy đang đạp xe.'",
+              "options": [
+                "What's she doing? - She's cycling.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What's she doing? - She's cycling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g3_u20",
+      "unit_title": "Unit 20: At the zoo",
+      "lessons": [
+        {
+          "lesson_id": "g3_u20_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "monkey",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "tiger",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "elephant",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "horse",
+              "meaning": "Từ vựng lớp 3",
+              "phonetic": "...",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "What can you see? - I can see ...",
+              "example": "What can you see? - I can see a monkey.",
+              "meaning": "Bạn nhìn thấy gì? - Mình nhìn thấy một con khỉ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây thuộc chủ đề Unit 20: At the zoo?",
+              "options": [
+                "monkey",
+                "tiger",
+                "elephant",
+                "horse"
+              ],
+              "correct_option": "monkey"
+            },
+            {
+              "question_text": "Dịch câu sau: 'Bạn nhìn thấy gì? - Mình nhìn thấy một con khỉ.'",
+              "options": [
+                "What can you see? - I can see a monkey.",
+                "Incorrect 1",
+                "Incorrect 2",
+                "Incorrect 3"
+              ],
+              "correct_option": "What can you see? - I can see a monkey."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
