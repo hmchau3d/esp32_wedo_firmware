@@ -1,0 +1,1028 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "units": [
+    {
+      "unit_id": "g1_u01",
+      "unit_title": "Unit 1: In the school playground",
+      "lessons": [
+        {
+          "lesson_id": "g1_u01_l1",
+          "lesson_title": "Lesson 1: Letter B sounds",
+          "vocabulary": [
+            {
+              "word": "book",
+              "meaning": "quyển sách",
+              "phonetic": "/bʊk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bike",
+              "meaning": "xe đạp",
+              "phonetic": "/baɪk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "ball",
+              "meaning": "quả bóng",
+              "phonetic": "/bɔːl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "boy",
+              "meaning": "cậu bé",
+              "phonetic": "/bɔɪ/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Hi, I'm [name]. / Bye, [name].",
+              "example": "Hi, I'm Bill. Bye, Bill.",
+              "meaning": "Xin chào, mình là Bill. Tạm biệt Bill."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'quyển sách'?",
+              "options": [
+                "book",
+                "bike",
+                "ball",
+                "boy"
+              ],
+              "correct_option": "book"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Xin chào, mình là Bill.'",
+              "options": [
+                "Hi, I'm Bill.",
+                "Bye, Bill.",
+                "How are you?",
+                "Goodbye!"
+              ],
+              "correct_option": "Hi, I'm Bill."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u02",
+      "unit_title": "Unit 2: In the dining room",
+      "lessons": [
+        {
+          "lesson_id": "g1_u02_l1",
+          "lesson_title": "Lesson 1: Letter C sounds",
+          "vocabulary": [
+            {
+              "word": "cat",
+              "meaning": "con mèo",
+              "phonetic": "/kæt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "car",
+              "meaning": "ô tô",
+              "phonetic": "/kɑːr/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cake",
+              "meaning": "bánh ngọt",
+              "phonetic": "/keɪk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "cup",
+              "meaning": "cái cốc",
+              "phonetic": "/kʌp/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "I have a [noun].",
+              "example": "I have a car.",
+              "meaning": "Mình có một chiếc ô tô."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con mèo'?",
+              "options": [
+                "cat",
+                "car",
+                "cake",
+                "cup"
+              ],
+              "correct_option": "cat"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Mình có một chiếc ô tô.'",
+              "options": [
+                "I have a car.",
+                "I can see a cat.",
+                "Look at the car.",
+                "This is a car."
+              ],
+              "correct_option": "I have a car."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u03",
+      "unit_title": "Unit 3: At the street market",
+      "lessons": [
+        {
+          "lesson_id": "g1_u03_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "apple",
+              "meaning": "quả táo",
+              "phonetic": "/ˈæpl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "bag",
+              "meaning": "cái túi",
+              "phonetic": "/bæɡ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "can",
+              "meaning": "cái lon",
+              "phonetic": "/kæn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "hat",
+              "meaning": "cái mũ",
+              "phonetic": "/hæt/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "This is my [noun].",
+              "example": "This is my bag.",
+              "meaning": "Đây là cái túi của mình."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'quả táo'?",
+              "options": [
+                "apple",
+                "bag",
+                "can",
+                "hat"
+              ],
+              "correct_option": "apple"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Đây là cái túi của mình.'",
+              "options": [
+                "This is my bag.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "This is my bag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u04",
+      "unit_title": "Unit 4: In the bedroom",
+      "lessons": [
+        {
+          "lesson_id": "g1_u04_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "desk",
+              "meaning": "bàn học",
+              "phonetic": "/desk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "dog",
+              "meaning": "con chó",
+              "phonetic": "/dɒɡ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "door",
+              "meaning": "cửa ra vào",
+              "phonetic": "/dɔː(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "duck",
+              "meaning": "con vịt",
+              "phonetic": "/dʌk/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "This is a [noun].",
+              "example": "This is a dog.",
+              "meaning": "Đây là một con chó."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con vịt'?",
+              "options": [
+                "desk",
+                "dog",
+                "door",
+                "duck"
+              ],
+              "correct_option": "duck"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Đây là một con chó.'",
+              "options": [
+                "This is a dog.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "This is a dog."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u05",
+      "unit_title": "Unit 5: At the fish and chip shop",
+      "lessons": [
+        {
+          "lesson_id": "g1_u05_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "fish",
+              "meaning": "con cá",
+              "phonetic": "/fɪʃ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "chips",
+              "meaning": "khoai tây chiên",
+              "phonetic": "/tʃɪps/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "milk",
+              "meaning": "sữa",
+              "phonetic": "/mɪlk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "chicken",
+              "meaning": "thịt gà",
+              "phonetic": "/ˈtʃɪkɪn/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "I like [food/drink].",
+              "example": "I like milk.",
+              "meaning": "Mình thích sữa."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'khoai tây chiên'?",
+              "options": [
+                "fish",
+                "chips",
+                "milk",
+                "chicken"
+              ],
+              "correct_option": "chips"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Mình thích sữa.'",
+              "options": [
+                "I like milk.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "I like milk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u06",
+      "unit_title": "Unit 6: In the classroom",
+      "lessons": [
+        {
+          "lesson_id": "g1_u06_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "bell",
+              "meaning": "cái chuông",
+              "phonetic": "/bel/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pen",
+              "meaning": "bút mực",
+              "phonetic": "/pen/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pencil",
+              "meaning": "bút chì",
+              "phonetic": "/ˈpensl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "red",
+              "meaning": "màu đỏ",
+              "phonetic": "/red/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "It's a red [noun].",
+              "example": "It's a red pen.",
+              "meaning": "Nó là một cái bút mực màu đỏ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'bút chì'?",
+              "options": [
+                "bell",
+                "pen",
+                "pencil",
+                "red"
+              ],
+              "correct_option": "pencil"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Nó là một cái bút mực màu đỏ.'",
+              "options": [
+                "It's a red pen.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "It's a red pen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u07",
+      "unit_title": "Unit 7: In the garden",
+      "lessons": [
+        {
+          "lesson_id": "g1_u07_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "garden",
+              "meaning": "khu vườn",
+              "phonetic": "/ˈɡɑːdn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "gate",
+              "meaning": "cái cổng",
+              "phonetic": "/ɡeɪt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "girl",
+              "meaning": "cô bé",
+              "phonetic": "/ɡɜːl/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "goat",
+              "meaning": "con dê",
+              "phonetic": "/ɡəʊt/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "There's a [noun].",
+              "example": "There's a garden.",
+              "meaning": "Có một khu vườn."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con dê'?",
+              "options": [
+                "garden",
+                "gate",
+                "girl",
+                "goat"
+              ],
+              "correct_option": "goat"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Có một khu vườn.'",
+              "options": [
+                "There's a garden.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "There's a garden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u08",
+      "unit_title": "Unit 8: In the park",
+      "lessons": [
+        {
+          "lesson_id": "g1_u08_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "hair",
+              "meaning": "tóc",
+              "phonetic": "/heə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "hand",
+              "meaning": "bàn tay",
+              "phonetic": "/hænd/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "head",
+              "meaning": "cái đầu",
+              "phonetic": "/hed/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "horse",
+              "meaning": "con ngựa",
+              "phonetic": "/hɔːs/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Touch your [body_part].",
+              "example": "Touch your hair.",
+              "meaning": "Hãy chạm vào tóc của bạn."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con ngựa'?",
+              "options": [
+                "hair",
+                "hand",
+                "head",
+                "horse"
+              ],
+              "correct_option": "horse"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Hãy chạm vào tóc của bạn.'",
+              "options": [
+                "Touch your hair.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "Touch your hair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u09",
+      "unit_title": "Unit 9: In the shop",
+      "lessons": [
+        {
+          "lesson_id": "g1_u09_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "clocks",
+              "meaning": "những chiếc đồng hồ",
+              "phonetic": "/klɒks/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "locks",
+              "meaning": "những cái ổ khóa",
+              "phonetic": "/lɒks/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mops",
+              "meaning": "những cái cây lau nhà",
+              "phonetic": "/mɒps/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "pots",
+              "meaning": "những cái nồi",
+              "phonetic": "/pɒts/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "How many [plural_noun]? - [number].",
+              "example": "How many clocks? - Two.",
+              "meaning": "Có bao nhiêu cái đồng hồ? - Hai cái."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'những cái nồi'?",
+              "options": [
+                "clocks",
+                "locks",
+                "mops",
+                "pots"
+              ],
+              "correct_option": "pots"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Có bao nhiêu cái đồng hồ?'",
+              "options": [
+                "How many clocks?",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "How many clocks?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u10",
+      "unit_title": "Unit 10: At the zoo",
+      "lessons": [
+        {
+          "lesson_id": "g1_u10_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "mango",
+              "meaning": "quả xoài",
+              "phonetic": "/ˈmæŋɡəʊ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "monkey",
+              "meaning": "con khỉ",
+              "phonetic": "/ˈmʌŋki/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mother",
+              "meaning": "mẹ",
+              "phonetic": "/ˈmʌðə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "mouse",
+              "meaning": "con chuột",
+              "phonetic": "/maʊs/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "That's a [noun].",
+              "example": "That's a monkey.",
+              "meaning": "Kia là một con khỉ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'quả xoài'?",
+              "options": [
+                "mango",
+                "monkey",
+                "mother",
+                "mouse"
+              ],
+              "correct_option": "mango"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Kia là một con khỉ.'",
+              "options": [
+                "That's a monkey.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "That's a monkey."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u11",
+      "unit_title": "Unit 11: At the bus stop",
+      "lessons": [
+        {
+          "lesson_id": "g1_u11_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "bus",
+              "meaning": "xe buýt",
+              "phonetic": "/bʌs/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "run",
+              "meaning": "chạy",
+              "phonetic": "/rʌn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "sun",
+              "meaning": "mặt trời",
+              "phonetic": "/sʌn/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "truck",
+              "meaning": "xe tải",
+              "phonetic": "/trʌk/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "She's/He's [v-ing].",
+              "example": "She's running.",
+              "meaning": "Cô ấy đang chạy."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'xe tải'?",
+              "options": [
+                "bus",
+                "run",
+                "sun",
+                "truck"
+              ],
+              "correct_option": "truck"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy đang chạy.'",
+              "options": [
+                "She's running.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "She's running."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u12",
+      "unit_title": "Unit 12: At the lake",
+      "lessons": [
+        {
+          "lesson_id": "g1_u12_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "lake",
+              "meaning": "hồ nước",
+              "phonetic": "/leɪk/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "leaf",
+              "meaning": "chiếc lá",
+              "phonetic": "/liːf/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "lemons",
+              "meaning": "những quả chanh vàng",
+              "phonetic": "/ˈlemənz/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Look at the [plural_noun/noun].",
+              "example": "Look at the lemons.",
+              "meaning": "Hãy nhìn những quả chanh kìa."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'chiếc lá'?",
+              "options": [
+                "lake",
+                "leaf",
+                "lemons",
+                "other_item"
+              ],
+              "correct_option": "leaf"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Hãy nhìn những quả chanh kìa.'",
+              "options": [
+                "Look at the lemons.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "Look at the lemons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u13",
+      "unit_title": "Unit 13: In the school canteen",
+      "lessons": [
+        {
+          "lesson_id": "g1_u13_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "bananas",
+              "meaning": "những quả chuối",
+              "phonetic": "/bəˈnɑːnəz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "noodles",
+              "meaning": "mì/bún/phở",
+              "phonetic": "/ˈnuːdlz/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "nuts",
+              "meaning": "các loại hạt",
+              "phonetic": "/nʌts/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "She's/He's having [food].",
+              "example": "She's having noodles.",
+              "meaning": "Cô ấy đang ăn mì."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'các loại hạt'?",
+              "options": [
+                "bananas",
+                "noodles",
+                "nuts",
+                "other_item"
+              ],
+              "correct_option": "nuts"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy đang ăn mì.'",
+              "options": [
+                "She's having noodles.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "She's having noodles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u14",
+      "unit_title": "Unit 14: In the toy shop",
+      "lessons": [
+        {
+          "lesson_id": "g1_u14_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "teddy bear",
+              "meaning": "gấu bông",
+              "phonetic": "/ˈtedi beə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "tiger",
+              "meaning": "con hổ",
+              "phonetic": "/ˈtaɪɡə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "top",
+              "meaning": "con quay",
+              "phonetic": "/tɒp/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "turtle",
+              "meaning": "con rùa",
+              "phonetic": "/ˈtɜːtl/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "I can see a [noun].",
+              "example": "I can see a tiger.",
+              "meaning": "Mình có thể nhìn thấy một con hổ."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'con rùa'?",
+              "options": [
+                "teddy bear",
+                "tiger",
+                "top",
+                "turtle"
+              ],
+              "correct_option": "turtle"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Mình có thể nhìn thấy một con hổ.'",
+              "options": [
+                "I can see a tiger.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "I can see a tiger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u15",
+      "unit_title": "Unit 15: At the football match",
+      "lessons": [
+        {
+          "lesson_id": "g1_u15_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "face",
+              "meaning": "khuôn mặt",
+              "phonetic": "/feɪs/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "father",
+              "meaning": "bố/cha",
+              "phonetic": "/ˈfɑːðə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "foot",
+              "meaning": "bàn chân",
+              "phonetic": "/fʊt/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "football",
+              "meaning": "quả bóng đá/môn bóng đá",
+              "phonetic": "/ˈfʊtbɔːl/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "Point to your [body_part].",
+              "example": "Point to your hand.",
+              "meaning": "Hãy chỉ vào bàn tay của bạn."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'khuôn mặt'?",
+              "options": [
+                "face",
+                "father",
+                "foot",
+                "football"
+              ],
+              "correct_option": "face"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Hãy chỉ vào bàn tay của bạn.'",
+              "options": [
+                "Point to your hand.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "Point to your hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "g1_u16",
+      "unit_title": "Unit 16: At home",
+      "lessons": [
+        {
+          "lesson_id": "g1_u16_l1",
+          "lesson_title": "Lesson 1",
+          "vocabulary": [
+            {
+              "word": "wash",
+              "meaning": "rửa/giặt",
+              "phonetic": "/wɒʃ/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "water",
+              "meaning": "nước",
+              "phonetic": "/ˈwɔːtə(r)/",
+              "image_url": "https://freepik.com"
+            },
+            {
+              "word": "window",
+              "meaning": "cửa sổ",
+              "phonetic": "/ˈwɪndəʊ/",
+              "image_url": "https://freepik.com"
+            }
+          ],
+          "sentence_structures": [
+            {
+              "pattern": "How many [plural_noun] can you see? - I can see [number].",
+              "example": "How many windows can you see? - I can see six.",
+              "meaning": "Bạn có thể nhìn thấy bao nhiêu cửa sổ? - Mình có thể nhìn thấy sáu cái."
+            }
+          ],
+          "quiz_questions": [
+            {
+              "question_text": "Từ nào sau đây có nghĩa là 'cửa sổ'?",
+              "options": [
+                "wash",
+                "water",
+                "window",
+                "other_item"
+              ],
+              "correct_option": "window"
+            },
+            {
+              "question_text": "Dịch câu sau sang tiếng Anh: 'Mình có thể nhìn thấy sáu cái.'",
+              "options": [
+                "I can see six.",
+                "Incorrect Option 1",
+                "Incorrect Option 2",
+                "Incorrect Option 3"
+              ],
+              "correct_option": "I can see six."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
