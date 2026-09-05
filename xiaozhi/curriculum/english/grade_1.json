@@ -14,28 +14,28 @@
               "word": "book",
               "meaning": "quyển sách",
               "phonetic": "/bʊk/",
-              "image_url": "https://cdn-icons-png.flaticon.com/128/207/207114.png"
+              "image_url": "https://cdn-icons-png.flaticon.com/128/207/207114.png",
               "image_bin_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/raw/refs/heads/main/xiaozhi/curriculum/english/bin_grade_1/book.bin"
             },
             {
               "word": "bike",
               "meaning": "xe đạp",
               "phonetic": "/baɪk/",
-              "image_url": "https://cdn-icons-png.flaticon.com/128/9842/9842386.png"
+              "image_url": "https://cdn-icons-png.flaticon.com/128/9842/9842386.png",
               "image_bin_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/raw/refs/heads/main/xiaozhi/curriculum/english/bin_grade_1/bike.bin"
             },
             {
               "word": "ball",
               "meaning": "quả bóng",
               "phonetic": "/bɔːl/",
-              "image_url": "https://cdn-icons-png.flaticon.com/128/5285/5285691.png"
+              "image_url": "https://cdn-icons-png.flaticon.com/128/5285/5285691.png",
               "image_bin_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/raw/refs/heads/main/xiaozhi/curriculum/english/bin_grade_1/ball.bin"
             },
             {
               "word": "boy",
               "meaning": "cậu bé",
               "phonetic": "/bɔɪ/",
-              "image_url": "https://cdn-icons-png.flaticon.com/128/2059/2059570.png"
+              "image_url": "https://cdn-icons-png.flaticon.com/128/2059/2059570.png",
               "image_bin_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/raw/refs/heads/main/xiaozhi/curriculum/english/bin_grade_1/boy.bin"
             }
           ],
