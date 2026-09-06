@@ -1,0 +1,138 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u14",
+  "unit_title": "Unit 14: In the toy shop",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "turtle",
+          "meaning": "con rùa"
+        },
+        {
+          "word": "tiger",
+          "meaning": "con hổ"
+        },
+        {
+          "word": "teddy bear",
+          "meaning": "con gấu bông"
+        },
+        {
+          "word": "top",
+          "meaning": "con quay"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "I can see a [thing].",
+          "example": "I can see a tiger.",
+          "meaning": "Mình có thể nhìn thấy một [đồ vật/con vật]."
+        },
+        {
+          "pattern": "It's/He's in the toy shop.",
+          "example": "It's in the toy shop. / He's in the toy shop.",
+          "meaning": "Nó/Bạn ấy ở trong cửa hàng đồ chơi."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con rùa'?",
+          "options": [
+            "tiger",
+            "teddy bear",
+            "top",
+            "turtle"
+          ],
+          "correct_option": "turtle"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con hổ'?",
+          "options": [
+            "turtle",
+            "teddy bear",
+            "top",
+            "tiger"
+          ],
+          "correct_option": "tiger"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con gấu bông'?",
+          "options": [
+            "turtle",
+            "tiger",
+            "top",
+            "teddy bear"
+          ],
+          "correct_option": "teddy bear"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "I can see a tiger.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "I can see a tiger."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "61",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "62",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "63",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

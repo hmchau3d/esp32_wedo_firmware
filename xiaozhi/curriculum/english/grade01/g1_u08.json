@@ -1,0 +1,141 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u08",
+  "unit_title": "Unit 8: In the park",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "hair",
+          "meaning": "tóc"
+        },
+        {
+          "word": "head",
+          "meaning": "đầu"
+        },
+        {
+          "word": "horse",
+          "meaning": "con ngựa"
+        },
+        {
+          "word": "hand",
+          "meaning": "bàn tay"
+        },
+        {
+          "word": "wash",
+          "meaning": "lau"
+        },
+        {
+          "word": "water",
+          "meaning": "nước"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "Touch your [body part].",
+          "example": "Touch your head. / Touch your hair. / Touch your hand. / Touch your horse.",
+          "meaning": "Chạm vào [bộ phận/cái]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'tóc'?",
+          "options": [
+            "head",
+            "horse",
+            "hand",
+            "hair"
+          ],
+          "correct_option": "hair"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'đầu'?",
+          "options": [
+            "hair",
+            "horse",
+            "hand",
+            "head"
+          ],
+          "correct_option": "head"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con ngựa'?",
+          "options": [
+            "hair",
+            "head",
+            "hand",
+            "horse"
+          ],
+          "correct_option": "horse"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "Touch your head.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "Touch your head."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "35",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "36",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "37",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

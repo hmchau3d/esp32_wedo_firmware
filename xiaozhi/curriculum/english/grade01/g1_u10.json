@@ -1,0 +1,138 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u10",
+  "unit_title": "Unit 10: At the zoo",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "monkey",
+          "meaning": "con khỉ"
+        },
+        {
+          "word": "mango",
+          "meaning": "quả xoài"
+        },
+        {
+          "word": "mother",
+          "meaning": "mẹ"
+        },
+        {
+          "word": "mouse",
+          "meaning": "con chuột"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "That's a [thing].",
+          "example": "That's a monkey. / That's a mango.",
+          "meaning": "Đó là một [đồ vật/con vật]."
+        },
+        {
+          "pattern": "That's my [person].",
+          "example": "That's my mother.",
+          "meaning": "Đó là [người] của mình."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con khỉ'?",
+          "options": [
+            "mango",
+            "mother",
+            "mouse",
+            "monkey"
+          ],
+          "correct_option": "monkey"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'quả xoài'?",
+          "options": [
+            "monkey",
+            "mother",
+            "mouse",
+            "mango"
+          ],
+          "correct_option": "mango"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'mẹ'?",
+          "options": [
+            "monkey",
+            "mango",
+            "mouse",
+            "mother"
+          ],
+          "correct_option": "mother"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "That's a monkey.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "That's a monkey."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "45",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "46",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "47",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

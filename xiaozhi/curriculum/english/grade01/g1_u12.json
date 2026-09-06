@@ -1,0 +1,131 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u12",
+  "unit_title": "Unit 12: At the lake",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "lake",
+          "meaning": "hồ nước"
+        },
+        {
+          "word": "leaf",
+          "meaning": "lá cây"
+        },
+        {
+          "word": "lemon",
+          "meaning": "quả chanh"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "Look at the [thing].",
+          "example": "Look at Lucy. / Look at the lemons.",
+          "meaning": "Nhìn [đối tượng] kìa."
+        },
+        {
+          "pattern": "It's/She's [action].",
+          "example": "It's falling to the ground. / She's running round the lake.",
+          "meaning": "Nó/Bạn ấy đang [hành động]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'hồ nước'?",
+          "options": [
+            "leaf",
+            "lemon",
+            "lake"
+          ],
+          "correct_option": "lake"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'lá cây'?",
+          "options": [
+            "lake",
+            "lemon",
+            "leaf"
+          ],
+          "correct_option": "leaf"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'quả chanh'?",
+          "options": [
+            "lake",
+            "leaf",
+            "lemon"
+          ],
+          "correct_option": "lemon"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "Look at Lucy.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "Look at Lucy."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "52",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "53",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "54",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

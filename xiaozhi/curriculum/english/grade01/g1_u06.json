@@ -1,0 +1,131 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u06",
+  "unit_title": "Unit 6: In the classroom",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "pen",
+          "meaning": "bút mực"
+        },
+        {
+          "word": "pencil",
+          "meaning": "bút chì"
+        },
+        {
+          "word": "red",
+          "meaning": "màu đỏ"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "I have a [thing]. It's [colour].",
+          "example": "I have a pen. It's red.",
+          "meaning": "Mình có một [đồ vật]. Nó màu [màu]."
+        },
+        {
+          "pattern": "He/She has a [thing]. It's [colour].",
+          "example": "He has a pencil. It's red.",
+          "meaning": "Bạn ấy có một [đồ vật]. Nó màu [màu]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'bút mực'?",
+          "options": [
+            "pencil",
+            "red",
+            "pen"
+          ],
+          "correct_option": "pen"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'bút chì'?",
+          "options": [
+            "pen",
+            "red",
+            "pencil"
+          ],
+          "correct_option": "pencil"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'màu đỏ'?",
+          "options": [
+            "pen",
+            "pencil",
+            "red"
+          ],
+          "correct_option": "red"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "I have a pen. It's red.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "I have a pen. It's red."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "27",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "28",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "29",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

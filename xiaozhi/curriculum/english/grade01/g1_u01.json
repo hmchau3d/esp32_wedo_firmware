@@ -1,0 +1,126 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u01",
+  "unit_title": "Unit 1: In the school playground",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "ball",
+          "meaning": "quả bóng"
+        },
+        {
+          "word": "book",
+          "meaning": "quyển sách"
+        },
+        {
+          "word": "bike",
+          "meaning": "xe đạp"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "Hi, I'm [name]. / Bye, [name].",
+          "example": "Hi, I'm Bill. Bye, Bill.",
+          "meaning": "Xin chào, mình là Bill. / Tạm biệt Bill."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'quả bóng'?",
+          "options": [
+            "book",
+            "bike",
+            "ball"
+          ],
+          "correct_option": "ball"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'quyển sách'?",
+          "options": [
+            "ball",
+            "bike",
+            "book"
+          ],
+          "correct_option": "book"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'xe đạp'?",
+          "options": [
+            "ball",
+            "book",
+            "bike"
+          ],
+          "correct_option": "bike"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "Hi, I'm Bill. Bye, Bill.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "Hi, I'm Bill. Bye, Bill."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "6",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "7",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "8",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

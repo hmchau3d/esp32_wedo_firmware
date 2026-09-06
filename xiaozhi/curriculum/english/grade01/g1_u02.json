@@ -1,0 +1,133 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u02",
+  "unit_title": "Unit 2: In the dining room",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "cup",
+          "meaning": "cái cốc"
+        },
+        {
+          "word": "cake",
+          "meaning": "cái bánh"
+        },
+        {
+          "word": "cat",
+          "meaning": "con mèo"
+        },
+        {
+          "word": "car",
+          "meaning": "xe ô tô"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "I have a [thing].",
+          "example": "I have a cup. / I have a car.",
+          "meaning": "Mình có một [đồ vật]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cái cốc'?",
+          "options": [
+            "cake",
+            "cat",
+            "car",
+            "cup"
+          ],
+          "correct_option": "cup"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cái bánh'?",
+          "options": [
+            "cup",
+            "cat",
+            "car",
+            "cake"
+          ],
+          "correct_option": "cake"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con mèo'?",
+          "options": [
+            "cup",
+            "cake",
+            "car",
+            "cat"
+          ],
+          "correct_option": "cat"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "I have a cup.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "I have a cup."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "9",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "10",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "11",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u05",
+  "unit_title": "Unit 5: At the fish and chip shop",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "chicken",
+          "meaning": "thịt gà"
+        },
+        {
+          "word": "chips",
+          "meaning": "khoai tây chiên"
+        },
+        {
+          "word": "fish",
+          "meaning": "cá"
+        },
+        {
+          "word": "fish and chips",
+          "meaning": "món cá tẩm bột và khoai tây chiên"
+        },
+        {
+          "word": "milk",
+          "meaning": "sữa"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "I like [food].",
+          "example": "I like milk and chicken. / I like fish and chips.",
+          "meaning": "Mình thích [đồ ăn]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'thịt gà'?",
+          "options": [
+            "chips",
+            "fish",
+            "fish and chips",
+            "chicken"
+          ],
+          "correct_option": "chicken"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'khoai tây chiên'?",
+          "options": [
+            "chicken",
+            "fish",
+            "fish and chips",
+            "chips"
+          ],
+          "correct_option": "chips"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cá'?",
+          "options": [
+            "chicken",
+            "chips",
+            "fish and chips",
+            "fish"
+          ],
+          "correct_option": "fish"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "I like milk and chicken.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "I like milk and chicken."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "23",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "24",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "25",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

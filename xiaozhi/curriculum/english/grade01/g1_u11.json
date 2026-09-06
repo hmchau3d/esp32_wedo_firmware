@@ -1,0 +1,138 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u11",
+  "unit_title": "Unit 11: At the bus stop",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "bus",
+          "meaning": "xe ô tô buýt"
+        },
+        {
+          "word": "running",
+          "meaning": "chạy"
+        },
+        {
+          "word": "sun",
+          "meaning": "mặt trời"
+        },
+        {
+          "word": "truck",
+          "meaning": "ô tô tải"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "He's/She's running.",
+          "example": "He's running. / She's running.",
+          "meaning": "Bạn ấy đang chạy."
+        },
+        {
+          "pattern": "It's a sunny day.",
+          "example": "It's a sunny day.",
+          "meaning": "Hôm nay là một ngày nắng."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'xe ô tô buýt'?",
+          "options": [
+            "running",
+            "sun",
+            "truck",
+            "bus"
+          ],
+          "correct_option": "bus"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'chạy'?",
+          "options": [
+            "bus",
+            "sun",
+            "truck",
+            "running"
+          ],
+          "correct_option": "running"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'mặt trời'?",
+          "options": [
+            "bus",
+            "running",
+            "truck",
+            "sun"
+          ],
+          "correct_option": "sun"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "He's running.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "He's running."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "49",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "50",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "51",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

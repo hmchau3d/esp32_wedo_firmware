@@ -1,0 +1,111 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u13",
+  "unit_title": "Unit 13: In the school canteen",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "noodles",
+          "meaning": "mì"
+        },
+        {
+          "word": "nut",
+          "meaning": "hạt lạc"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "He's/She's having [food].",
+          "example": "He's having nuts. / She's having noodles.",
+          "meaning": "Bạn ấy đang ăn [đồ ăn]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'mì'?",
+          "options": [
+            "nut",
+            "noodles"
+          ],
+          "correct_option": "noodles"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'hạt lạc'?",
+          "options": [
+            "noodles",
+            "nut"
+          ],
+          "correct_option": "nut"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "He's having nuts.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "He's having nuts."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "57",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "58",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "59",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

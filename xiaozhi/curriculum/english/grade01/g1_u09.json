@@ -1,0 +1,158 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u09",
+  "unit_title": "Unit 9: In the shop",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "lock",
+          "meaning": "ổ khóa"
+        },
+        {
+          "word": "clock",
+          "meaning": "cái đồng hồ"
+        },
+        {
+          "word": "mop",
+          "meaning": "cây lau nhà"
+        },
+        {
+          "word": "pot",
+          "meaning": "cái nồi"
+        },
+        {
+          "word": "one",
+          "meaning": "một (1)"
+        },
+        {
+          "word": "two",
+          "meaning": "hai (2)"
+        },
+        {
+          "word": "three",
+          "meaning": "ba (3)"
+        },
+        {
+          "word": "four",
+          "meaning": "bốn (4)"
+        },
+        {
+          "word": "five",
+          "meaning": "năm (5)"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "How many [things]?",
+          "example": "How many clocks?",
+          "meaning": "Có bao nhiêu [đồ vật]?"
+        },
+        {
+          "pattern": "There are [number] [things].",
+          "example": "There are two clocks. / There are four pots.",
+          "meaning": "Có [số lượng] [đồ vật]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'ổ khóa'?",
+          "options": [
+            "clock",
+            "mop",
+            "pot",
+            "lock"
+          ],
+          "correct_option": "lock"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cái đồng hồ'?",
+          "options": [
+            "lock",
+            "mop",
+            "pot",
+            "clock"
+          ],
+          "correct_option": "clock"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cây lau nhà'?",
+          "options": [
+            "lock",
+            "clock",
+            "pot",
+            "mop"
+          ],
+          "correct_option": "mop"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "How many clocks?",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "How many clocks?"
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "41",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "42",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "43",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

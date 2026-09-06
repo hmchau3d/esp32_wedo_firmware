@@ -1,0 +1,146 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u16",
+  "unit_title": "Unit 16: At home",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "eight",
+          "meaning": "tám (8)"
+        },
+        {
+          "word": "nine",
+          "meaning": "chín (9)"
+        },
+        {
+          "word": "six",
+          "meaning": "sáu (6)"
+        },
+        {
+          "word": "seven",
+          "meaning": "bảy (7)"
+        },
+        {
+          "word": "ten",
+          "meaning": "mười (10)"
+        },
+        {
+          "word": "window",
+          "meaning": "cửa sổ"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "How many [things] can you see?",
+          "example": "How many windows can you see?",
+          "meaning": "Bạn có thể nhìn thấy bao nhiêu [đồ vật]?"
+        },
+        {
+          "pattern": "I can see [number].",
+          "example": "I can see six.",
+          "meaning": "Mình có thể nhìn thấy [số]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'tám (8)'?",
+          "options": [
+            "nine",
+            "six",
+            "seven",
+            "eight"
+          ],
+          "correct_option": "eight"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'chín (9)'?",
+          "options": [
+            "eight",
+            "six",
+            "seven",
+            "nine"
+          ],
+          "correct_option": "nine"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'sáu (6)'?",
+          "options": [
+            "eight",
+            "nine",
+            "seven",
+            "six"
+          ],
+          "correct_option": "six"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "How many windows can you see?",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "How many windows can you see?"
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "70",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "71",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "72",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

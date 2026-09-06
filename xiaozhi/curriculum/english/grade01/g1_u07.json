@@ -1,0 +1,133 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u07",
+  "unit_title": "Unit 7: In the garden",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "garden",
+          "meaning": "khu vườn"
+        },
+        {
+          "word": "gate",
+          "meaning": "cổng ra vào"
+        },
+        {
+          "word": "girl",
+          "meaning": "cô bé"
+        },
+        {
+          "word": "goat",
+          "meaning": "con dê"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "There's a [thing] in the garden.",
+          "example": "There's a goat in the garden. / There's a girl in the garden.",
+          "meaning": "Có một [đồ vật/người] trong vườn."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'khu vườn'?",
+          "options": [
+            "gate",
+            "girl",
+            "goat",
+            "garden"
+          ],
+          "correct_option": "garden"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cổng ra vào'?",
+          "options": [
+            "garden",
+            "girl",
+            "goat",
+            "gate"
+          ],
+          "correct_option": "gate"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cô bé'?",
+          "options": [
+            "garden",
+            "gate",
+            "goat",
+            "girl"
+          ],
+          "correct_option": "girl"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "There's a goat in the garden.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "There's a goat in the garden."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "32",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "33",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "34",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

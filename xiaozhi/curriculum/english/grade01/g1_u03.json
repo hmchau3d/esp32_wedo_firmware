@@ -1,0 +1,138 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u03",
+  "unit_title": "Unit 3: At the street market",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "apple",
+          "meaning": "quả táo"
+        },
+        {
+          "word": "bag",
+          "meaning": "cái túi"
+        },
+        {
+          "word": "hat",
+          "meaning": "cái mũ"
+        },
+        {
+          "word": "can",
+          "meaning": "lon để uống"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "There's a [thing] in/on the [thing].",
+          "example": "There's an apple in the bag. / There's a cat on the hat.",
+          "meaning": "Có một [đồ vật] ở trong/trên [đồ vật]."
+        },
+        {
+          "pattern": "This is my [thing].",
+          "example": "This is my apple. / This is my hat.",
+          "meaning": "Đây là [đồ vật] của mình."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'quả táo'?",
+          "options": [
+            "bag",
+            "hat",
+            "can",
+            "apple"
+          ],
+          "correct_option": "apple"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cái túi'?",
+          "options": [
+            "apple",
+            "hat",
+            "can",
+            "bag"
+          ],
+          "correct_option": "bag"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cái mũ'?",
+          "options": [
+            "apple",
+            "bag",
+            "can",
+            "hat"
+          ],
+          "correct_option": "hat"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "There's an apple in the bag.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "There's an apple in the bag."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "14",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "15",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "16",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}

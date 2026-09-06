@@ -1,0 +1,133 @@
+{
+  "grade_id": "grade_01",
+  "grade_title": "Grade 1 - Tiếng Anh Lớp 1",
+  "unit_id": "g1_u04",
+  "unit_title": "Unit 4: In the bedroom",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "duck",
+          "meaning": "con vịt"
+        },
+        {
+          "word": "dog",
+          "meaning": "con chó"
+        },
+        {
+          "word": "door",
+          "meaning": "cửa ra vào"
+        },
+        {
+          "word": "desk",
+          "meaning": "cái bàn học sinh"
+        }
+      ]
+    },
+    {
+      "sentence_structures": [
+        {
+          "pattern": "This is a [thing]. It's [place].",
+          "example": "This is a dog. It's near the door. / It's on the desk.",
+          "meaning": "Đây là một [đồ vật]. Nó ở [vị trí]."
+        }
+      ]
+    },
+    {
+      "quiz_questions": [
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con vịt'?",
+          "options": [
+            "dog",
+            "door",
+            "desk",
+            "duck"
+          ],
+          "correct_option": "duck"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'con chó'?",
+          "options": [
+            "duck",
+            "door",
+            "desk",
+            "dog"
+          ],
+          "correct_option": "dog"
+        },
+        {
+          "question_text": "Từ nào sau đây có nghĩa là 'cửa ra vào'?",
+          "options": [
+            "duck",
+            "dog",
+            "desk",
+            "door"
+          ],
+          "correct_option": "door"
+        },
+        {
+          "question_text": "Câu nào phù hợp với mẫu câu của Unit?",
+          "options": [
+            "This is a dog. It's near the door.",
+            "Goodbye!",
+            "How are you?",
+            "Thank you."
+          ],
+          "correct_option": "This is a dog. It's near the door."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "17",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "18",
+      "documentation": "vocabulary",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace"
+        }
+      ]
+    },
+    {
+      "page": "19",
+      "documentation": "sentence_structures",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let's talk"
+        },
+        {
+          "number": "8",
+          "title": "Let's sing"
+        }
+      ]
+    }
+  ]
+}
