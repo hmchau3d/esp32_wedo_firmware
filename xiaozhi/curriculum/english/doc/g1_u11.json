@@ -1,0 +1,158 @@
+{
+  "grade_id": "grade_01",
+  "unit_id": "g1_u11",
+  "unit_title": "Unit 11: At the bus stop",
+  "pedagogical_focus": "Target letter: Uu, Target sound: /ʌ/",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "bus",
+          "phonetic": "/bʌs/",
+          "meaning": "xe buýt"
+        },
+        {
+          "word": "run",
+          "phonetic": "/rʌn/",
+          "meaning": "chạy"
+        },
+        {
+          "word": "sun",
+          "phonetic": "/sʌn/",
+          "meaning": "mặt trời"
+        },
+        {
+          "word": "truck",
+          "phonetic": "/trʌk/",
+          "meaning": "xe tải"
+        }
+      ],
+      "quiz": {
+        "title": "Quiz - Unit 11: At the bus stop",
+        "description": "Bài kiểm tra nhanh theo nội dung của Unit.",
+        "total_questions": 2,
+        "questions": [
+          {
+            "question_id": "q_g1_u11_01",
+            "question_text": "Từ nào sau đây có nghĩa là 'xe tải'?",
+            "options": [
+              "bus",
+              "run",
+              "sun",
+              "truck"
+            ],
+            "correct_option": "truck",
+            "difficulty": "easy",
+            "score_weight": 10,
+            "timer_seconds": 15
+          },
+          {
+            "question_id": "q_g1_u11_02",
+            "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy đang chạy.'",
+            "options": [
+              "She's running.",
+              "He's running.",
+              "She's walking.",
+              "He's jumping."
+            ],
+            "correct_option": "She's running.",
+            "difficulty": "medium",
+            "score_weight": 20,
+            "timer_seconds": 20
+          }
+        ]
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "page": "48",
+      "documentation": "vocabulary",
+      "ai_teaching_directive": "Yêu cầu học sinh nhìn vào trang 48. Dạy chữ cái Uu và âm /ʌ/, sau đó yêu cầu học sinh Listen and repeat từng từ vựng của bài. Sửa lỗi nếu học sinh phát âm sai âm mục tiêu.",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "49",
+      "documentation": "phonics_practice",
+      "ai_teaching_directive": "Yêu cầu học sinh chuyển sang trang 49. Cho học sinh luyện âm/chữ cái Uu qua hoạt động Listen and chant, Listen and tick và Look and trace; khuyến khích học sinh nghe kỹ và nhận diện đúng âm mục tiêu.",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace."
+        }
+      ]
+    },
+    {
+      "page": "50",
+      "documentation": "speaking",
+      "ai_teaching_directive": "Yêu cầu học sinh chuyển sang trang 50. Luyện mẫu câu giao tiếp của Unit 11: She’s running. He’s running.. Cho học sinh Listen and repeat, sau đó thực hành Let’s talk theo tranh và kết thúc bằng Let’s sing.",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let’s talk."
+        },
+        {
+          "number": "8",
+          "title": "Let’s sing."
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "quiz_id": "quiz_g1_u11",
+    "title": "Quiz - Unit 11: At the bus stop",
+    "total_questions": 2,
+    "score_total": 30,
+    "questions": [
+      {
+        "question_id": "q_g1_u11_01",
+        "question_text": "Từ nào sau đây có nghĩa là 'xe tải'?",
+        "options": [
+          "bus",
+          "run",
+          "sun",
+          "truck"
+        ],
+        "correct_option": "truck",
+        "difficulty": "easy",
+        "score_weight": 10,
+        "timer_seconds": 15
+      },
+      {
+        "question_id": "q_g1_u11_02",
+        "question_text": "Dịch câu sau sang tiếng Anh: 'Cô ấy đang chạy.'",
+        "options": [
+          "She's running.",
+          "He's running.",
+          "She's walking.",
+          "He's jumping."
+        ],
+        "correct_option": "She's running.",
+        "difficulty": "medium",
+        "score_weight": 20,
+        "timer_seconds": 20
+      }
+    ]
+  }
+}
