@@ -1,0 +1,87 @@
+{
+  "grade_id": "grade_01",
+  "unit_id": "g1_u03",
+  "unit_title": "Unit 3: At the street market",
+  "pedagogical_focus": "Target letter: Aa, Target sound: /æ/",
+  "document": [
+    {
+      "vocabulary": [
+        {
+          "word": "apple",
+          "phonetic": "/ˈæpəl/",
+          "meaning": "quả táo"
+        },
+        {
+          "word": "bag",
+          "phonetic": "/bæɡ/",
+          "meaning": "cái túi"
+        },
+        {
+          "word": "can",
+          "phonetic": "/kæn/",
+          "meaning": "lon"
+        },
+        {
+          "word": "hat",
+          "phonetic": "/hæt/",
+          "meaning": "mũ"
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "page": "14",
+      "documentation": "vocabulary",
+      "ai_teaching_directive": "Yêu cầu học sinh nhìn vào trang 14. Dạy chữ cái Aa và âm /æ/, sau đó yêu cầu học sinh Listen and repeat từng từ vựng của bài. Sửa lỗi nếu học sinh phát âm sai âm mục tiêu.",
+      "items": [
+        {
+          "number": "1",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "2",
+          "title": "Point and say"
+        }
+      ]
+    },
+    {
+      "page": "15",
+      "documentation": "phonics_practice",
+      "ai_teaching_directive": "Yêu cầu học sinh chuyển sang trang 15. Cho học sinh luyện âm/chữ cái Aa qua hoạt động Listen and chant, Listen and tick và Look and trace; khuyến khích học sinh nghe kỹ và nhận diện đúng âm mục tiêu.",
+      "items": [
+        {
+          "number": "3",
+          "title": "Listen and chant"
+        },
+        {
+          "number": "4",
+          "title": "Listen and tick"
+        },
+        {
+          "number": "5",
+          "title": "Look and trace."
+        }
+      ]
+    },
+    {
+      "page": "16",
+      "documentation": "speaking",
+      "ai_teaching_directive": "Yêu cầu học sinh chuyển sang trang 16. Luyện mẫu câu giao tiếp của Unit 3: This is my bag.. Cho học sinh Listen and repeat, sau đó thực hành Let’s talk theo tranh và kết thúc bằng Let’s sing.",
+      "items": [
+        {
+          "number": "6",
+          "title": "Listen and repeat"
+        },
+        {
+          "number": "7",
+          "title": "Let’s talk."
+        },
+        {
+          "number": "8",
+          "title": "Let’s sing."
+        }
+      ]
+    }
+  ]
+}
