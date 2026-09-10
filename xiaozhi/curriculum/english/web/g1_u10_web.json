@@ -1,0 +1,197 @@
+{
+  "unit_id": "g1_u10",
+  "unit_title": "Unit 10: At the zoo",
+  "pedagogical_focus": "Chữ cái: M/m. Từ vựng: mango, monkey, mother, mouse. Mẫu câu trọng tâm: What's that? – That's a monkey..",
+  "source_pages": {
+    "student_book_pages": [
+      43,
+      44,
+      45
+    ],
+    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
+  },
+  "ui_branding": {
+    "primary_theme_color": "#35A7FF",
+    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+  },
+  "vocabulary_display": [
+    {
+      "vocab_id": "v1",
+      "word": "mango",
+      "phonetic": "/ˈmæŋɡəʊ/",
+      "meaning": "quả xoài",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ mango theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v2",
+      "word": "monkey",
+      "phonetic": "/ˈmʌŋki/",
+      "meaning": "con khỉ",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ monkey theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v3",
+      "word": "mother",
+      "phonetic": "/ˈmʌðə(r)/",
+      "meaning": "mẹ",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ mother theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v4",
+      "word": "mouse",
+      "phonetic": "/maʊs/",
+      "meaning": "con chuột",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ mouse theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    }
+  ],
+  "lessons_timeline": [
+    {
+      "lesson_id": "l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "page": 43,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u10_act1",
+          "num": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn tranh trong SGK trang 43, nghe mẫu âm M/m và các từ: mango, monkey, mother, mouse. Sau đó lặp lại theo mẫu.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u10_act2",
+          "num": 2,
+          "title": "2. Point and say",
+          "description": "Bé chỉ vào từng hình và nói từ vựng: mango, monkey, mother, mouse."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "page": 44,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u10_act3",
+          "num": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe và đọc chant với âm M/m cùng các từ trọng tâm của Unit 10.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u10_act4",
+          "num": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          },
+          "digital_game": {
+            "question_text": "Nghe câu hỏi: What's that?",
+            "options": [
+              {
+                "opt_id": "a",
+                "text": "That's a monkey."
+              },
+              {
+                "opt_id": "b",
+                "text": "Câu trả lời khác"
+              }
+            ],
+            "correct_answer": "a",
+            "sync_endpoint": "/change-lesson-web?act_id=g1_u10_act4&score="
+          }
+        },
+        {
+          "activity_id": "g1_u10_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn mẫu và tập tô chữ M/m trong SGK."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "page": 45,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u10_act6",
+          "num": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: What's that? – That's a monkey..",
+          "target_structures": [
+            "What's that?",
+            "That's a monkey."
+          ],
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u10_act7",
+          "num": 7,
+          "title": "7. Let's talk",
+          "description": "Bé luyện hội thoại theo mẫu: What's that? – That's a monkey..",
+          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: That's a monkey."
+        },
+        {
+          "activity_id": "g1_u10_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Tổng kết Unit 10 bằng hoạt động hát/nhịp điệu với âm M/m, từ vựng và mẫu câu trọng tâm.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        }
+      ]
+    }
+  ]
+}

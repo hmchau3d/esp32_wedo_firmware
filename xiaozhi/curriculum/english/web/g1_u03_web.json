@@ -1,0 +1,197 @@
+{
+  "unit_id": "g1_u03",
+  "unit_title": "Unit 3: At the street market",
+  "pedagogical_focus": "Chữ cái: A/a. Từ vựng: apple, bag, can, hat. Mẫu câu trọng tâm: What's this? – This is my bag..",
+  "source_pages": {
+    "student_book_pages": [
+      15,
+      16,
+      17
+    ],
+    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
+  },
+  "ui_branding": {
+    "primary_theme_color": "#35A7FF",
+    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+  },
+  "vocabulary_display": [
+    {
+      "vocab_id": "v1",
+      "word": "apple",
+      "phonetic": "/ˈæpəl/",
+      "meaning": "quả táo",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ apple theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v2",
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meaning": "cái túi",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ bag theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v3",
+      "word": "can",
+      "phonetic": "/kæn/",
+      "meaning": "lon/hộp",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ can theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v4",
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meaning": "cái mũ",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ hat theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    }
+  ],
+  "lessons_timeline": [
+    {
+      "lesson_id": "l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "page": 15,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u03_act1",
+          "num": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn tranh trong SGK trang 15, nghe mẫu âm A/a và các từ: apple, bag, can, hat. Sau đó lặp lại theo mẫu.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u03_act2",
+          "num": 2,
+          "title": "2. Point and say",
+          "description": "Bé chỉ vào từng hình và nói từ vựng: apple, bag, can, hat."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "page": 16,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u03_act3",
+          "num": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe và đọc chant với âm A/a cùng các từ trọng tâm của Unit 3.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u03_act4",
+          "num": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          },
+          "digital_game": {
+            "question_text": "Nghe câu hỏi: What's this?",
+            "options": [
+              {
+                "opt_id": "a",
+                "text": "This is my bag."
+              },
+              {
+                "opt_id": "b",
+                "text": "Câu trả lời khác"
+              }
+            ],
+            "correct_answer": "a",
+            "sync_endpoint": "/change-lesson-web?act_id=g1_u03_act4&score="
+          }
+        },
+        {
+          "activity_id": "g1_u03_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn mẫu và tập tô chữ A/a trong SGK."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "page": 17,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u03_act6",
+          "num": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: What's this? – This is my bag..",
+          "target_structures": [
+            "What's this?",
+            "This is my bag."
+          ],
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u03_act7",
+          "num": 7,
+          "title": "7. Let's talk",
+          "description": "Bé luyện hội thoại theo mẫu: What's this? – This is my bag..",
+          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: This is my bag."
+        },
+        {
+          "activity_id": "g1_u03_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Tổng kết Unit 3 bằng hoạt động hát/nhịp điệu với âm A/a, từ vựng và mẫu câu trọng tâm.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        }
+      ]
+    }
+  ]
+}

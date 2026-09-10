@@ -1,0 +1,150 @@
+{
+  "uid": "g1_u15",
+  "source_basis": {
+    "textbook": "Tiếng Anh 1 - Global Success",
+    "unit": "Unit 15: At the football match",
+    "student_book_pages": [
+      65,
+      66,
+      67
+    ],
+    "note": "Nội dung SGK được chuyển sang cấu trúc ứng dụng theo 2 mẫu JSON đã cung cấp."
+  },
+  "config_xiaozhi": {
+    "voice_profile": "cheerful_teacher",
+    "global_speed": 0.8,
+    "system_prompt": "Mày là Robot Minh Châu, trợ giảng tiếng Anh. Luôn nói chậm, ngắt nghỉ bằng dấu '...' để tạo nhịp điệu ấm áp cho trẻ 6 tuổi. Sử dụng từ cổ vũ (Wow, Hooray, Bingo)."
+  },
+  "rewards_system": {
+    "item_name": "Kẹo ngọt 🍬",
+    "milestone_candy_target": 5,
+    "victory_sfx": "level_up_fanfare"
+  },
+  "failsafe_offline_messages": {
+    "wifi_lost_tts": "Mạng WiFi nhà mình hình như đang đi ngủ rồi con ơi! ... Con bảo bố mẹ kiểm tra lại cục mạng giúp robot nhé!",
+    "server_timeout_tts": "Úi chà! Máy chủ Xiaozhi đang bận một xíu xiu. ... Con bấm nút khởi động trên lưng để robot kết nối lại nha!"
+  },
+  "vocabulary_pool": {
+    "face": {
+      "phonetic": "/feɪs/",
+      "keywords": [
+        "face"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... face!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... face!"
+      }
+    },
+    "father": {
+      "phonetic": "/ˈfɑːðə(r)/",
+      "keywords": [
+        "father"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... father!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... father!"
+      }
+    },
+    "foot": {
+      "phonetic": "/fʊt/",
+      "keywords": [
+        "foot"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... foot!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... foot!"
+      }
+    },
+    "football": {
+      "phonetic": "/ˈfʊtbɔːl/",
+      "keywords": [
+        "football"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... football!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... football!"
+      }
+    }
+  },
+  "flows": [
+    {
+      "act_id": "act_1",
+      "type": "interactive_drill",
+      "lesson": 1,
+      "page": 65,
+      "steps": [
+        {
+          "step_id": "warmup",
+          "tts": "Ting toong! ... Unit 15 ... At the football match bắt đầu! ... Con mở sách trang 65 và cùng robot học âm F/f nhé!",
+          "emotion": "excited",
+          "sfx": "lesson_start",
+          "timeout_sec": 0
+        },
+        {
+          "step_id": "drill_vocab",
+          "target": "face",
+          "tts": "Con nhìn tranh và đọc từ face cho robot nghe nào!",
+          "emotion": "thinking",
+          "sfx": "whistle_waiting",
+          "timeout_sec": 10,
+          "tts_on_timeout": "Nghe robot nhé... face! ... Con đọc lại nào!",
+          "tts_on_success": [
+            "Chính xác! ... Con được tặng 1 viên kẹo ngọt! 🍬",
+            "Wow! ... Phát âm rất tốt! ... Thêm 1 kẹo nhé! 🍬"
+          ],
+          "emotion_on_success": "happy",
+          "sfx_on_success": "candy_gain_ting",
+          "emotion_on_fail": "encouraging",
+          "sfx_on_fail": "magic_retry"
+        }
+      ]
+    },
+    {
+      "act_id": "act_4",
+      "type": "game_referee",
+      "lesson": 2,
+      "page": 66,
+      "on_web_correct": {
+        "tts_robot": "Wow! ... Bingo! ... Con chọn đúng rồi! ... Robot thưởng con 1 viên kẹo ngọt nhé! 🍬",
+        "emotion": "happy",
+        "sfx": "candy_gain_ting"
+      },
+      "on_web_wrong": {
+        "tts_robot": "Oh... chưa chính xác rồi con ơi. ... Nghe robot đọc lại nhé: ... father!",
+        "emotion": "encouraging",
+        "sfx": "magic_retry"
+      }
+    },
+    {
+      "act_id": "act_7",
+      "type": "roleplay_game",
+      "lesson": 3,
+      "page": 67,
+      "character": "Robot",
+      "script_phases": [
+        {
+          "phase_id": "practice",
+          "robot_says": "Hello! Let's practise Unit 15. ... What can you point to? ... Point to your face.",
+          "emotion": "wave_hand",
+          "sfx": "pop_greeting",
+          "expected_regex": ".*",
+          "fallback_tts": "Con hãy nói theo mẫu nhé: ... Point to your face."
+        }
+      ]
+    }
+  ],
+  "voice_quiz_arena": {
+    "arena_prompts": {
+      "welcome": "Chào mừng dũng sĩ đến với đấu trường Quiz Unit 15! ... Hãy trả lời đúng để nhận kẹo nhé!",
+      "win_all": "Xuất sắc! ... Con đã hoàn thành tất cả câu hỏi! ... Hooray!"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "correct_option": "A",
+        "tts_clip": "What can you point to? ... A: Point to your face. ... B: Hãy chọn câu phù hợp khác. ... Con chọn A hay B nào?",
+        "emotion": "quiz_mode"
+      }
+    ]
+  }
+}

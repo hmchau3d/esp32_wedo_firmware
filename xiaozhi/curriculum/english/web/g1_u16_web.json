@@ -1,0 +1,197 @@
+{
+  "unit_id": "g1_u16",
+  "unit_title": "Unit 16: At home",
+  "pedagogical_focus": "Chữ cái: W/w. Từ vựng: wash, water, window. Mẫu câu trọng tâm: How many windows can you see? – I can see six..",
+  "source_pages": {
+    "student_book_pages": [
+      68,
+      69,
+      70
+    ],
+    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
+  },
+  "ui_branding": {
+    "primary_theme_color": "#35A7FF",
+    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+  },
+  "vocabulary_display": [
+    {
+      "vocab_id": "v1",
+      "word": "wash",
+      "phonetic": "/wɒʃ/",
+      "meaning": "rửa",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ wash theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v2",
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meaning": "nước",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ water theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v3",
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meaning": "cửa sổ",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ window theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v4",
+      "word": "Wendy",
+      "phonetic": "/ˈwendi/",
+      "meaning": "tên riêng Wendy",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ Wendy theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    }
+  ],
+  "lessons_timeline": [
+    {
+      "lesson_id": "l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "page": 68,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u16_act1",
+          "num": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn tranh trong SGK trang 68, nghe mẫu âm W/w và các từ: wash, water, window. Sau đó lặp lại theo mẫu.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u16_act2",
+          "num": 2,
+          "title": "2. Point and say",
+          "description": "Bé chỉ vào từng hình và nói từ vựng: wash, water, window."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "page": 69,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u16_act3",
+          "num": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe và đọc chant với âm W/w cùng các từ trọng tâm của Unit 16.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u16_act4",
+          "num": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          },
+          "digital_game": {
+            "question_text": "Nghe câu hỏi: How many windows can you see?",
+            "options": [
+              {
+                "opt_id": "a",
+                "text": "I can see six."
+              },
+              {
+                "opt_id": "b",
+                "text": "Câu trả lời khác"
+              }
+            ],
+            "correct_answer": "a",
+            "sync_endpoint": "/change-lesson-web?act_id=g1_u16_act4&score="
+          }
+        },
+        {
+          "activity_id": "g1_u16_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn mẫu và tập tô chữ W/w trong SGK."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "page": 70,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u16_act6",
+          "num": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: How many windows can you see? – I can see six..",
+          "target_structures": [
+            "How many windows can you see?",
+            "I can see six."
+          ],
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u16_act7",
+          "num": 7,
+          "title": "7. Let's talk",
+          "description": "Bé luyện hội thoại theo mẫu: How many windows can you see? – I can see six..",
+          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: I can see six."
+        },
+        {
+          "activity_id": "g1_u16_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Tổng kết Unit 16 bằng hoạt động hát/nhịp điệu với âm W/w, từ vựng và mẫu câu trọng tâm.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        }
+      ]
+    }
+  ]
+}

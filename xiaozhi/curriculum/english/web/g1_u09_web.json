@@ -1,0 +1,197 @@
+{
+  "unit_id": "g1_u09",
+  "unit_title": "Unit 9: In the shop",
+  "pedagogical_focus": "Chữ cái: O/o. Từ vựng: clocks, locks, mops, pots. Mẫu câu trọng tâm: How many clocks? – Two clocks..",
+  "source_pages": {
+    "student_book_pages": [
+      40,
+      41,
+      42
+    ],
+    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
+  },
+  "ui_branding": {
+    "primary_theme_color": "#35A7FF",
+    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+  },
+  "vocabulary_display": [
+    {
+      "vocab_id": "v1",
+      "word": "clocks",
+      "phonetic": "/klɒks/",
+      "meaning": "những chiếc đồng hồ",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ clocks theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v2",
+      "word": "locks",
+      "phonetic": "/lɒks/",
+      "meaning": "những chiếc khóa",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ locks theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v3",
+      "word": "mops",
+      "phonetic": "/mɒps/",
+      "meaning": "những cây lau nhà",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ mops theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v4",
+      "word": "pots",
+      "phonetic": "/pɒts/",
+      "meaning": "những cái nồi",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ pots theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    }
+  ],
+  "lessons_timeline": [
+    {
+      "lesson_id": "l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "page": 40,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u09_act1",
+          "num": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn tranh trong SGK trang 40, nghe mẫu âm O/o và các từ: clocks, locks, mops, pots. Sau đó lặp lại theo mẫu.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u09_act2",
+          "num": 2,
+          "title": "2. Point and say",
+          "description": "Bé chỉ vào từng hình và nói từ vựng: clocks, locks, mops, pots."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "page": 41,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u09_act3",
+          "num": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe và đọc chant với âm O/o cùng các từ trọng tâm của Unit 9.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u09_act4",
+          "num": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          },
+          "digital_game": {
+            "question_text": "Nghe câu hỏi: How many clocks?",
+            "options": [
+              {
+                "opt_id": "a",
+                "text": "Two clocks."
+              },
+              {
+                "opt_id": "b",
+                "text": "Câu trả lời khác"
+              }
+            ],
+            "correct_answer": "a",
+            "sync_endpoint": "/change-lesson-web?act_id=g1_u09_act4&score="
+          }
+        },
+        {
+          "activity_id": "g1_u09_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn mẫu và tập tô chữ O/o trong SGK."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "page": 42,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u09_act6",
+          "num": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: How many clocks? – Two clocks..",
+          "target_structures": [
+            "How many clocks?",
+            "Two clocks."
+          ],
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u09_act7",
+          "num": 7,
+          "title": "7. Let's talk",
+          "description": "Bé luyện hội thoại theo mẫu: How many clocks? – Two clocks..",
+          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: Two clocks."
+        },
+        {
+          "activity_id": "g1_u09_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Tổng kết Unit 9 bằng hoạt động hát/nhịp điệu với âm O/o, từ vựng và mẫu câu trọng tâm.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        }
+      ]
+    }
+  ]
+}

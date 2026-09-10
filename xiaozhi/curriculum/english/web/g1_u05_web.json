@@ -1,0 +1,197 @@
+{
+  "unit_id": "g1_u05",
+  "unit_title": "Unit 5: At the fish and chip shop",
+  "pedagogical_focus": "Chữ cái: I/i. Từ vựng: chicken, chips, fish, milk. Mẫu câu trọng tâm: What food do you like? – I like chicken..",
+  "source_pages": {
+    "student_book_pages": [
+      23,
+      24,
+      25
+    ],
+    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
+  },
+  "ui_branding": {
+    "primary_theme_color": "#35A7FF",
+    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+  },
+  "vocabulary_display": [
+    {
+      "vocab_id": "v1",
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meaning": "thịt gà",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ chicken theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v2",
+      "word": "chips",
+      "phonetic": "/tʃɪps/",
+      "meaning": "khoai tây chiên",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ chips theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v3",
+      "word": "fish",
+      "phonetic": "/fɪʃ/",
+      "meaning": "cá",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ fish theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    },
+    {
+      "vocab_id": "v4",
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "sữa",
+      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ milk theo nhịp chậm.",
+      "image_meta": {
+        "url": "https://githubusercontent.com",
+        "placeholder_color": "#E0F2FE"
+      },
+      "audio_segment": {
+        "url": "https://githubusercontent.com",
+        "start_sec": null,
+        "end_sec": null
+      }
+    }
+  ],
+  "lessons_timeline": [
+    {
+      "lesson_id": "l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "page": 23,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u05_act1",
+          "num": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn tranh trong SGK trang 23, nghe mẫu âm I/i và các từ: chicken, chips, fish, milk. Sau đó lặp lại theo mẫu.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u05_act2",
+          "num": 2,
+          "title": "2. Point and say",
+          "description": "Bé chỉ vào từng hình và nói từ vựng: chicken, chips, fish, milk."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "page": 24,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u05_act3",
+          "num": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe và đọc chant với âm I/i cùng các từ trọng tâm của Unit 5.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u05_act4",
+          "num": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          },
+          "digital_game": {
+            "question_text": "Nghe câu hỏi: What food do you like?",
+            "options": [
+              {
+                "opt_id": "a",
+                "text": "I like chicken."
+              },
+              {
+                "opt_id": "b",
+                "text": "Câu trả lời khác"
+              }
+            ],
+            "correct_answer": "a",
+            "sync_endpoint": "/change-lesson-web?act_id=g1_u05_act4&score="
+          }
+        },
+        {
+          "activity_id": "g1_u05_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn mẫu và tập tô chữ I/i trong SGK."
+        }
+      ]
+    },
+    {
+      "lesson_id": "l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "page": 25,
+      "page_scene_image": "https://githubusercontent.com",
+      "activities": [
+        {
+          "activity_id": "g1_u05_act6",
+          "num": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: What food do you like? – I like chicken..",
+          "target_structures": [
+            "What food do you like?",
+            "I like chicken."
+          ],
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        },
+        {
+          "activity_id": "g1_u05_act7",
+          "num": 7,
+          "title": "7. Let's talk",
+          "description": "Bé luyện hội thoại theo mẫu: What food do you like? – I like chicken..",
+          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: I like chicken."
+        },
+        {
+          "activity_id": "g1_u05_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Tổng kết Unit 5 bằng hoạt động hát/nhịp điệu với âm I/i, từ vựng và mẫu câu trọng tâm.",
+          "audio_controller": {
+            "track_label": "SGK audio",
+            "url": "https://githubusercontent.com"
+          }
+        }
+      ]
+    }
+  ]
+}

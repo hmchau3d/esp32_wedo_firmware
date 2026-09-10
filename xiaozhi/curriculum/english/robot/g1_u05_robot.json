@@ -1,0 +1,150 @@
+{
+  "uid": "g1_u05",
+  "source_basis": {
+    "textbook": "Tiếng Anh 1 - Global Success",
+    "unit": "Unit 5: At the fish and chip shop",
+    "student_book_pages": [
+      23,
+      24,
+      25
+    ],
+    "note": "Nội dung SGK được chuyển sang cấu trúc ứng dụng theo 2 mẫu JSON đã cung cấp."
+  },
+  "config_xiaozhi": {
+    "voice_profile": "cheerful_teacher",
+    "global_speed": 0.8,
+    "system_prompt": "Mày là Robot Minh Châu, trợ giảng tiếng Anh. Luôn nói chậm, ngắt nghỉ bằng dấu '...' để tạo nhịp điệu ấm áp cho trẻ 6 tuổi. Sử dụng từ cổ vũ (Wow, Hooray, Bingo)."
+  },
+  "rewards_system": {
+    "item_name": "Kẹo ngọt 🍬",
+    "milestone_candy_target": 5,
+    "victory_sfx": "level_up_fanfare"
+  },
+  "failsafe_offline_messages": {
+    "wifi_lost_tts": "Mạng WiFi nhà mình hình như đang đi ngủ rồi con ơi! ... Con bảo bố mẹ kiểm tra lại cục mạng giúp robot nhé!",
+    "server_timeout_tts": "Úi chà! Máy chủ Xiaozhi đang bận một xíu xiu. ... Con bấm nút khởi động trên lưng để robot kết nối lại nha!"
+  },
+  "vocabulary_pool": {
+    "chicken": {
+      "phonetic": "/ˈtʃɪkɪn/",
+      "keywords": [
+        "chicken"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... chicken!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... chicken!"
+      }
+    },
+    "chips": {
+      "phonetic": "/tʃɪps/",
+      "keywords": [
+        "chips"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... chips!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... chips!"
+      }
+    },
+    "fish": {
+      "phonetic": "/fɪʃ/",
+      "keywords": [
+        "fish"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... fish!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... fish!"
+      }
+    },
+    "milk": {
+      "phonetic": "/mɪlk/",
+      "keywords": [
+        "milk"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... milk!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... milk!"
+      }
+    }
+  },
+  "flows": [
+    {
+      "act_id": "act_1",
+      "type": "interactive_drill",
+      "lesson": 1,
+      "page": 23,
+      "steps": [
+        {
+          "step_id": "warmup",
+          "tts": "Ting toong! ... Unit 5 ... At the fish and chip shop bắt đầu! ... Con mở sách trang 23 và cùng robot học âm I/i nhé!",
+          "emotion": "excited",
+          "sfx": "lesson_start",
+          "timeout_sec": 0
+        },
+        {
+          "step_id": "drill_vocab",
+          "target": "chicken",
+          "tts": "Con nhìn tranh và đọc từ chicken cho robot nghe nào!",
+          "emotion": "thinking",
+          "sfx": "whistle_waiting",
+          "timeout_sec": 10,
+          "tts_on_timeout": "Nghe robot nhé... chicken! ... Con đọc lại nào!",
+          "tts_on_success": [
+            "Chính xác! ... Con được tặng 1 viên kẹo ngọt! 🍬",
+            "Wow! ... Phát âm rất tốt! ... Thêm 1 kẹo nhé! 🍬"
+          ],
+          "emotion_on_success": "happy",
+          "sfx_on_success": "candy_gain_ting",
+          "emotion_on_fail": "encouraging",
+          "sfx_on_fail": "magic_retry"
+        }
+      ]
+    },
+    {
+      "act_id": "act_4",
+      "type": "game_referee",
+      "lesson": 2,
+      "page": 24,
+      "on_web_correct": {
+        "tts_robot": "Wow! ... Bingo! ... Con chọn đúng rồi! ... Robot thưởng con 1 viên kẹo ngọt nhé! 🍬",
+        "emotion": "happy",
+        "sfx": "candy_gain_ting"
+      },
+      "on_web_wrong": {
+        "tts_robot": "Oh... chưa chính xác rồi con ơi. ... Nghe robot đọc lại nhé: ... chips!",
+        "emotion": "encouraging",
+        "sfx": "magic_retry"
+      }
+    },
+    {
+      "act_id": "act_7",
+      "type": "roleplay_game",
+      "lesson": 3,
+      "page": 25,
+      "character": "Robot",
+      "script_phases": [
+        {
+          "phase_id": "practice",
+          "robot_says": "Hello! Let's practise Unit 5. ... What food do you like? ... I like chicken.",
+          "emotion": "wave_hand",
+          "sfx": "pop_greeting",
+          "expected_regex": ".*",
+          "fallback_tts": "Con hãy nói theo mẫu nhé: ... I like chicken."
+        }
+      ]
+    }
+  ],
+  "voice_quiz_arena": {
+    "arena_prompts": {
+      "welcome": "Chào mừng dũng sĩ đến với đấu trường Quiz Unit 5! ... Hãy trả lời đúng để nhận kẹo nhé!",
+      "win_all": "Xuất sắc! ... Con đã hoàn thành tất cả câu hỏi! ... Hooray!"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "correct_option": "A",
+        "tts_clip": "What food do you like? ... A: I like chicken. ... B: Hãy chọn câu phù hợp khác. ... Con chọn A hay B nào?",
+        "emotion": "quiz_mode"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "uid": "g1_u06",
+  "source_basis": {
+    "textbook": "Tiếng Anh 1 - Global Success",
+    "unit": "Unit 6: In the classroom",
+    "student_book_pages": [
+      26,
+      27,
+      28
+    ],
+    "note": "Nội dung SGK được chuyển sang cấu trúc ứng dụng theo 2 mẫu JSON đã cung cấp."
+  },
+  "config_xiaozhi": {
+    "voice_profile": "cheerful_teacher",
+    "global_speed": 0.8,
+    "system_prompt": "Mày là Robot Minh Châu, trợ giảng tiếng Anh. Luôn nói chậm, ngắt nghỉ bằng dấu '...' để tạo nhịp điệu ấm áp cho trẻ 6 tuổi. Sử dụng từ cổ vũ (Wow, Hooray, Bingo)."
+  },
+  "rewards_system": {
+    "item_name": "Kẹo ngọt 🍬",
+    "milestone_candy_target": 5,
+    "victory_sfx": "level_up_fanfare"
+  },
+  "failsafe_offline_messages": {
+    "wifi_lost_tts": "Mạng WiFi nhà mình hình như đang đi ngủ rồi con ơi! ... Con bảo bố mẹ kiểm tra lại cục mạng giúp robot nhé!",
+    "server_timeout_tts": "Úi chà! Máy chủ Xiaozhi đang bận một xíu xiu. ... Con bấm nút khởi động trên lưng để robot kết nối lại nha!"
+  },
+  "vocabulary_pool": {
+    "bell": {
+      "phonetic": "/bel/",
+      "keywords": [
+        "bell"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... bell!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... bell!"
+      }
+    },
+    "pen": {
+      "phonetic": "/pen/",
+      "keywords": [
+        "pen"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... pen!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... pen!"
+      }
+    },
+    "pencil": {
+      "phonetic": "/ˈpensəl/",
+      "keywords": [
+        "pencil"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... pencil!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... pencil!"
+      }
+    },
+    "red": {
+      "phonetic": "/red/",
+      "keywords": [
+        "red"
+      ],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... red!",
+        "fail_2_tts": "Gần đúng rồi! ... Cùng đọc lại nào: ... red!"
+      }
+    }
+  },
+  "flows": [
+    {
+      "act_id": "act_1",
+      "type": "interactive_drill",
+      "lesson": 1,
+      "page": 26,
+      "steps": [
+        {
+          "step_id": "warmup",
+          "tts": "Ting toong! ... Unit 6 ... In the classroom bắt đầu! ... Con mở sách trang 26 và cùng robot học âm E/e nhé!",
+          "emotion": "excited",
+          "sfx": "lesson_start",
+          "timeout_sec": 0
+        },
+        {
+          "step_id": "drill_vocab",
+          "target": "bell",
+          "tts": "Con nhìn tranh và đọc từ bell cho robot nghe nào!",
+          "emotion": "thinking",
+          "sfx": "whistle_waiting",
+          "timeout_sec": 10,
+          "tts_on_timeout": "Nghe robot nhé... bell! ... Con đọc lại nào!",
+          "tts_on_success": [
+            "Chính xác! ... Con được tặng 1 viên kẹo ngọt! 🍬",
+            "Wow! ... Phát âm rất tốt! ... Thêm 1 kẹo nhé! 🍬"
+          ],
+          "emotion_on_success": "happy",
+          "sfx_on_success": "candy_gain_ting",
+          "emotion_on_fail": "encouraging",
+          "sfx_on_fail": "magic_retry"
+        }
+      ]
+    },
+    {
+      "act_id": "act_4",
+      "type": "game_referee",
+      "lesson": 2,
+      "page": 27,
+      "on_web_correct": {
+        "tts_robot": "Wow! ... Bingo! ... Con chọn đúng rồi! ... Robot thưởng con 1 viên kẹo ngọt nhé! 🍬",
+        "emotion": "happy",
+        "sfx": "candy_gain_ting"
+      },
+      "on_web_wrong": {
+        "tts_robot": "Oh... chưa chính xác rồi con ơi. ... Nghe robot đọc lại nhé: ... pen!",
+        "emotion": "encouraging",
+        "sfx": "magic_retry"
+      }
+    },
+    {
+      "act_id": "act_7",
+      "type": "roleplay_game",
+      "lesson": 3,
+      "page": 28,
+      "character": "Robot",
+      "script_phases": [
+        {
+          "phase_id": "practice",
+          "robot_says": "Hello! Let's practise Unit 6. ... What is it? ... It's a red pen.",
+          "emotion": "wave_hand",
+          "sfx": "pop_greeting",
+          "expected_regex": ".*",
+          "fallback_tts": "Con hãy nói theo mẫu nhé: ... It's a red pen."
+        }
+      ]
+    }
+  ],
+  "voice_quiz_arena": {
+    "arena_prompts": {
+      "welcome": "Chào mừng dũng sĩ đến với đấu trường Quiz Unit 6! ... Hãy trả lời đúng để nhận kẹo nhé!",
+      "win_all": "Xuất sắc! ... Con đã hoàn thành tất cả câu hỏi! ... Hooray!"
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "correct_option": "A",
+        "tts_clip": "What is it? ... A: It's a red pen. ... B: Hãy chọn câu phù hợp khác. ... Con chọn A hay B nào?",
+        "emotion": "quiz_mode"
+      }
+    ]
+  }
+}
