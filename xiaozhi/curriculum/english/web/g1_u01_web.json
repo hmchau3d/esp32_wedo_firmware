@@ -1,15 +1,7 @@
 {
   "unit_id": "g1_u01",
   "unit_title": "Unit 1: In the school playground",
-  "pedagogical_focus": "Chữ cái: B/b. Từ vựng: ball, bike, book. Mẫu câu trọng tâm: What is it? – It's a ball..",
-  "source_pages": {
-    "student_book_pages": [
-      6,
-      7,
-      8
-    ],
-    "pdf_file": "thuvienhoclieu.com-SGK-Tieng-anh-1-Global-Success(3).pdf"
-  },
+  "pedagogical_focus": "Chữ cái: Bb. Âm: /b/. Ngữ pháp: Chào hỏi và tự giới thiệu tên (Hi, I'm... / Bye, ...).",
   "ui_branding": {
     "primary_theme_color": "#35A7FF",
     "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
@@ -20,31 +12,31 @@
       "word": "ball",
       "phonetic": "/bɔːl/",
       "meaning": "quả bóng",
-      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ ball theo nhịp chậm.",
+      "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
       "image_meta": {
         "url": "https://githubusercontent.com",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
         "url": "https://githubusercontent.com",
-        "start_sec": null,
-        "end_sec": null
+        "start_sec": 11.2,
+        "end_sec": 13.5
       }
     },
     {
       "vocab_id": "v2",
-      "word": "bike",
-      "phonetic": "/baɪk/",
-      "meaning": "xe đạp",
-      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ bike theo nhịp chậm.",
+      "word": "Bill",
+      "phonetic": "/bɪl/",
+      "meaning": "Bạn Bill (Tên riêng)",
+      "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
       "image_meta": {
         "url": "https://githubusercontent.com",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
         "url": "https://githubusercontent.com",
-        "start_sec": null,
-        "end_sec": null
+        "start_sec": 16.1,
+        "end_sec": 18.2
       }
     },
     {
@@ -52,38 +44,38 @@
       "word": "book",
       "phonetic": "/bʊk/",
       "meaning": "quyển sách",
-      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ book theo nhịp chậm.",
+      "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
       "image_meta": {
         "url": "https://githubusercontent.com",
-        "placeholder_color": "#E0F2FE"
+        "placeholder_color": "#FEF3C7"
       },
       "audio_segment": {
         "url": "https://githubusercontent.com",
-        "start_sec": null,
-        "end_sec": null
+        "start_sec": 21.4,
+        "end_sec": 23.8
       }
     },
     {
       "vocab_id": "v4",
-      "word": "Bill",
-      "phonetic": "/bɪl/",
-      "meaning": "tên riêng Bill",
-      "parent_guide": "Nghe mẫu trong SGK và cho bé lặp lại từ Bill theo nhịp chậm.",
+      "word": "bike",
+      "phonetic": "/baɪk/",
+      "meaning": "xe đạp",
+      "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
       "image_meta": {
         "url": "https://githubusercontent.com",
-        "placeholder_color": "#E0F2FE"
+        "placeholder_color": "#FEE2E2"
       },
       "audio_segment": {
         "url": "https://githubusercontent.com",
-        "start_sec": null,
-        "end_sec": null
+        "start_sec": 26.5,
+        "end_sec": 28.9
       }
     }
   ],
   "lessons_timeline": [
     {
       "lesson_id": "l1",
-      "lesson_title": "Lesson 1 - Presentation: Nhận diện ngữ âm & từ vựng",
+      "lesson_title": "Lesson 1 - Pha Presentation: Nhận diện Ngữ âm & Từ vựng",
       "page": 6,
       "page_scene_image": "https://githubusercontent.com",
       "activities": [
@@ -91,23 +83,27 @@
           "activity_id": "g1_u01_act1",
           "num": 1,
           "title": "1. Listen and repeat",
-          "description": "Bé nhìn tranh trong SGK trang 6, nghe mẫu âm B/b và các từ: ball, bike, book. Sau đó lặp lại theo mẫu.",
+          "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike. Bố mẹ bấm nút dưới để Robot nói lời thoại phối hợp giảng bài.",
           "audio_controller": {
-            "track_label": "SGK audio",
+            "track_label": "Track 2",
             "url": "https://githubusercontent.com"
+          },
+          "web_to_robot_bridge": {
+            "api_endpoint": "/change-lesson-web?act_id=g1_u01_act1&trigger=play_audio",
+            "button_label": "🔊 Ra lệnh cho Robot giảng từ vựng"
           }
         },
         {
           "activity_id": "g1_u01_act2",
           "num": 2,
           "title": "2. Point and say",
-          "description": "Bé chỉ vào từng hình và nói từ vựng: ball, bike, book."
+          "description": "Robot sẽ đóng vai đố vui, yêu cầu con tìm kiếm và chỉ tay vào đồ vật trong sách rồi đọc to từ vựng tiếng Anh lên để tích điểm thưởng kẹo."
         }
       ]
     },
     {
       "lesson_id": "l2",
-      "lesson_title": "Lesson 2 - Practice: Luyện nghe, chant và nhận diện",
+      "lesson_title": "Lesson 2 - Pha Practice: Luyện nghe tích hợp & Vận động",
       "page": 7,
       "page_scene_image": "https://githubusercontent.com",
       "activities": [
@@ -115,34 +111,29 @@
           "activity_id": "g1_u01_act3",
           "num": 3,
           "title": "3. Listen and chant",
-          "description": "Bé nghe và đọc chant với âm B/b cùng các từ trọng tâm của Unit 1.",
+          "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
           "audio_controller": {
-            "track_label": "SGK audio",
+            "track_label": "Track 3",
             "url": "https://githubusercontent.com"
           }
         },
         {
           "activity_id": "g1_u01_act4",
           "num": 4,
-          "title": "4. Listen and tick",
-          "description": "Bé nghe, nhận diện từ/câu và chọn hình đúng.",
+          "title": "4. Listen and tick (Số hóa Game trắc nghiệm)",
+          "description": "Con nghe máy đọc Track 4 và dùng ngón tay chọn đáp án đúng ngay trên điện thoại của mẹ. Robot làm trọng tài phát nhạc và chấm điểm.",
           "audio_controller": {
-            "track_label": "SGK audio",
+            "track_label": "Track 4",
             "url": "https://githubusercontent.com"
           },
           "digital_game": {
-            "question_text": "Nghe câu hỏi: What is it?",
+            "question_text": "Câu hỏi số 1: Con nghe thấy máy phát âm từ nào?",
             "options": [
-              {
-                "opt_id": "a",
-                "text": "It's a ball."
-              },
-              {
-                "opt_id": "b",
-                "text": "Câu trả lời khác"
-              }
+              {"opt_id": "a", "text": "Hình A: Quả bóng (ball)"},
+              {"opt_id": "b", "text": "Hình B: Xe đạp (bike)"}
             ],
-            "correct_answer": "a",
+            "correct_answer": "b",
+            "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách).",
             "sync_endpoint": "/change-lesson-web?act_id=g1_u01_act4&score="
           }
         },
@@ -150,13 +141,13 @@
           "activity_id": "g1_u01_act5",
           "num": 5,
           "title": "5. Look and trace",
-          "description": "Bé nhìn mẫu và tập tô chữ B/b trong SGK."
+          "description": "Bố mẹ hướng dẫn con tập tô chữ B hoa và chữ b thường vào ô ly trang số 7 sách giáo khoa."
         }
       ]
     },
     {
       "lesson_id": "l3",
-      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu và giao tiếp",
+      "lesson_title": "Lesson 3 - Pha Production: Hội thoại mở rộng cùng AI",
       "page": 8,
       "page_scene_image": "https://githubusercontent.com",
       "activities": [
@@ -164,13 +155,10 @@
           "activity_id": "g1_u01_act6",
           "num": 6,
           "title": "6. Listen and repeat",
-          "description": "Bé nghe và lặp lại mẫu câu trọng tâm: What is it? – It's a ball..",
-          "target_structures": [
-            "What is it?",
-            "It's a ball."
-          ],
+          "description": "Bé làm quen với mẫu câu chào hỏi giao tiếp nền tảng qua giọng đọc Track 5.",
+          "target_structures": ["Hi, I'm Bill.", "Bye, Bill."],
           "audio_controller": {
-            "track_label": "SGK audio",
+            "track_label": "Track 5",
             "url": "https://githubusercontent.com"
           }
         },
@@ -178,16 +166,16 @@
           "activity_id": "g1_u01_act7",
           "num": 7,
           "title": "7. Let's talk",
-          "description": "Bé luyện hội thoại theo mẫu: What is it? – It's a ball..",
-          "coaching_tip": "Nếu con bỡ ngỡ, phụ huynh nhắc con nói theo mẫu: It's a ball."
+          "description": "Trò chơi nhập vai. Robot chủ động chào con: 'Hi! I'm Bill. What's your name?'. Bé hãy nghe và bật phản xạ tự giới thiệu tên mình.",
+          "coaching_tip": "Nếu con bỡ ngỡ, mẹ hãy nhìn gợi ý này và nhắc con nói câu: Hi, I'm + [Tên của con] nhé!"
         },
         {
           "activity_id": "g1_u01_act8",
           "num": 8,
           "title": "8. Let's sing!",
-          "description": "Tổng kết Unit 1 bằng hoạt động hát/nhịp điệu với âm B/b, từ vựng và mẫu câu trọng tâm.",
+          "description": "Tổng kết buổi học bằng bài hát vui nhộn kết hợp các từ vựng và cấu trúc câu đã học trong cả Unit 1.",
           "audio_controller": {
-            "track_label": "SGK audio",
+            "track_label": "Track 6",
             "url": "https://githubusercontent.com"
           }
         }
