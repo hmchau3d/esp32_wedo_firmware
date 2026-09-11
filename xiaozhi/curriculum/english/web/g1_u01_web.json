@@ -11,14 +11,14 @@
       "vocab_id": "v1",
       "word": "ball",
       "phonetic": "/bɔːl/",
-      "meaning": "quả bóng",
+      "meaning": "quả bóng ⚽",
       "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
       "image_meta": {
-        "url": "https://www.flaticon.com/free-icon/basketball_5285691",
+        "url": "https://github.com",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+        "url": "https://github.com",
         "start_sec": 11.2,
         "end_sec": 13.5
       }
@@ -27,14 +27,14 @@
       "vocab_id": "v2",
       "word": "Bill",
       "phonetic": "/bɪl/",
-      "meaning": "Bạn Bill (Tên riêng)",
+      "meaning": "Bạn Bill 👦",
       "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
       "image_meta": {
-        "url": "https://www.flaticon.com/free-icon/boy_3667832",
+        "url": "https://github.com",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+        "url": "https://github.com",
         "start_sec": 16.1,
         "end_sec": 18.2
       }
@@ -43,14 +43,14 @@
       "vocab_id": "v3",
       "word": "book",
       "phonetic": "/bʊk/",
-      "meaning": "quyển sách",
+      "meaning": "quyển sách 📚",
       "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
       "image_meta": {
-        "url": "https://www.flaticon.com/free-icon/book_207114",
+        "url": "https://github.com",
         "placeholder_color": "#FEF3C7"
       },
       "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+        "url": "https://github.com",
         "start_sec": 21.4,
         "end_sec": 23.8
       }
@@ -59,14 +59,14 @@
       "vocab_id": "v4",
       "word": "bike",
       "phonetic": "/baɪk/",
-      "meaning": "xe đạp",
+      "meaning": "xe đạp 🚲",
       "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
       "image_meta": {
-        "url": "https://www.flaticon.com/free-icon/bicycle_2972185",
+        "url": "https://github.com",
         "placeholder_color": "#FEE2E2"
       },
       "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+        "url": "https://github.com",
         "start_sec": 26.5,
         "end_sec": 28.9
       }
@@ -77,7 +77,6 @@
       "lesson_id": "l1",
       "lesson_title": "Lesson 1 - Pha Presentation: Nhận diện Ngữ âm & Từ vựng",
       "page": 6,
-      "page_scene_image": "https://githubusercontent.com",
       "activities": [
         {
           "activity_id": "g1_u01_act1",
@@ -86,10 +85,10 @@
           "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike. Bố mẹ bấm nút dưới để Robot nói lời thoại phối hợp giảng bài.",
           "audio_controller": {
             "track_label": "Track 2",
-            "url": "https://githubusercontent.com"
+            "url": "https://github.com"
           },
           "web_to_robot_bridge": {
-            "api_endpoint": "/change-lesson-web?act_id=g1_u01_act1&trigger=play_audio",
+            "step_id": "warmup_playground",
             "button_label": "🔊 Ra lệnh cho Robot giảng từ vựng"
           }
         },
@@ -105,7 +104,6 @@
       "lesson_id": "l2",
       "lesson_title": "Lesson 2 - Pha Practice: Luyện nghe tích hợp & Vận động",
       "page": 7,
-      "page_scene_image": "https://githubusercontent.com",
       "activities": [
         {
           "activity_id": "g1_u01_act3",
@@ -114,7 +112,7 @@
           "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
           "audio_controller": {
             "track_label": "Track 3",
-            "url": "https://githubusercontent.com"
+            "url": "https://github.com"
           }
         },
         {
@@ -124,7 +122,7 @@
           "description": "Con nghe máy đọc Track 4 và dùng ngón tay chọn đáp án đúng ngay trên điện thoại của mẹ. Robot làm trọng tài phát nhạc và chấm điểm.",
           "audio_controller": {
             "track_label": "Track 4",
-            "url": "https://githubusercontent.com"
+            "url": "https://github.com"
           },
           "digital_game": {
             "question_text": "Câu hỏi số 1: Con nghe thấy máy phát âm từ nào?",
@@ -133,15 +131,8 @@
               {"opt_id": "b", "text": "Hình B: Xe đạp (bike)"}
             ],
             "correct_answer": "b",
-            "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách).",
-            "sync_endpoint": "/change-lesson-web?act_id=g1_u01_act4&score="
+            "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách)."
           }
-        },
-        {
-          "activity_id": "g1_u01_act5",
-          "num": 5,
-          "title": "5. Look and trace",
-          "description": "Bố mẹ hướng dẫn con tập tô chữ B hoa và chữ b thường vào ô ly trang số 7 sách giáo khoa."
         }
       ]
     },
@@ -149,7 +140,6 @@
       "lesson_id": "l3",
       "lesson_title": "Lesson 3 - Pha Production: Hội thoại mở rộng cùng AI",
       "page": 8,
-      "page_scene_image": "https://githubusercontent.com",
       "activities": [
         {
           "activity_id": "g1_u01_act6",
@@ -159,7 +149,7 @@
           "target_structures": ["Hi, I'm Bill.", "Bye, Bill."],
           "audio_controller": {
             "track_label": "Track 5",
-            "url": "https://githubusercontent.com"
+            "url": "https://github.com"
           }
         },
         {
@@ -168,18 +158,15 @@
           "title": "7. Let's talk",
           "description": "Trò chơi nhập vai. Robot chủ động chào con: 'Hi! I'm Bill. What's your name?'. Bé hãy nghe và bật phản xạ tự giới thiệu tên mình.",
           "coaching_tip": "Nếu con bỡ ngỡ, mẹ hãy nhìn gợi ý này và nhắc con nói câu: Hi, I'm + [Tên của con] nhé!"
-        },
-        {
-          "activity_id": "g1_u01_act8",
-          "num": 8,
-          "title": "8. Let's sing!",
-          "description": "Tổng kết buổi học bằng bài hát vui nhộn kết hợp các từ vựng và cấu trúc câu đã học trong cả Unit 1.",
-          "audio_controller": {
-            "track_label": "Track 6",
-            "url": "https://githubusercontent.com"
-          }
         }
       ]
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question_text": "Bạn Bill trốn ở đâu nhỉ? ... A: In the school playground. ... B: In the bedroom.",
+      "options": ["A", "B"],
+      "correct_option": "A"
     }
   ]
 }
