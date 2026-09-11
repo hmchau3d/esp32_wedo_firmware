@@ -14,11 +14,11 @@
       "meaning": "quả bóng ⚽",
       "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
       "image_meta": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/ball.png?raw=true",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
         "start_sec": 11.2,
         "end_sec": 13.5
       }
@@ -30,11 +30,11 @@
       "meaning": "Bạn Bill 👦",
       "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
       "image_meta": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/bill.png?raw=true",
         "placeholder_color": "#E0F2FE"
       },
       "audio_segment": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
         "start_sec": 16.1,
         "end_sec": 18.2
       }
@@ -46,11 +46,11 @@
       "meaning": "quyển sách 📚",
       "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
       "image_meta": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/book.png?raw=true",
         "placeholder_color": "#FEF3C7"
       },
       "audio_segment": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
         "start_sec": 21.4,
         "end_sec": 23.8
       }
@@ -62,11 +62,11 @@
       "meaning": "xe đạp 🚲",
       "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
       "image_meta": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/bike.png?raw=true",
         "placeholder_color": "#FEE2E2"
       },
       "audio_segment": {
-        "url": "https://github.com",
+        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
         "start_sec": 26.5,
         "end_sec": 28.9
       }
