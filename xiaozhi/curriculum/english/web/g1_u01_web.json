@@ -77,6 +77,7 @@
       "lesson_id": "l1",
       "lesson_title": "Lesson 1 - Pha Presentation: Nhận diện Ngữ âm & Từ vựng",
       "page": 6,
+      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p06.png?raw=true",
       "activities": [
         {
           "activity_id": "g1_u01_act1",
@@ -85,7 +86,9 @@
           "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike. Bố mẹ bấm nút dưới để Robot nói lời thoại phối hợp giảng bài.",
           "audio_controller": {
             "track_label": "Track 2",
-            "url": "https://github.com"
+            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+            "start_sec": 26.5,
+            "end_sec": 28.9
           },
           "web_to_robot_bridge": {
             "step_id": "warmup_playground",
@@ -104,6 +107,7 @@
       "lesson_id": "l2",
       "lesson_title": "Lesson 2 - Pha Practice: Luyện nghe tích hợp & Vận động",
       "page": 7,
+      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p07.png?raw=true",
       "activities": [
         {
           "activity_id": "g1_u01_act3",
@@ -112,7 +116,9 @@
           "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
           "audio_controller": {
             "track_label": "Track 3",
-            "url": "https://github.com"
+            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+            "start_sec": 26.5,
+            "end_sec": 28.9
           }
         },
         {
@@ -122,7 +128,9 @@
           "description": "Con nghe máy đọc Track 4 và dùng ngón tay chọn đáp án đúng ngay trên điện thoại của mẹ. Robot làm trọng tài phát nhạc và chấm điểm.",
           "audio_controller": {
             "track_label": "Track 4",
-            "url": "https://github.com"
+            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+            "start_sec": 26.5,
+            "end_sec": 28.9
           },
           "digital_game": {
             "question_text": "Câu hỏi số 1: Con nghe thấy máy phát âm từ nào?",
@@ -140,6 +148,7 @@
       "lesson_id": "l3",
       "lesson_title": "Lesson 3 - Pha Production: Hội thoại mở rộng cùng AI",
       "page": 8,
+      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p08.png?raw=true",
       "activities": [
         {
           "activity_id": "g1_u01_act6",
@@ -149,7 +158,9 @@
           "target_structures": ["Hi, I'm Bill.", "Bye, Bill."],
           "audio_controller": {
             "track_label": "Track 5",
-            "url": "https://github.com"
+            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
+            "start_sec": 26.5,
+            "end_sec": 28.9
           }
         },
         {
