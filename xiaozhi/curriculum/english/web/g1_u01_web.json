@@ -2,9 +2,10 @@
   "unit_id": "g1_u01",
   "unit_title": "Unit 1: In the school playground",
   "pedagogical_focus": "Chữ cái: Bb. Âm: /b/. Ngữ pháp: Chào hỏi và tự giới thiệu tên (Hi, I'm... / Bye, ...).",
+  "asset_base_url": "https://github.com/hmchau3d/esp32_wedo_firmware/tree/main/xiaozhi/curriculum/english/assets/",
   "ui_branding": {
-    "primary_theme_color": "#35A7FF",
-    "background_gradient": "linear-gradient(135deg, #F0F9FF, #E0F2FE)"
+    "primary_theme_color": "#5C2D91",
+    "background_gradient": "linear-gradient(135deg, #E6F7FF, #FFFFFF)"
   },
   "vocabulary_display": [
     {
@@ -13,15 +14,8 @@
       "phonetic": "/bɔːl/",
       "meaning": "quả bóng ⚽",
       "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
-      "image_meta": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/ball.png?raw=true",
-        "placeholder_color": "#E0F2FE"
-      },
-      "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-        "start_sec": 11.2,
-        "end_sec": 13.5
-      }
+      "file_img": "image/grade_01/Unit_01/ball.png",
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 11.2, "end_sec": 13.5 }
     },
     {
       "vocab_id": "v2",
@@ -29,15 +23,8 @@
       "phonetic": "/bɪl/",
       "meaning": "Bạn Bill 👦",
       "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
-      "image_meta": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/bill.png?raw=true",
-        "placeholder_color": "#E0F2FE"
-      },
-      "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-        "start_sec": 16.1,
-        "end_sec": 18.2
-      }
+      "file_img": "image/grade_01/Unit_01/bill.png",
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 16.1, "end_sec": 18.2 }
     },
     {
       "vocab_id": "v3",
@@ -45,15 +32,8 @@
       "phonetic": "/bʊk/",
       "meaning": "quyển sách 📚",
       "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
-      "image_meta": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/book.png?raw=true",
-        "placeholder_color": "#FEF3C7"
-      },
-      "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-        "start_sec": 21.4,
-        "end_sec": 23.8
-      }
+      "file_img": "image/grade_01/Unit_01/book.png",
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 21.4, "end_sec": 23.8 }
     },
     {
       "vocab_id": "v4",
@@ -61,94 +41,69 @@
       "phonetic": "/baɪk/",
       "meaning": "xe đạp 🚲",
       "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
-      "image_meta": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/Unit_01/bike.png?raw=true",
-        "placeholder_color": "#FEE2E2"
-      },
-      "audio_segment": {
-        "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-        "start_sec": 26.5,
-        "end_sec": 28.9
-      }
+      "file_img": "image/grade_01/Unit_01/bike.png",
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 26.5, "end_sec": 28.9 }
     }
   ],
   "lessons_timeline": [
     {
-      "lesson_id": "l1",
-      "lesson_title": "Lesson 1 - Pha Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "lesson_id": "u1_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
       "page": 6,
-      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p06.png?raw=true",
+      "file_scene_image": "image/grade_01/g1_p06.png",
       "activities": [
         {
-          "activity_id": "g1_u01_act1",
+          "activity_id": "act_1",
           "num": 1,
           "title": "1. Listen and repeat",
-          "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike. Bố mẹ bấm nút dưới để Robot nói lời thoại phối hợp giảng bài.",
-          "audio_controller": {
-            "track_label": "Track 2",
-            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-            "start_sec": 26.5,
-            "end_sec": 28.9
-          },
-          "web_to_robot_bridge": {
-            "step_id": "warmup_playground",
-            "button_label": "🔊 Ra lệnh cho Robot giảng từ vựng"
-          }
+          "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 30.2, "end_sec": 52.4 },
+          "web_to_robot_bridge": { "step_id": "warmup", "button_label": "🔊 Ra lệnh Robot giảng bài (Âm /b/)" }
         },
         {
           "activity_id": "g1_u01_act2",
           "num": 2,
           "title": "2. Point and say",
-          "description": "Robot sẽ đóng vai đố vui, yêu cầu con tìm kiếm và chỉ tay vào đồ vật trong sách rồi đọc to từ vựng tiếng Anh lên để tích điểm thưởng kẹo."
+          "description": "Robot sẽ đóng vai đố vui qua loa phần cứng, yêu cầu con tìm kiếm và chỉ tay vào đồ vật trong sách rồi đọc to từ vựng."
         }
       ]
     },
     {
-      "lesson_id": "l2",
-      "lesson_title": "Lesson 2 - Pha Practice: Luyện nghe tích hợp & Vận động",
+      "lesson_id": "u1_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
       "page": 7,
-      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p07.png?raw=true",
+      "file_scene_image": "image/grade_01/g1_p07.png",
       "activities": [
         {
           "activity_id": "g1_u01_act3",
           "num": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
-          "audio_controller": {
-            "track_label": "Track 3",
-            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-            "start_sec": 26.5,
-            "end_sec": 28.9
-          }
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 58.1, "end_sec": 84.5 }
         },
         {
-          "activity_id": "g1_u01_act4",
+          "activity_id": "act_4",
           "num": 4,
           "title": "4. Listen and tick (Số hóa Game trắc nghiệm)",
-          "description": "Con nghe máy đọc Track 4 và dùng ngón tay chọn đáp án đúng ngay trên điện thoại của mẹ. Robot làm trọng tài phát nhạc và chấm điểm.",
-          "audio_controller": {
-            "track_label": "Track 4",
-            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-            "start_sec": 26.5,
-            "end_sec": 28.9
-          },
+          "description": "Con nghe máy đọc Track 4 và chọn đáp án đúng ngay trên Web. Robot làm trọng tài chấm điểm phát nhạc thưởng kẹo.",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g1_u01.mp3", "start_sec": 90.3, "end_sec": 115.8 },
           "digital_game": {
             "question_text": "Câu hỏi số 1: Con nghe thấy máy phát âm từ nào?",
             "options": [
-              {"opt_id": "a", "text": "Hình A: Quả bóng (ball)"},
-              {"opt_id": "b", "text": "Hình B: Xe đạp (bike)"}
+              { "opt_id": "game_wrong", "text": "Hình A: Quả bóng (ball)" },
+              { "opt_id": "game_correct", "text": "Hình B: Xe đạp (bike)" }
             ],
-            "correct_answer": "b",
+            "correct_answer": "game_correct",
             "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách)."
           }
         }
       ]
     },
     {
-      "lesson_id": "l3",
-      "lesson_title": "Lesson 3 - Pha Production: Hội thoại mở rộng cùng AI",
+      "lesson_id": "u1_l3",
+      "lesson_title": "Lesson 3 - Production: Hội thoại mở rộng cùng AI",
       "page": 8,
-      "page_scene_image": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/image/grade_01/g1_p08.png?raw=true",
+      "file_scene_image": "image/grade_01/g1_p08.png",
       "activities": [
         {
           "activity_id": "g1_u01_act6",
@@ -156,19 +111,15 @@
           "title": "6. Listen and repeat",
           "description": "Bé làm quen với mẫu câu chào hỏi giao tiếp nền tảng qua giọng đọc Track 5.",
           "target_structures": ["Hi, I'm Bill.", "Bye, Bill."],
-          "audio_controller": {
-            "track_label": "Track 5",
-            "url": "https://github.com/hmchau3d/esp32_wedo_firmware/blob/main/xiaozhi/curriculum/english/assets/audio/g1_u01.mp3",
-            "start_sec": 26.5,
-            "end_sec": 28.9
-          }
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g1_u01.mp3", "start_sec": 122.4, "end_sec": 140.2 }
         },
         {
-          "activity_id": "g1_u01_act7",
+          "activity_id": "act_7",
           "num": 7,
           "title": "7. Let's talk",
-          "description": "Trò chơi nhập vai. Robot chủ động chào con: 'Hi! I'm Bill. What's your name?'. Bé hãy nghe và bật phản xạ tự giới thiệu tên mình.",
-          "coaching_tip": "Nếu con bỡ ngỡ, mẹ hãy nhìn gợi ý này và nhắc con nói câu: Hi, I'm + [Tên của con] nhé!"
+          "description": "Trò chơi nhập vai hội thoại. Robot chủ động chào con qua loa Xiaozhi: 'Hello! Let's practise...'. Bé hãy phản xạ nói tên mình.",
+          "coaching_tip": "Mẹ nhắc con nói câu: Hi, I'm + [Tên của con] nhé!",
+          "web_to_robot_bridge": { "step_id": "practice", "button_label": "🤝 Bật kịch bản hội thoại mẫu câu cùng Robot" }
         }
       ]
     }
