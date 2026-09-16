@@ -2,7 +2,7 @@
   "unit_id": "g1_u01",
   "unit_title": "Unit 1: In the school playground",
   "pedagogical_focus": "Chữ cái: Bb. Âm: /b/. Ngữ pháp: Chào hỏi và tự giới thiệu tên (Hi, I'm... / Bye, ...).",
-  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  "asset_base_url": "https://githubusercontent.com",
   "ui_branding": {
     "primary_theme_color": "#5C2D91",
     "background_gradient": "linear-gradient(135deg, #E6F7FF, #FFFFFF)"
@@ -15,7 +15,7 @@
       "meaning": "quả bóng ⚽",
       "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
       "file_img": "image/grade_01/Unit_01/ball.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 11.2, "end_sec": 13.5 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 5.0, "end_sec": 9.0 }
     },
     {
       "vocab_id": "v2",
@@ -24,7 +24,7 @@
       "meaning": "Bạn Bill 👦",
       "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
       "file_img": "image/grade_01/Unit_01/bill.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 16.1, "end_sec": 18.2 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 10.0, "end_sec": 14.0 }
     },
     {
       "vocab_id": "v3",
@@ -33,7 +33,7 @@
       "meaning": "quyển sách 📚",
       "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
       "file_img": "image/grade_01/Unit_01/book.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 21.4, "end_sec": 23.8 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 15.0, "end_sec": 19.0 }
     },
     {
       "vocab_id": "v4",
@@ -42,7 +42,7 @@
       "meaning": "xe đạp 🚲",
       "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
       "file_img": "image/grade_01/Unit_01/bike.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 26.5, "end_sec": 28.9 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 20.0, "end_sec": 25.0 }
     }
   ],
   "lessons_timeline": [
@@ -53,11 +53,11 @@
       "file_scene_image": "image/grade_01/g1_p06.png",
       "activities": [
         {
-          "activity_id": "act_1",
+          "activity_id": "g1_u01_act1",
           "num": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike.",
-          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 30.2, "end_sec": 52.4 },
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 26.0, "end_sec": 55.0 },
           "web_to_robot_bridge": { "step_id": "warmup", "button_label": "🔊 Ra lệnh Robot giảng bài (Âm /b/)" }
         },
         {
@@ -79,14 +79,14 @@
           "num": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
-          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 58.1, "end_sec": 84.5 }
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 56.0, "end_sec": 86.0 }
         },
         {
-          "activity_id": "act_4",
+          "activity_id": "g1_u01_act4",
           "num": 4,
           "title": "4. Listen and tick (Số hóa Game trắc nghiệm)",
           "description": "Con nghe máy đọc Track 4 và chọn đáp án đúng ngay trên Web. Robot làm trọng tài chấm điểm phát nhạc thưởng kẹo.",
-          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g1_u01.mp3", "start_sec": 90.3, "end_sec": 115.8 },
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g1_u01.mp3", "start_sec": 87.0, "end_sec": 115.0 },
           "digital_game": {
             "question_text": "Câu hỏi số 1: Con nghe thấy máy phát âm từ nào?",
             "options": [
@@ -96,6 +96,12 @@
             "correct_answer": "game_correct",
             "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách)."
           }
+        },
+        {
+          "activity_id": "g1_u01_act5",
+          "num": 5,
+          "title": "5. Look and trace",
+          "description": "Bé tập tô chữ cái B (in hoa) và b (in thường) theo nét đứt hướng dẫn trên trang sách."
         }
       ]
     },
@@ -111,7 +117,7 @@
           "title": "6. Listen and repeat",
           "description": "Bé làm quen với mẫu câu chào hỏi giao tiếp nền tảng qua giọng đọc Track 5.",
           "target_structures": ["Hi, I'm Bill.", "Bye, Bill."],
-          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g1_u01.mp3", "start_sec": 122.4, "end_sec": 140.2 }
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g1_u01.mp3", "start_sec": 116.0, "end_sec": 140.0 }
         },
         {
           "activity_id": "act_7",
@@ -120,6 +126,13 @@
           "description": "Trò chơi nhập vai hội thoại. Robot chủ động chào con qua loa Xiaozhi: 'Hello! Let's practise...'. Bé hãy phản xạ nói tên mình.",
           "coaching_tip": "Mẹ nhắc con nói câu: Hi, I'm + [Tên của con] nhé!",
           "web_to_robot_bridge": { "step_id": "practice", "button_label": "🤝 Bật kịch bản hội thoại mẫu câu cùng Robot" }
+        },
+        {
+          "activity_id": "g1_u01_act8",
+          "num": 8,
+          "title": "8. Let's sing!",
+          "description": "Bé hát theo bài hát vui nhộn Track 6 để thực hành cấu trúc chào hỏi giao tiếp cùng các bạn Ba và Bill.",
+          "audio_controller": { "track_label": "Track 6", "file_mp3": "audio/g1_u01.mp3", "start_sec": 141.0, "end_sec": 175.0 }
         }
       ]
     }
@@ -127,6 +140,21 @@
   "quiz_questions": [
     {
       "question_text": "Bạn Bill trốn ở đâu nhỉ? ... A: In the school playground. ... B: In the bedroom.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "question_text": "Từ nào dưới đây có nghĩa là 'quyển sách'? ... A: book ... B: ball",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "question_text": "Khi muốn chào và tự giới thiệu tên mình 'Xin chào, mình là Bill', con sẽ nói thế nào? ... A: Bye, Bill. ... B: Hi, I'm Bill.",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "question_text": "Bé hãy chọn từ tiếng Anh thích hợp cho hình ảnh chiếc 'xe đạp': ... A: bike ... B: ball",
       "options": ["A", "B"],
       "correct_option": "A"
     }
