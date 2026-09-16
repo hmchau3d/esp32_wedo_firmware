@@ -2,7 +2,7 @@
   "unit_id": "g1_u01",
   "unit_title": "Unit 1: In the school playground",
   "pedagogical_focus": "Chữ cái: Bb. Âm: /b/. Ngữ pháp: Chào hỏi và tự giới thiệu tên (Hi, I'm... / Bye, ...).",
-  "asset_base_url": "https://githubusercontent.com",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
   "ui_branding": {
     "primary_theme_color": "#5C2D91",
     "background_gradient": "linear-gradient(135deg, #E6F7FF, #FFFFFF)"
