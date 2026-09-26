@@ -58,7 +58,11 @@
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike.",
           "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 18.0, "end_sec": 51.0 },
-          "web_to_robot_bridge": { "step_id": "warmup", "button_label": "🔊 Ra lệnh Robot giảng bài (Âm /b/)" }
+          "web_to_robot_bridge": { 
+            "nhan_nut": "giang_bai", 
+            "id_hoat_dong": "g1_u01_act1",
+            "nut_bam_label": "🔊 Robot Giảng Bài (Âm /b/)" 
+          }
         },
         {
           "activity_id": "g1_u01_act2",
@@ -94,7 +98,11 @@
               { "opt_id": "game_correct", "text": "Hình B: Xe đạp (bike)" }
             ],
             "correct_answer": "game_correct",
-            "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách)."
+            "parent_answer_hint": "Đáp án chuẩn SGK: Câu 1 là hình B (xe đạp) | Câu 2 là hình A (quyển sách).",
+            "web_to_robot_bridge": {
+              "dung_hanh_dong": "cham_diem_game",
+              "id_hoat_dong": "g1_u01_act4"
+            }
           }
         },
         {
@@ -125,7 +133,11 @@
           "title": "7. Let's talk",
           "description": "Trò chơi nhập vai hội thoại. Robot chủ động chào con qua loa Xiaozhi: 'Hello! Let's practise...'. Bé hãy phản xạ nói tên mình.",
           "coaching_tip": "Mẹ nhắc con nói câu: Hi, I'm + [Tên của con] nhé!",
-          "web_to_robot_bridge": { "step_id": "practice", "button_label": "🤝 Bật kịch bản hội thoại mẫu câu cùng Robot" }
+          "web_to_robot_bridge": { 
+            "nhan_nut": "hoi_thoai", 
+            "id_hoat_dong": "g1_u01_act7",
+            "nut_bam_label": "🤝 Trò Chuyện Cùng Robot" 
+          }
         },
         {
           "activity_id": "g1_u01_act8",
