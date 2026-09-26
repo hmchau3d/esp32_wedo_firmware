@@ -15,7 +15,7 @@
       "meaning": "quả bóng ⚽",
       "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên ở cuối từ.",
       "file_img": "image/grade_01/Unit_01/ball.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 34.0, "end_sec": 37.0 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 37.0, "end_sec": 41.0 }
     },
     {
       "vocab_id": "v2",
@@ -24,7 +24,7 @@
       "meaning": "Bạn Bill 👦",
       "parent_guide": "Phát âm giống từ 'Biu' trong tiếng Việt nhưng uốn lưỡi nhẹ.",
       "file_img": "image/grade_01/Unit_01/bill.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 0.45, "end_sec": 0.48 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 41.0, "end_sec": 45.0 }
     },
     {
       "vocab_id": "v3",
@@ -33,7 +33,7 @@
       "meaning": "quyển sách 📚",
       "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ, tránh đọc thành 'búc' thuần Việt.",
       "file_img": "image/grade_01/Unit_01/book.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 15.0, "end_sec": 19.0 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 34.0, "end_sec": 37.0 }
     },
     {
       "vocab_id": "v4",
@@ -42,7 +42,7 @@
       "meaning": "xe đạp 🚲",
       "parent_guide": "Phát âm là 'bai' và nhớ nhắc con bật nhẹ hơi chữ 'kh' ở cuối từ.",
       "file_img": "image/grade_01/Unit_01/bike.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 20.0, "end_sec": 25.0 }
+      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 45.0, "end_sec": 49.0 }
     }
   ],
   "lessons_timeline": [
@@ -57,7 +57,7 @@
           "num": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ: ball, Bill, book, bike.",
-          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 26.0, "end_sec": 55.0 },
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 21.0, "end_sec": 51.0 },
           "web_to_robot_bridge": { "step_id": "warmup", "button_label": "🔊 Ra lệnh Robot giảng bài (Âm /b/)" }
         },
         {
@@ -79,7 +79,7 @@
           "num": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn Track 3 và vỗ tay theo nhịp điệu bài chant ngữ âm: B, b, ball. B, b, book.",
-          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 56.0, "end_sec": 86.0 }
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 54.0, "end_sec": 139.0 }
         },
         {
           "activity_id": "g1_u01_act4",
