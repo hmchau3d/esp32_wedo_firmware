@@ -1,8 +1,14 @@
 {
   "uid": "g1_u01",
+  "source_basis": {
+    "textbook": "Tiếng Anh 1 - Global Success",
+    "unit": "Unit 1: In the school playground",
+    "student_book_pages":,
+    "note": "Kịch bản cấu trúc Robot đầy đủ, phản hồi đồng bộ 100% cho tất cả các hoạt động trên Web."
+  },
   "config_xiaozhi": {
     "voice_profile": "cheerful_teacher",
-    "global_speed": 0.80,
+    "global_speed": 0.8,
     "system_prompt": "Bạn là Robot Minh Châu, trợ giảng tiếng Anh. Luôn nói chậm, ngắt nghỉ bằng dấu '...' để tạo nhịp điệu ấm áp cho trẻ 6 tuổi. Sử dụng từ cổ vũ (Wow, Hooray, Bingo)."
   },
   "rewards_system": {
@@ -17,26 +23,34 @@
   "vocabulary_pool": {
     "ball": {
       "phonetic": "/bɔːl/",
-      "keywords": ["ball", "bo", "bon", "bóng", "quả bóng"],
+      "keywords": ["ball", "bo", "bon"],
       "remediation_tree": {
-        "fail_1_tts": "Con đọc kéo dài vần o ra một xíu nhé. ... Nghe robot nè: ... Ball!",
-        "fail_2_tts": "Cố lên con ơi! ... Uốn nhẹ đầu lưỡi ở cuối từ nha: ... Ball!"
-      }
-    },
-    "book": {
-      "phonetic": "/bʊk/",
-      "keywords": ["book", "búc", "búk", "sách", "quyển sách"],
-      "remediation_tree": {
-        "fail_1_tts": "Môi con mím lại bật hơi bờ nhé. ... Nghe robot nè: ... Book!",
-        "fail_2_tts": "Con đọc gần đúng rồi! ... Thêm âm khờ ở cuối giống robot nha: ... Búc... khờ... Book!"
+        "fail_1_tts": "Con nghe robot phát âm lại thật chậm nhé... ball! ... Nhớ uốn đầu lưỡi chạm vòm họng trên ở cuối từ nha!",
+        "fail_2_tts": "Gần chính xác rồi con ơi! ... Thử lại một lần nữa thật to nào: ... ball!"
       }
     },
     "bike": {
       "phonetic": "/baɪk/",
-      "keywords": ["bike", "bai", "baik", "xe đạp"],
+      "keywords": ["bike", "bai", "bác"],
       "remediation_tree": {
-        "fail_1_tts": "Đọc là bai rồi bật hơi chữ khờ cuối từ con nhé: ... Bike!",
-        "fail_2_tts": "Cố lên dũng sĩ ơi! ... Xe đạp tiếng Anh là: ... Bike!"
+        "fail_1_tts": "Con nghe robot đọc nhé... bike! ... Nhớ bật nhẹ hơi chữ khờ ở cuối nha!",
+        "fail_2_tts": "Bé đọc gần đúng rồi. ... Cùng đọc lại theo robot thật to nào: ... bike!"
+      }
+    },
+    "book": {
+      "phonetic": "/bʊk/",
+      "keywords": ["book", "búc", "búk"],
+      "remediation_tree": {
+        "fail_1_tts": "Hãy nghe robot bật hơi âm cuối nhé... book! ... Đọc âm u ngắn và bật nhẹ hơi chữ khờ nào con!",
+        "fail_2_tts": "Cố lên con yêu, sắp chuẩn rồi! ... Đọc lại cùng robot nhé: ... book!"
+      }
+    },
+    "Bill": {
+      "phonetic": "/bɪl/",
+      "keywords": ["bill", "biu"],
+      "remediation_tree": {
+        "fail_1_tts": "Con nghe robot đọc chậm nhé... Bill! ... Đọc giống từ biu nhưng uốn lưỡi nhẹ một xíu xiu nào!",
+        "fail_2_tts": "Rất tốt, một lần cuối cùng thật rõ ràng tên bạn nào: ... Bill!"
       }
     }
   },
@@ -48,24 +62,23 @@
       "page": 6,
       "steps": [
         {
-          "step_id": "warmup_playground",
-          "tts": "Ting toong! ... Lớp học đảo Minh Châu bắt đầu! ... Con hãy mở sách trang số 6, ... ra sân trường chơi cùng bạn Bill và bạn Ba nào!",
+          "step_id": "warmup",
+          "tts": "Ting toong! ... Unit 1 ... In the school playground bắt đầu! ... Con mở sách trang 6 và cùng robot học chữ cái B/b và âm /b/ ở sân trường nhé!",
           "emotion": "excited",
-          "sfx": "playground_ambient_bg",
+          "sfx": "lesson_start",
           "timeout_sec": 0
         },
         {
-          "step_id": "drill_book",
-          "target": "book",
-          "tts": "Đố con biết... bạn nhỏ đang ngồi dưới gốc cây đọc quyển gì thế nhỉ? ... Con đọc to từ Quyển Sách bằng tiếng Anh cho robot nghe nào!",
+          "step_id": "drill_vocab",
+          "target": "ball",
+          "tts": "Con nhìn vào quả bóng trên sân trường và đọc to từ ball cho robot nghe nào!",
           "emotion": "thinking",
           "sfx": "whistle_waiting",
           "timeout_sec": 10,
-          "tts_on_timeout": "Ơ kìa con ơi, ... quyển sách tiếng Anh là Book mà. ... Con đọc to lại theo robot xem nào: ... Book!",
+          "tts_on_timeout": "Nghe robot đọc mẫu nhé... ball! ... Con đọc lại theo robot đi nào!",
           "tts_on_success": [
-            "Chính xác! ... Con được tặng 1 viên kẹo ngọt! 🍬",
-            "Oa, phát âm chuẩn thế! ... Thưởng con 1 viên kẹo nha! 🍬",
-            "Bé giỏi quá ông mặt trời! ... Thêm 1 kẹo vào giỏ nào! 🍬"
+            "Chính xác! ... Con giỏi quá, được tặng 1 viên kẹo ngọt! 🍬",
+            "Wow! ... Phát âm chuẩn quá ta! ... Thêm 1 kẹo nữa nhé! 🍬"
           ],
           "emotion_on_success": "happy",
           "sfx_on_success": "candy_gain_ting",
@@ -75,19 +88,67 @@
       ]
     },
     {
+      "act_id": "g1_u01_act2",
+      "type": "hardware_game",
+      "lesson": 1,
+      "page": 6,
+      "game_script": {
+        "tts_intro": "Giờ đến trò chơi tìm kiếm đồ vật nha! ... Robot đố con tìm thấy quyển sách trang số 6 và chỉ tay vào rồi đọc to từ đó lên nào!",
+        "target": "book",
+        "emotion": "thinking",
+        "sfx": "game_alert",
+        "timeout_sec": 12,
+        "tts_on_success": "Bingo! ... Quyển sách chính là book! ... Con xuất sắc lắm, tặng con 1 kẹo! 🍬",
+        "tts_on_fail": "Ò hố, chưa nghe thấy âm thanh từ con. Quyển sách đọc là book con nhé!"
+      }
+    },
+    {
+      "act_id": "g1_u01_act3",
+      "type": "chant_coordination",
+      "lesson": 2,
+      "page": 7,
+      "coordination_script": {
+        "tts_intro": "Cùng vỗ tay thật đều và nhún nhảy theo bài nhạc chant ngữ âm vui nhộn của chữ cái B nào con ơi! ... Chuẩn bị nhé!",
+        "emotion": "dancing",
+        "sfx": "chant_music_start"
+      }
+    },
+    {
       "act_id": "g1_u01_act4",
       "type": "game_referee",
       "lesson": 2,
       "page": 7,
       "on_web_correct": {
-        "tts_robot": "Wow! ... Bingo! ... Con tích đúng hình chiếc xe đạp trên điện thoại của mẹ rồi kìa! ... Bé giỏi quá ông mặt trời! ... Robot thưởng con 1 viên kẹo ngọt nhé! 🍬",
+        "tts_robot": "Wow! ... Bingo! ... Con chọn hình chiếc xe đạp đúng chuẩn rồi! ... Robot thưởng con 1 viên kẹo ngọt nhé! 🍬",
         "emotion": "happy",
         "sfx": "candy_gain_ting"
       },
       "on_web_wrong": {
-        "tts_robot": "Oh... chưa chính xác rồi con ơi. ... Con nghe robot đọc lại rồi tích lại trên màn hình nhé: ... Bike! ... Xe đạp là bike nè con!",
+        "tts_robot": "Oh... câu này chưa chính xác rồi con ơi. ... Lắng tai nghe máy đọc lại nhé! ... bike!",
         "emotion": "encouraging",
         "sfx": "magic_retry"
+      }
+    },
+    {
+      "act_id": "g1_u01_act5",
+      "type": "trace_guidance",
+      "lesson": 2,
+      "page": 7,
+      "guidance_script": {
+        "tts_intro": "Con hãy cầm bút lên, nhìn vào khung hướng dẫn ở trang 7 và tập tô theo nét chữ cái B b thật đẹp nhé! ... Robot bật nhạc nhẹ nhàng cho con tập trung nha!",
+        "emotion": "calm",
+        "sfx": "writing_bgm"
+      }
+    },
+    {
+      "act_id": "g1_u01_act6",
+      "type": "sentence_listen",
+      "lesson": 3,
+      "page": 8,
+      "guidance_script": {
+        "tts_intro": "Bây giờ chúng mình cùng học mẫu câu chào hỏi giao tiếp nhé! ... Con nghe máy đọc thật kỹ nha!",
+        "emotion": "attentive",
+        "sfx": "bell_attention"
       }
     },
     {
@@ -98,26 +159,44 @@
       "character": "Bill",
       "script_phases": [
         {
-          "phase_id": "greeting",
-          "robot_says": "Hi! ... I'm Bill. ... What's your name?",
+          "phase_id": "practice",
+          "robot_says": "Hello! Hãy cùng bạn Bill luyện nói giao tiếp nhé. ... Hi, I'm Bill. ... Tên của con là gì nào?",
           "emotion": "wave_hand",
           "sfx": "pop_greeting",
-          "expected_regex": "^(hi|hello),? i'm [a-z\\s]+$",
-          "fallback_tts": "Con hãy vẫy tay chào lại bạn Bill ... và giới thiệu tên mình nhé! ... Ví dụ nói là: ... Hi, I'm An."
+          "expected_regex": ".*(hi|hello|i'm|am|im).*",
+          "fallback_tts": "Con hãy chào lại bạn nhé: ... Hi, I'm + tên của con."
         }
       ]
     }
   ],
   "voice_quiz_arena": {
     "arena_prompts": {
-      "welcome": "Chào mừng dũng sĩ đến với đấu trường Quiz! ... Hãy trả lời đúng các câu hỏi để giải cứu hòn đảo nhé!",
-      "win_all": "Xuất sắc! ... Con đã trả lời đúng hết tất cả câu hỏi ... và mở khóa được 5 phút trò chuyện tự do! ... Robot bắt đầu đếm ngược giải trí đây!"
+      "welcome": "Chào mừng dũng sĩ đến với đấu trường trò chơi của sân trường! ... Trả lời đúng để tích lũy kẹo cùng robot nào!",
+      "win_all": "Xuất sắc quá! ... Con đã vượt qua tất cả câu hỏi rồi! ... Hooray!"
     },
     "questions": [
       {
         "id": "q1",
         "correct_option": "A",
-        "tts_clip": "Bạn Bill trốn ở đâu nhỉ? ... A: In the school playground. ... B: In the bedroom. ... Con chọn đáp án A hay B nào?",
+        "tts_clip": "Bạn Bill trốn ở đâu nhỉ? ... A: In the school playground. ... B: In the bedroom. ... Con chọn A hay B?",
+        "emotion": "quiz_mode"
+      },
+      {
+        "id": "q2",
+        "correct_option": "B",
+        "tts_clip": "Từ nào bắt đầu bằng chữ cái B/b con nhỉ? ... A: car. ... B: book. ... Đáp án của con là gì?",
+        "emotion": "quiz_mode"
+      },
+      {
+        "id": "q3",
+        "correct_option": "A",
+        "tts_clip": "Từ xe đạp trong tiếng Anh đọc là gì ta? ... A: bike. ... B: ball. ... Con chọn đáp án nào nào?",
+        "emotion": "quiz_mode"
+      },
+      {
+        "id": "q4",
+        "correct_option": "B",
+        "tts_clip": "Khi muốn tự giới thiệu tên mình với bạn, con sẽ nói thế nào? ... A: Bye, Bill. ... B: Hi, I'm Bill. ... A hay B đây con?",
         "emotion": "quiz_mode"
       }
     ]
