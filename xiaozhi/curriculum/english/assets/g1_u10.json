@@ -12,7 +12,7 @@
       "meaning": "quả xoài 🥭",
       "parent_guide": "Bé phát âm âm 'm', mở rộng miệng vần 'æ', ngân nhẹ âm 'ng' ở mũi và kết thúc bằng vần 'gô-u' tròn môi.",
       "file_img": "image/grade_01/Unit_10/mango.png",
-      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 16.0, "end_sec": 21.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 33.0, "end_sec": 37.0 },
       "robot_vi_hint": "Quả xoài chín vàng ngon lành kìa! Con hãy tìm quả xoài trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "con khỉ 🐒",
       "parent_guide": "Phát âm âm 'm', đọc vần 'ớ' dứt khoát kết hợp âm ngân mũi 'ng', sau đó chuyển nhanh sang âm 'ki' nhẹ nhàng.",
       "file_img": "image/grade_01/Unit_10/monkey.png",
-      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 21.0, "end_sec": 26.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 37.0, "end_sec": 41.0 },
       "robot_vi_hint": "Bạn khỉ đang leo trèo nghịch ngợm quá! Con hãy chỉ vào bạn khỉ trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "con chuột 🐭",
       "parent_guide": "Bắt đầu bằng âm 'm', mở miệng phát âm vần 'ao' và chú ý xì hơi gió âm 's' rõ ràng ở cuối từ.",
       "file_img": "image/grade_01/Unit_10/mouse.png",
-      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 41.0, "end_sec": 45.0 },
       "robot_vi_hint": "Bạn chuột nhỏ xíu thật nhanh nhẹn! Con hãy tìm bạn chuột trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "người mẹ / mẹ 👩‍👦",
       "parent_guide": "Bé phát âm âm 'm', đọc vần 'ớ' ngắn, chú ý đưa nhẹ đầu lưỡi ra giữa hai răng cho âm 'ð' và kết thúc bằng vần 'ơ' nhẹ.",
       "file_img": "image/grade_01/Unit_10/mother.png",
-      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 31.0, "end_sec": 36.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u10.mp3", "start_sec": 45.0, "end_sec": 49.0 },
       "robot_vi_hint": "Người mẹ đang dẫn bạn nhỏ đi tham quan vườn thú kìa con! Con hãy chỉ vào người mẹ trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào khung cảnh vườn bách thú sinh động trang 43. Nghe băng phát âm mẫu chữ cái Mm, âm /m/ và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 55", "file_mp3": "audio/g1_u10.mp3", "start_sec": 0.0, "end_sec": 36.0 },
+          "audio_controller": { "track_label": "Track 55", "file_mp3": "audio/g1_u10.mp3", "start_sec": 20.0, "end_sec": 49.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm cho các từ monkey, mouse, mother, mango.",
-          "audio_controller": { "track_label": "Track 56", "file_mp3": "audio/g1_u10.mp3", "start_sec": 36.0, "end_sec": 140.0 },
+          "audio_controller": { "track_label": "Track 56", "file_mp3": "audio/g1_u10.mp3", "start_sec": 54.0, "end_sec": 129.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn mô tả sự vật xuất hiện và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 57", "file_mp3": "audio/g1_u10.mp3", "start_sec": 140.0, "end_sec": 172.0 },
+          "audio_controller": { "track_label": "Track 57", "file_mp3": "audio/g1_u10.mp3", "start_sec": 129.0, "end_sec": 154.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu chỉ định vật/con vật ở xa tầm tay: 'That's a monkey.'",
-          "audio_controller": { "track_label": "Track 58", "file_mp3": "audio/g1_u10.mp3", "start_sec": 172.0, "end_sec": 185.0 },
+          "audio_controller": { "track_label": "Track 58", "file_mp3": "audio/g1_u10.mp3", "start_sec": 157.0, "end_sec": 172.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói chỉ tay vào một đồ vật hay con vật ở xa nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc gọi tên chú khỉ, quả xoài và người mẹ kính yêu ở phía xa.",
-          "audio_controller": { "track_label": "Track 59", "file_mp3": "audio/g1_u10.mp3", "start_sec": 185.0, "end_sec": 223.0 },
+          "audio_controller": { "track_label": "Track 59", "file_mp3": "audio/g1_u10.mp3", "start_sec": 172.0, "end_sec": 208.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
