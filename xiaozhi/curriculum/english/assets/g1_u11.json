@@ -12,7 +12,7 @@
       "meaning": "xe buýt 🚌",
       "parent_guide": "Bé phát âm âm 'b', mở miệng âm 'ớ' ngắn dứt khoát và chú ý xì hơi gió âm 's' rõ ràng ở cuối từ.",
       "file_img": "image/grade_01/Unit_11/bus.png",
-      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 48.0, "end_sec": 52.0 },
       "robot_vi_hint": "Chiếc xe buýt màu vàng to lớn kìa! Con hãy tìm chiếc xe buýt trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "đang chạy 🏃",
       "parent_guide": "Bé hơi chu môi phát âm âm 'r', kết hợp vần 'ʌn' dứt khoát, sau đó chuyển sang vần 'ɪŋ' ngân nhẹ ở mũi.",
       "file_img": "image/grade_01/Unit_11/running.png",
-      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 17.0, "end_sec": 22.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 35.0, "end_sec": 39.0 },
       "robot_vi_hint": "Bạn nhỏ đang chạy thể dục tung tăng kìa! Con hãy chỉ vào bạn ấy trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "ông mặt trời / ánh mặt trời ☀️",
       "parent_guide": "Bắt đầu bằng cách xì nhẹ âm 's', mở miệng phát âm âm 'ớ' ngắn và kết thúc bằng việc giữ hơi âm 'n' ở mũi.",
       "file_img": "image/grade_01/Unit_11/sun.png",
-      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 26.0, "end_sec": 30.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 43.0, "end_sec": 48.0 },
       "robot_vi_hint": "Ông mặt trời tỏa ánh nắng chói chang! Con hãy tìm ông mặt trời trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "xe tải 🚚",
       "parent_guide": "Bé phát âm tổ hợp âm 'tr', mở miệng phát âm âm 'ớ' ngắn và chú ý bật mạnh hơi âm gió 'k' thật rõ ở cuối từ.",
       "file_img": "image/grade_01/Unit_11/truck.png",
-      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 22.0, "end_sec": 26.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 39.0, "end_sec": 43.0 },
       "robot_vi_hint": "Một chiếc xe tải đang chở hàng hóa! Con hãy chỉ vào chiếc xe tải trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát khung cảnh trạm dừng xe buýt ngày nắng trang 48. Nghe băng phát âm mẫu chữ cái Uu, âm /uː/ hoặc âm /ʌ/ ngắn và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 60", "file_mp3": "audio/g1_u11.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "audio_controller": { "track_label": "Track 60", "file_mp3": "audio/g1_u11.mp3", "start_sec": 21.0, "end_sec": 52.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn và vỗ tay hoặc nhún nhảy theo giai điệu bài chant ngữ âm mô tả chiếc xe tải, xe buýt chuyển động và bạn nhỏ đang chạy.",
-          "audio_controller": { "track_label": "Track 61", "file_mp3": "audio/g1_u11.mp3", "start_sec": 35.0, "end_sec": 139.0 },
+          "audio_controller": { "track_label": "Track 61", "file_mp3": "audio/g1_u11.mp3", "start_sec": 58.0, "end_sec": 126.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn chứa âm /ʌ/ mô tả đồ vật hoặc hành động của nhân vật và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 62", "file_mp3": "audio/g1_u11.mp3", "start_sec": 139.0, "end_sec": 172.0 },
+          "audio_controller": { "track_label": "Track 62", "file_mp3": "audio/g1_u11.mp3", "start_sec": 126.0, "end_sec": 153.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu mô tả hành động chạy phân biệt giới tính nam/nữ: 'He's running.' và 'She's running.'",
-          "audio_controller": { "track_label": "Track 63", "file_mp3": "audio/g1_u11.mp3", "start_sec": 172.0, "end_sec": 194.0 },
+          "audio_controller": { "track_label": "Track 63", "file_mp3": "audio/g1_u11.mp3", "start_sec": 153.0, "end_sec": 182.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói mô tả một ai đó đang chạy nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui nhộn kể về một ngày nắng đẹp trời có bạn nhỏ đang chạy tung tăng dưới ánh mặt trời.",
-          "audio_controller": { "track_label": "Track 64", "file_mp3": "audio/g1_u11.mp3", "start_sec": 194.0, "end_sec": 228.0 },
+          "audio_controller": { "track_label": "Track 64", "file_mp3": "audio/g1_u11.mp3", "start_sec": 182.0, "end_sec": 211.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
