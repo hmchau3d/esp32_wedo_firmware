@@ -12,7 +12,7 @@
       "meaning": "đang rửa / đang giặt giũ 🧼",
       "parent_guide": "Bé chu tròn môi phát âm âm 'w', mở miệng vần 'ɒ', bật hơi mạnh âm gió 'ʃ' ở giữa và kết thúc bằng vần ngân mũi 'ɪŋ'.",
       "file_img": "image/grade_01/Unit_16/washing.png",
-      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 14.0, "end_sec": 18.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 34.0, "end_sec": 37.0 },
       "robot_vi_hint": "Bạn nhỏ đang lau chùi dọn dẹp nhà cửa phụ mẹ kìa! Con hãy tìm hành động này trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "nước / nước uống 💧",
       "parent_guide": "Chu môi phát âm âm 'w', kéo dài vần 'ɔː' tròn môi, sau đó chuyển sang vần 'tơ' nhẹ nhàng.",
       "file_img": "image/grade_01/Unit_16/water.png",
-      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 18.0, "end_sec": 22.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 37.0, "end_sec": 41.0 },
       "robot_vi_hint": "Ly nước mát lành dùng để uống khi khát! Con hãy chỉ vào ly nước trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "cửa sổ 🪟",
       "parent_guide": "Bắt đầu chu môi âm 'w', phát âm vần 'ɪn' dứt khoát, sau đó kết thúc bằng vần 'đô-u' tròn môi.",
       "file_img": "image/grade_01/Unit_16/window.png",
-      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 22.0, "end_sec": 26.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 41.0, "end_sec": 45.0 },
       "robot_vi_hint": "Cánh cửa sổ phòng ngủ hướng ra khu vườn kìa con! Con hãy tìm cánh cửa sổ trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "bạn Wendy (tên riêng) 👧",
       "parent_guide": "Chu môi phát âm âm 'w', mở miệng vần 'en' dứt khoát và chuyển nhanh sang vần 'đi' nhẹ nhàng.",
       "file_img": "image/grade_01/Unit_16/Wendy.png",
-      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 45.0, "end_sec": 48.0 },
       "robot_vi_hint": "Bạn gái Wendy đang đứng ngay trước cửa phòng kìa! Con hãy chỉ vào bạn Wendy trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát các hoạt động dọn dẹp tại nhà trang 68. Nghe băng phát âm mẫu chữ cái Ww, âm /w/ và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 85", "file_mp3": "audio/g1_u16.mp3", "start_sec": 0.0, "end_sec": 31.0 },
+          "audio_controller": { "track_label": "Track 85", "file_mp3": "audio/g1_u16.mp3", "start_sec": 20.0, "end_sec": 48.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần bài chant vui nhộn tập đếm số lượng cửa sổ tăng dần từ sáu đến mười, vỗ tay theo nhịp điệu của bài nghe.",
-          "audio_controller": { "track_label": "Track 86", "file_mp3": "audio/g1_u16.mp3", "start_sec": 31.0, "end_sec": 137.0 },
+          "audio_controller": { "track_label": "Track 86", "file_mp3": "audio/g1_u16.mp3", "start_sec": 48.0, "end_sec": 128.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy đếm số nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn hỏi số lượng đồ vật và đánh dấu tick vào ô vuông có chữ số tương ứng chính xác (sáu cửa sổ hoặc tám cây bút).",
-          "audio_controller": { "track_label": "Track 87", "file_mp3": "audio/g1_u16.mp3", "start_sec": 137.0, "end_sec": 172.0 },
+          "audio_controller": { "track_label": "Track 87", "file_mp3": "audio/g1_u16.mp3", "start_sec": 128.0, "end_sec": 160.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy hỏi đếm ra bao nhiêu món đồ và click đánh dấu vào ô vuông tương ứng nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu hỏi đáp số lượng đồ vật quan sát thấy: 'How many windows can you see? - I can see six.'",
-          "audio_controller": { "track_label": "Track 88", "file_mp3": "audio/g1_u16.mp3", "start_sec": 172.0, "end_sec": 195.0 },
+          "audio_controller": { "track_label": "Track 88", "file_mp3": "audio/g1_u16.mp3", "start_sec": 160.0, "end_sec": 187.0 },
           "robot_guide_tts": "Chúng mình cùng học cách hỏi xem đối phương nhìn thấy bao nhiêu món đồ nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe nhạc và hát theo bài hát vui nhộn đếm số từ một đến mười kể về bạn Wendy nhìn thấy chiếc mũ trên giường và chú mèo bên cửa sổ.",
-          "audio_controller": { "track_label": "Track 89", "file_mp3": "audio/g1_u16.mp3", "start_sec": 195.0, "end_sec": 230.0 },
+          "audio_controller": { "track_label": "Track 89", "file_mp3": "audio/g1_u16.mp3", "start_sec": 187.0, "end_sec": 226.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
