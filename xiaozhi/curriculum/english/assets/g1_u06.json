@@ -12,7 +12,7 @@
       "meaning": "cái chuông 🔔",
       "parent_guide": "Bé phát âm âm 'b', mở rộng miệng vần 'e' và kết thúc bằng cách uốn nhẹ đầu lưỡi chạm ngạc trên ở âm 'l'.",
       "file_img": "image/grade_01/Unit_06/bell.png",
-      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 43.0, "end_sec": 47.0 },
       "robot_vi_hint": "Cái chuông nhỏ kêu leng keng! Con hãy tìm cái chuông trên màn hình và phát âm thật to bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "cái bút mực / cây bút máy 🖋️",
       "parent_guide": "Bé bặm nhẹ môi bật hơi âm 'p', mở miệng âm 'e' và kết thúc bằng cách giữ hơi âm 'n' ở mũi.",
       "file_img": "image/grade_01/Unit_06/pen.png",
-      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 40.0, "end_sec": 43.0 },
       "robot_vi_hint": "Cây bút mực dùng để viết chữ! Con hãy tìm cây bút trên màn hình máy tính và gọi tên bạn ấy đi nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "cái bút chì ✏️",
       "parent_guide": "Phát âm âm 'pen' giống như từ chiếc bút mực, sau đó chuyển nhanh sang âm 'sl' ngắn dứt khoát kết hợp uốn lưỡi âm 'l'.",
       "file_img": "image/grade_01/Unit_06/pencil.png",
-      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 20.0, "end_sec": 25.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 36.0, "end_sec": 40.0 },
       "robot_vi_hint": "Cây bút chì giúp con tập vẽ, tập tô! Con hãy chỉ vào cây bút chì trên Web và đọc to từ này lên nha!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "màu đỏ 🔴",
       "parent_guide": "Bé hơi chu môi phát âm âm 'r', mở miệng âm 'e' và chú ý bật nhẹ âm đầu lưỡi 'd' ở cuối từ.",
       "file_img": "image/grade_01/Unit_06/red.png",
-      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 15.0, "end_sec": 20.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 33.0, "end_sec": 36.0 },
       "robot_vi_hint": "Màu đỏ rực rỡ và nổi bật quá! Con hãy tìm màu đỏ trên Web và phát âm cho robot nghe xem nào!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào không gian lớp học trang 26. Nghe băng phát âm mẫu chữ cái Ee, âm /e/ và các từ vựng liên quan đến lớp học.",
-          "audio_controller": { "track_label": "Track 31", "file_mp3": "audio/g1_u06.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "audio_controller": { "track_label": "Track 31", "file_mp3": "audio/g1_u06.mp3", "start_sec": 19.0, "end_sec": 47.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm cho các từ red, pen, pencil.",
-          "audio_controller": { "track_label": "Track 32", "file_mp3": "audio/g1_u06.mp3", "start_sec": 35.0, "end_sec": 133.0 },
+          "audio_controller": { "track_label": "Track 32", "file_mp3": "audio/g1_u06.mp3", "start_sec": 53.0, "end_sec": 115.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn mô tả đồ vật màu đỏ và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 33", "file_mp3": "audio/g1_u06.mp3", "start_sec": 133.0, "end_sec": 174.0 },
+          "audio_controller": { "track_label": "Track 33", "file_mp3": "audio/g1_u06.mp3", "start_sec": 115.0, "end_sec": 138.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu mô tả đặc điểm màu sắc của đồ vật: 'It's a red pen.'",
-          "audio_controller": { "track_label": "Track 34", "file_mp3": "audio/g1_u06.mp3", "start_sec": 174.0, "end_sec": 187.0 },
+          "audio_controller": { "track_label": "Track 34", "file_mp3": "audio/g1_u06.mp3", "start_sec": 138.0, "end_sec": 155.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu món đồ màu đỏ nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc giới thiệu bản thân, sở hữu chiếc bút mực và bút chì màu đỏ.",
-          "audio_controller": { "track_label": "Track 35", "file_mp3": "audio/g1_u06.mp3", "start_sec": 187.0, "end_sec": 223.0 },
+          "audio_controller": { "track_label": "Track 35", "file_mp3": "audio/g1_u06.mp3", "start_sec": 158.0, "end_sec": 194.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
