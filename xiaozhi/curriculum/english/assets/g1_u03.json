@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào tranh chợ phố trang 14. Nghe băng phát âm mẫu chữ cái Aa, âm /æ/ và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 12", "file_mp3": "audio/g1_u03.mp3", "start_sec": 0.0, "end_sec": 33.0 },
+          "audio_controller": { "track_label": "Track 12", "file_mp3": "audio/g1_u03.mp3", "start_sec": 18.0, "end_sec": 51.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm lồng ghép các từ apple, bag, cat, hat.",
-          "audio_controller": { "track_label": "Track 13", "file_mp3": "audio/g1_u03.mp3", "start_sec": 33.0, "end_sec": 136.0 },
+          "audio_controller": { "track_label": "Track 13", "file_mp3": "audio/g1_u03.mp3", "start_sec": 53.0, "end_sec": 117.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn chứa âm /æ/ và đánh dấu tick vào ô có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 14", "file_mp3": "audio/g1_u03.mp3", "start_sec": 136.0, "end_sec": 171.0 },
+          "audio_controller": { "track_label": "Track 14", "file_mp3": "audio/g1_u03.mp3", "start_sec": 120.0, "end_sec": 138.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc từ gì và click đánh dấu vào hình đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu giới thiệu đồ vật cơ bản: 'This is my bag.'",
-          "audio_controller": { "track_label": "Track 15", "file_mp3": "audio/g1_u03.mp3", "start_sec": 171.0, "end_sec": 192.0 },
+          "audio_controller": { "track_label": "Track 15", "file_mp3": "audio/g1_u03.mp3", "start_sec": 138.0, "end_sec": 156.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu đây là món đồ của mình nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc giới thiệu đồ vật sở hữu trong Unit 3.",
-          "audio_controller": { "track_label": "Track 16", "file_mp3": "audio/g1_u03.mp3", "start_sec": 192.0, "end_sec": 234.0 },
+          "audio_controller": { "track_label": "Track 16", "file_mp3": "audio/g1_u03.mp3", "start_sec": 156.0, "end_sec": 183.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
