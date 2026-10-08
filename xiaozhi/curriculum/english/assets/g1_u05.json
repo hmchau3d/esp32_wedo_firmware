@@ -12,7 +12,7 @@
       "meaning": "thịt gà / con gà 🍗",
       "parent_guide": "Bé phát âm âm 'tʃ' chu môi bật hơi mạnh, mở miệng phát âm vần 'ɪk' dứt khoát và kết thúc bằng vần 'ɪn' ở mũi.",
       "file_img": "image/grade_01/Unit_05/chicken.png",
-      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 21.0, "end_sec": 26.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 42.0, "end_sec": 45.0 },
       "robot_vi_hint": "Món thịt gà rán vàng ruộm thơm ngon quá! Con hãy tìm đĩa thịt gà trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -24,7 +24,7 @@
       "meaning": "khoai tây chiên 🍟",
       "parent_guide": "Bé bật hơi mạnh vần 'tʃ', phát âm âm 'i' ngắn dứt khoát, mím nhẹ môi ở âm 'p' và xì hơi gió âm 's' ở cuối.",
       "file_img": "image/grade_01/Unit_05/chips.png",
-      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 17.0, "end_sec": 21.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 38.0, "end_sec": 42.0 },
       "robot_vi_hint": "Những thanh khoai tây chiên giòn rụm kìa con! Con hãy chỉ vào gói khoai tây trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -34,7 +34,7 @@
       "meaning": "cá / món cá chiên 🐟",
       "parent_guide": "Bắt đầu bằng cách đặt răng trên chạm nhẹ môi dưới phát âm âm 'f', phát âm âm 'i' ngắn và kết thúc bằng việc chu môi thổi hơi mạnh cho vần 'ʃ'.",
       "file_img": "image/grade_01/Unit_05/fish.png",
-      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 13.0, "end_sec": 17.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 35.0, "end_sec": 38.0 },
       "robot_vi_hint": "Món cá chiên nóng hổi thơm phức luôn! Con hãy tìm đĩa cá trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -44,7 +44,7 @@
       "meaning": "sữa / hộp sữa 🥛",
       "parent_guide": "Bé phát âm âm 'm', mở miệng phát âm âm 'i' ngắn, hơi uốn lưỡi chạm ngạc ở vần 'l' và bật nhẹ hơi gió âm 'k' ở cuối từ.",
       "file_img": "image/grade_01/Unit_05/milk.png",
-      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 45.0, "end_sec": 48.0 },
       "robot_vi_hint": "Một hộp sữa tươi mát lành chứa nhiều dinh dưỡng! Con hãy chỉ vào hộp sữa trên màn hình và đọc to lên nha!"
     }
   ],
@@ -60,7 +60,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát không gian tiệm bán cá và khoai tây chiên trang 23. Nghe băng phát âm mẫu chữ cái Ii, âm /ɪ/ và các từ vựng đồ ăn đồ uống liên quan.",
-          "audio_controller": { "track_label": "Track 26", "file_mp3": "audio/g1_u05.mp3", "start_sec": 0.0, "end_sec": 31.0 },
+          "audio_controller": { "track_label": "Track 26", "file_mp3": "audio/g1_u05.mp3", "start_sec": 22.0, "end_sec": 48.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -81,14 +81,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe giai điệu nhạc vần bài chant vui tươi lồng ghép tổ hợp các món ăn đi kèm nhau, vỗ tay theo nhịp điệu của các câu mẫu 'fish and chips', 'milk and chicken'.",
-          "audio_controller": { "track_label": "Track 27", "file_mp3": "audio/g1_u05.mp3", "start_sec": 31.0, "end_sec": 135.0 },
+          "audio_controller": { "track_label": "Track 27", "file_mp3": "audio/g1_u05.mp3", "start_sec": 51.0, "end_sec": 125.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn giới thiệu đồ ăn với cấu trúc 'This is...' và click đánh dấu tick vào ô vuông ứng với bức hình chính xác.",
-          "audio_controller": { "track_label": "Track 28", "file_mp3": "audio/g1_u05.mp3", "start_sec": 135.0, "end_sec": 170.0 },
+          "audio_controller": { "track_label": "Track 28", "file_mp3": "audio/g1_u05.mp3", "start_sec": 125.0, "end_sec": 148.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy giới thiệu món ăn gì và click đánh dấu vào ô vuông tương ứng nha!"
         },
         {
@@ -109,7 +109,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại câu bày tỏ sở thích ăn uống cá nhân phổ biến: 'I like milk.'",
-          "audio_controller": { "track_label": "Track 29", "file_mp3": "audio/g1_u05.mp3", "start_sec": 170.0, "end_sec": 192.0 },
+          "audio_controller": { "track_label": "Track 29", "file_mp3": "audio/g1_u05.mp3", "start_sec": 154.0, "end_sec": 167.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói mình thích món đồ ăn thức uống gì nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -122,7 +122,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe nhạc sôi động và hát theo bài hát vui nhộn thể hiện niềm yêu thích với món cá chiên kèm khoai tây cùng món gà rán ăn kèm sữa.",
-          "audio_controller": { "track_label": "Track 30", "file_mp3": "audio/g1_u05.mp3", "start_sec": 192.0, "end_sec": 234.0 },
+          "audio_controller": { "track_label": "Track 30", "file_mp3": "audio/g1_u05.mp3", "start_sec": 167.0, "end_sec": 196.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
