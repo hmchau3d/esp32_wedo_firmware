@@ -1,126 +1,128 @@
 {
-  "uid": "g1_u01",
-  "unit_title": "Unit 1: In the school playground",
-  "pedagogical_focus": "Chữ cái: Bb. Âm: /b/. Ngữ pháp: Chào hỏi và tự giới thiệu tên.",
+  "uid": "g1_u05",
+  "unit_title": "Unit 5: At the fish and chip shop",
+  "pedagogical_focus": "Chữ cái: Ii. Âm: /ɪ/. Ngữ pháp: Diễn tả sở thích ăn uống cá nhân bằng cấu trúc 'I like...'.",
   "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
   
   "vocabulary_pool": [
     {
-      "vocab_id": "v1",
-      "word": "ball",
-      "phonetic": "/bɔːl/",
-      "meaning": "quả bóng ⚽",
-      "parent_guide": "Nhắc bé kéo dài vần 'o' và uốn đầu lưỡi chạm vòm họng trên.",
-      "file_img": "image/grade_01/Unit_01/ball.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 37.0, "end_sec": 41.0 },
-      "robot_vi_hint": "Quả bóng! Con hãy tìm quả bóng trên máy tính rồi phát âm tiếng Anh cho robot nghe xem nào!"
+      "vocab_id": "v17",
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meaning": "thịt gà / con gà 🍗",
+      "parent_guide": "Bé phát âm âm 'tʃ' chu môi bật hơi mạnh, mở miệng phát âm vần 'ɪk' dứt khoát và kết thúc bằng vần 'ɪn' ở mũi.",
+      "file_img": "image/grade_01/Unit_05/chicken.png",
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 21.0, "end_sec": 26.0 },
+      "robot_vi_hint": "Món thịt gà rán vàng ruộm thơm ngon quá! Con hãy tìm đĩa thịt gà trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
-      "vocab_id": "v2",
-      "word": "book",
-      "phonetic": "/bʊk/",
-      "meaning": "quyển sách 📚",
-      "parent_guide": "Âm 'u' ngắn, nhắc bé bật hơi nhẹ chữ 'kh' ở cuối từ.",
-      "file_img": "image/grade_01/Unit_01/book.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 34.0, "end_sec": 37.0 },
-      "robot_vi_hint": "Quyển sách tiếng Anh đọc là gì nhỉ? Con hãy chỉ vào quyển sách trên màn hình Web và đọc to lên nào!"
+      "vocab_id": "v18",
+      "word": "chips",
+      "vocab_id_alias": ["fish and chips"],
+      "word": "chips",
+      "phonetic": "/tʃɪps/",
+      "meaning": "khoai tây chiên 🍟",
+      "parent_guide": "Bé bật hơi mạnh vần 'tʃ', phát âm âm 'i' ngắn dứt khoát, mím nhẹ môi ở âm 'p' và xì hơi gió âm 's' ở cuối.",
+      "file_img": "image/grade_01/Unit_05/chips.png",
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 17.0, "end_sec": 21.0 },
+      "robot_vi_hint": "Những thanh khoai tây chiên giòn rụm kìa con! Con hãy chỉ vào gói khoai tây trên Web và phát âm cho robot nghe xem nào!"
     },
     {
-      "vocab_id": "v3",
-      "word": "bike",
-      "phonetic": "/baɪk/",
-      "meaning": "xe đạp 🚲",
-      "parent_guide": "Nhắc bé bật hơi nhẹ chữ 'k' ở cuối từ.",
-      "file_img": "image/grade_01/Unit_01/bike.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 45.0, "end_sec": 49.0 },
-      "robot_vi_hint": "Chiếc xe đạp! Con hãy chỉ vào chiếc xe đạp trên màn hình và đọc to lên nào!"
+      "vocab_id": "v19",
+      "word": "fish",
+      "phonetic": "/fɪʃ/",
+      "meaning": "cá / món cá chiên 🐟",
+      "parent_guide": "Bắt đầu bằng cách đặt răng trên chạm nhẹ môi dưới phát âm âm 'f', phát âm âm 'i' ngắn và kết thúc bằng việc chu môi thổi hơi mạnh cho vần 'ʃ'.",
+      "file_img": "image/grade_01/Unit_05/fish.png",
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 13.0, "end_sec": 17.0 },
+      "robot_vi_hint": "Món cá chiên nóng hổi thơm phức luôn! Con hãy tìm đĩa cá trên màn hình máy tính và gọi tên đi nào!"
     },
     {
-      "vocab_id": "v4",
-      "word": "Bill",
-      "phonetic": "/bɪl/",
-      "meaning": "bạn Bill 👦",
-      "parent_guide": "Nhắc bé uốn cong đầu lưỡi chạm vào ngạc trên để phát âm âm 'l' cuối.",
-      "file_img": "image/grade_01/Unit_01/bill.png",
-      "audio_segment": { "file_mp3": "audio/g1_u01.mp3", "start_sec": 41.0, "end_sec": 45.0 },
-      "robot_vi_hint": "Bạn nam này tên là gì nhỉ? Con hãy gọi tên bạn bằng tiếng Anh cho robot nghe nhé!"
+      "vocab_id": "v20",
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "sữa / hộp sữa 🥛",
+      "parent_guide": "Bé phát âm âm 'm', mở miệng phát âm âm 'i' ngắn, hơi uốn lưỡi chạm ngạc ở vần 'l' và bật nhẹ hơi gió âm 'k' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_05/milk.png",
+      "audio_segment": { "file_mp3": "audio/g1_u05.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "robot_vi_hint": "Một hộp sữa tươi mát lành chứa nhiều dinh dưỡng! Con hãy chỉ vào hộp sữa trên màn hình và đọc to lên nha!"
     }
   ],
 
   "lessons_timeline": [
     {
-      "lesson_id": "u1_l1",
+      "lesson_id": "u05_l1",
       "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
-      "page": 6,
-      "file_scene_image": "image/grade_01/g1_p06.png",
+      "page": 23,
+      "file_scene_image": "image/grade_01/g1_p23.png",
       "activities": [
         {
           "activity_idx": 1,
           "title": "1. Listen and repeat",
-          "description": "Bé nhìn vào tranh toàn cảnh sân trường trang 6. Nghe băng phát âm mẫu chữ Bb, âm /b/ và các từ vựng.",
-          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g1_u01.mp3", "start_sec": 18.0, "end_sec": 51.0 },
+          "description": "Bé quan sát không gian tiệm bán cá và khoai tây chiên trang 23. Nghe băng phát âm mẫu chữ cái Ii, âm /ɪ/ và các từ vựng đồ ăn đồ uống liên quan.",
+          "audio_controller": { "track_label": "Track 26", "file_mp3": "audio/g1_u05.mp3", "start_sec": 0.0, "end_sec": 31.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
           "activity_idx": 2,
           "title": "2. Point and say",
-          "description": "Chơi trò Chỉ tranh đố vui. Con lắng nghe câu hỏi tiếng Việt từ Robot, sau đó click chọn đồ vật trên Web và phát âm tiếng Anh.",
-          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các đồ vật trong tranh!"
+          "description": "Chơi trò Chỉ tranh đố vui trong tiệm ăn. Con lắng nghe hiệu lệnh hỏi từ Robot, sau đó click chọn món ăn trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các món ăn ngon lành hoặc hộp sữa tươi ở trong tiệm ăn này!"
         }
       ]
     },
     {
-      "lesson_id": "u1_l2",
-      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
-      "page": 7,
-      "file_scene_image": "image/grade_01/g1_p07.png",
+      "lesson_id": "u05_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe nhận diện & Nhịp điệu bài Chant",
+      "page": 24,
+      "file_scene_image": "image/grade_01/g1_p24.png",
       "activities": [
         {
           "activity_idx": 3,
           "title": "3. Listen and chant",
-          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm.",
-          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g1_u01.mp3", "start_sec": 54.0, "end_sec": 139.0 },
+          "description": "Bé nghe giai điệu nhạc vần bài chant vui tươi lồng ghép tổ hợp các món ăn đi kèm nhau, vỗ tay theo nhịp điệu của các câu mẫu 'fish and chips', 'milk and chicken'.",
+          "audio_controller": { "track_label": "Track 27", "file_mp3": "audio/g1_u05.mp3", "start_sec": 31.0, "end_sec": 135.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
-          "description": "Bé nghe đoạn hội thoại ngắn và đánh dấu tick vào ô có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g1_u01.mp3", "start_sec": 141.0, "end_sec": 161.0 },
-          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc từ gì và click đánh dấu vào hình đó nha!"
+          "description": "Bé nghe đoạn hội thoại ngắn giới thiệu đồ ăn với cấu trúc 'This is...' và click đánh dấu tick vào ô vuông ứng với bức hình chính xác.",
+          "audio_controller": { "track_label": "Track 28", "file_mp3": "audio/g1_u05.mp3", "start_sec": 135.0, "end_sec": 170.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy giới thiệu món ăn gì và click đánh dấu vào ô vuông tương ứng nha!"
         },
         {
           "activity_idx": 5,
           "title": "5. Look and trace",
-          "description": "Bé nhìn vào các từ và tập tô chữ cái Bb (B hoa và b thường).",
-          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ B hoa và b thường trên màn hình nhé!"
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo các nét đứt mẫu chữ cái Ii (I hoa và i thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ I hoa và i thường trên màn hình nhé!"
         }
       ]
     },
     {
-      "lesson_id": "u1_l3",
-      "lesson_title": "Lesson 3 - Production: Luyện nói & Hát",
-      "page": 8,
-      "file_scene_image": "image/grade_01/g1_p08.png",
+      "lesson_id": "u05_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói sở thích & Hát bài hát",
+      "page": 25,
+      "file_scene_image": "image/grade_01/g1_p25.png",
       "activities": [
         {
           "activity_idx": 6,
           "title": "6. Listen and repeat",
-          "description": "Bé nghe và lặp lại mẫu câu chào hỏi cơ bản: 'Hi, I'm Bill' và 'Bye, Bill'.",
-          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g1_u01.mp3", "start_sec": 161.0, "end_sec": 182.0 },
-          "robot_guide_tts": "Chúng mình cùng học cách chào hỏi nhé. Con hãy nghe và đọc theo máy nào!"
+          "description": "Bé nghe và lặp lại câu bày tỏ sở thích ăn uống cá nhân phổ biến: 'I like milk.'",
+          "audio_controller": { "track_label": "Track 29", "file_mp3": "audio/g1_u05.mp3", "start_sec": 170.0, "end_sec": 192.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói mình thích món đồ ăn thức uống gì nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
           "activity_idx": 7,
           "title": "7. Let's talk",
-          "description": "Thực hành nói: Bé đóng vai và tự giới thiệu tên mình bằng cấu trúc 'Hi, I'm...'.",
-          "robot_guide_tts": "Bây giờ con hãy thử tự giới thiệu tên mình bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'Hi, I'm...' nào!"
+          "description": "Thực hành tập nói: Bé chỉ tay vào các hình vẽ gợi ý món ăn (sữa, cá và khoai tây chiên, thịt gà) rồi thực hành nói cấu trúc sở thích 'I like...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử đóng vai bày tỏ món ăn con thích bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'I like...' nào!"
         },
         {
           "activity_idx": 8,
           "title": "8. Let's sing",
-          "description": "Bé nghe và hát theo bài hát về các từ vựng và câu chào hỏi trong Unit 1.",
-          "audio_controller": { "track_label": "Track 6", "file_mp3": "audio/g1_u01.mp3", "start_sec": 182.0, "end_sec": 215.0 },
+          "description": "Bé nghe nhạc sôi động và hát theo bài hát vui nhộn thể hiện niềm yêu thích với món cá chiên kèm khoai tây cùng món gà rán ăn kèm sữa.",
+          "audio_controller": { "track_label": "Track 30", "file_mp3": "audio/g1_u05.mp3", "start_sec": 192.0, "end_sec": 234.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
@@ -130,25 +132,25 @@
   "quiz_arena": [
     {
       "q_idx": 1,
-      "question_text": "Từ nào dưới đây có nghĩa là 'quyển sách'? ... A: book ... B: ball",
+      "question_text": "Từ nào dưới đây có nghĩa là 'khoai tây chiên'? ... A: chips ... B: fish",
       "options": ["A", "B"],
       "correct_option": "A"
     },
     {
       "q_idx": 2,
-      "question_text": "Chiếc 'xe đạp' trong tiếng Anh đọc là gì con nhỉ? ... A: ball ... B: bike",
+      "question_text": "Món cá trong tiếng Anh đọc là gì con nhỉ? ... A: milk ... B: fish",
       "options": ["A", "B"],
       "correct_option": "B"
     },
     {
       "q_idx": 3,
-      "question_text": "Đâu là từ dùng để chỉ 'quả bóng'? ... A: ball ... B: Bill",
+      "question_text": "Đâu là từ dùng để chỉ 'thịt gà'? ... A: chicken ... B: milk",
       "options": ["A", "B"],
       "correct_option": "A"
     },
     {
       "q_idx": 4,
-      "question_text": "Khi muốn giới thiệu 'Mình là Bill', con sẽ nói câu nào? ... A: Hi, I'm Bill. ... B: Bye, Bill.",
+      "question_text": "Khi muốn nói 'Mình thích sữa', con sẽ chọn câu nào? ... A: I like milk. ... B: This is milk.",
       "options": ["A", "B"],
       "correct_option": "A"
     }
