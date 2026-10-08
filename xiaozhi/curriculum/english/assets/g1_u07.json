@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u07",
+  "unit_title": "Unit 7: In the garden",
+  "pedagogical_focus": "Chữ cái: Gg. Âm: /ɡ/. Ngữ pháp: Diễn tả sự tồn tại của sự vật với cấu trúc 'There's a...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v25",
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meaning": "khu vườn 🏡",
+      "parent_guide": "Bé phát âm âm 'g', kéo dài vần 'a' một chút và kết thúc bằng vần 'dn' dứt khoát.",
+      "file_img": "image/grade_01/Unit_07/garden.png",
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "robot_vi_hint": "Một khu vườn đầy hoa xinh đẹp! Con hãy tìm khu vườn trên màn hình và phát âm thật to bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v26",
+      "word": "gate",
+      "phonetic": "/ɡeɪt/",
+      "meaning": "cái cổng 🚪",
+      "parent_guide": "Phát âm âm 'g', mở miệng phát âm vần 'ê-i' mềm mượt và bật hơi nhẹ chữ 't' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_07/gate.png",
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "robot_vi_hint": "Cái cổng rào màu trắng kìa con! Con hãy tìm cái cổng trên màn hình máy tính và gọi tên bạn ấy đi nào!"
+    },
+    {
+      "vocab_id": "v27",
+      "word": "girl",
+      "phonetic": "/ɡɜːl/",
+      "meaning": "bạn gái / cô bé 👧",
+      "parent_guide": "Bắt đầu bằng âm 'g', phát âm vần 'ơ' kéo dài rồi uốn nhẹ đầu lưỡi chạm ngạc trên ở âm 'l' cuối từ.",
+      "file_img": "image/grade_01/Unit_07/girl.png",
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 20.0, "end_sec": 25.0 },
+      "robot_vi_hint": "Một bạn gái mặc váy vàng thật dễ thương! Con hãy chỉ vào bạn gái trên Web và đọc to từ này lên nha!"
+    },
+    {
+      "vocab_id": "v28",
+      "word": "goat",
+      "phonetic": "/ɡəʊt/",
+      "meaning": "con dê 🐐",
+      "parent_guide": "Bé phát âm âm 'g', mở miệng vần 'ô-u' tròn môi và chú ý bật hơi rõ chữ 't' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_07/goat.png",
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 15.0, "end_sec": 20.0 },
+      "robot_vi_hint": "Bạn dê đang gặm cỏ kìa! Con hãy tìm bạn dê trên Web và phát âm cho robot nghe xem nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u07_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 31,
+      "file_scene_image": "image/grade_01/g1_p31.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào không gian khu vườn trang 31. Nghe băng phát âm mẫu chữ cái Gg, âm /ɡ/ và các từ vựng liên quan.",
+          "audio_controller": { "track_label": "Track 36", "file_mp3": "audio/g1_u07.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui khu vườn. Con lắng nghe câu hỏi từ Robot, sau đó click chọn đồ vật/con vật trên Web và phát âm từ vựng tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các con vật hoặc đồ vật ở trong khu vườn này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u07_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
+      "page": 32,
+      "file_scene_image": "image/grade_01/g1_p32.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm cho các từ goat, gate, girl, garden.",
+          "audio_controller": { "track_label": "Track 37", "file_mp3": "audio/g1_u07.mp3", "start_sec": 35.0, "end_sec": 134.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn mô tả sự vật với 'There's a...' và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
+          "audio_controller": { "track_label": "Track 38", "file_mp3": "audio/g1_u07.mp3", "start_sec": 134.0, "end_sec": 174.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét chữ cái Gg (G hoa và g thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ G hoa và g thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u07_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói & Hát",
+      "page": 33,
+      "file_scene_image": "image/grade_01/g1_p33.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu diễn tả sự tồn tại của sự vật: 'There's a garden.'",
+          "audio_controller": { "track_label": "Track 39", "file_mp3": "audio/g1_u07.mp3", "start_sec": 174.0, "end_sec": 187.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu có một nơi chốn hoặc đồ vật gì đó nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói: Bé chỉ vào các bức hình gợi ý (khu vườn, cái cổng, bạn gái, con dê) và tự nói cấu trúc 'There's a...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử giới thiệu sự vật bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'There's a...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc mô tả có một bạn gái và một con dê đang ở trong khu vườn.",
+          "audio_controller": { "track_label": "Track 40", "file_mp3": "audio/g1_u07.mp3", "start_sec": 187.0, "end_sec": 224.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'con dê'? ... A: goat ... B: gate",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Khu vườn trong tiếng Anh đọc là gì con nhỉ? ... A: gate ... B: garden",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'bạn gái / cô bé'? ... A: girl ... B: goat",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn nói 'Có một khu vườn', con sẽ nói câu nào? ... A: There's a garden. ... B: This is a garden.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u02",
+  "unit_title": "Unit 2: In the dining room",
+  "pedagogical_focus": "Chữ cái: Cc. Âm: /k/. Ngữ pháp: Diễn tả quyền sở hữu cấu trúc 'I have a...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v5",
+      "word": "cake",
+      "phonetic": "/keɪk/",
+      "meaning": "cái bánh 🍰",
+      "parent_guide": "Nhắc bé mở miệng phát âm âm 'ê-i' mềm mượt và bật hơi gió chữ 'k' rõ ở cuối từ.",
+      "file_img": "image/grade_01/Unit_02/cake.png",
+      "audio_segment": { "file_mp3": "audio/g1_u02.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "robot_vi_hint": "Chiếc bánh ngọt ngon quá! Con hãy tìm chiếc bánh trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v6",
+      "word": "car",
+      "phonetic": "/kɑː(r)/",
+      "meaning": "xe ô tô 🚗",
+      "parent_guide": "Phát âm âm 'a' kéo dài một chút rồi hơi cong nhẹ đầu lưỡi ở cuối từ.",
+      "file_img": "image/grade_01/Unit_02/car.png",
+      "audio_segment": { "file_mp3": "audio/g1_u02.mp3", "start_sec": 41.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Xe ô tô chạy bon bon! Hãy chỉ vào chiếc xe ô tô trên Web và phát âm cho robot nghe xem nào!"
+    },
+    {
+      "vocab_id": "v7",
+      "word": "cat",
+      "phonetic": "/kæt/",
+      "meaning": "con mèo 🐱",
+      "parent_guide": "Nhắc bé mở rộng miệng phát âm vần 'ae' lai giữa 'a' và 'e', sau đó bật hơi nhẹ chữ 't' ở cuối.",
+      "file_img": "image/grade_01/Unit_02/cat.png",
+      "audio_segment": { "file_mp3": "audio/g1_u02.mp3", "start_sec": 35.0, "end_sec": 41.0 },
+      "robot_vi_hint": "Bạn mèo meo meo đáng yêu! Con hãy tìm bạn mèo trên màn hình máy tính và gọi tên bạn ấy đi nào!"
+    },
+    {
+      "vocab_id": "v8",
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meaning": "cái cốc / cái tách 🥛",
+      "parent_guide": "Âm 'ớ' ngắn dứt khoát, nhắc bé mím nhẹ môi ở cuối từ để tạo âm bật 'p'.",
+      "file_img": "image/grade_01/Unit_02/cup.png",
+      "audio_segment": { "file_mp3": "audio/g1_u02.mp3", "start_sec": 46.0, "end_sec": 51.0 },
+      "robot_vi_hint": "Cái cốc dùng để uống nước! Con hãy chỉ vào cái cốc trên màn hình và đọc to lên nha!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u2_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 9,
+      "file_scene_image": "image/grade_01/g1_p09.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào tranh phòng ăn trang 9. Nghe băng phát âm mẫu chữ Cc, âm /k/ và các từ vựng liên quan.",
+          "audio_controller": { "track_label": "Track 7", "file_mp3": "audio/g1_u02.mp3", "start_sec": 0.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui phòng ăn. Con lắng nghe câu hỏi tiếng Việt từ Robot, sau đó click chọn đồ vật trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các đồ vật hoặc con vật trong phòng ăn!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u2_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
+      "page": 10,
+      "file_scene_image": "image/grade_01/g1_p10.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm cho các từ cup, cake, cat, car.",
+          "audio_controller": { "track_label": "Track 8", "file_mp3": "audio/g1_u02.mp3", "start_sec": 55.0, "end_sec": 113.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại âm /k/ ngắn và đánh dấu tick vào ô có hình ảnh tương ứng.",
+          "audio_controller": { "track_label": "Track 9", "file_mp3": "audio/g1_u02.mp3", "start_sec": 113.0, "end_sec": 145.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc từ gì và click đánh dấu vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và tập tô chữ cái Cc (C hoa và c thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ C hoa và c thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u2_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói & Hát",
+      "page": 11,
+      "file_scene_image": "image/grade_01/g1_p11.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu sở hữu đồ vật cơ bản: 'I have a car.'",
+          "audio_controller": { "track_label": "Track 10", "file_mp3": "audio/g1_u02.mp3", "start_sec": 145.0, "end_sec": 160.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói mình có món đồ gì nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói: Bé đóng vai chỉ vào các đồ vật (bánh, cốc, mèo) và tự giới thiệu món mình có bằng cấu trúc 'I have a...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử giới thiệu món đồ con có bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'I have a...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc sở hữu đồ vật trong Unit 2.",
+          "audio_controller": { "track_label": "Track 11", "file_mp3": "audio/g1_u02.mp3", "start_sec": 160.0, "end_sec": 210.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'cái bánh'? ... A: cake ... B: car",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Con mèo trong tiếng Anh đọc là gì con nhỉ? ... A: cup ... B: cat",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'cái cốc'? ... A: cup ... B: car",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn nói 'Mình có một chiếc ô tô', con sẽ nói câu nào? ... A: I have a car. ... B: This is a car.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

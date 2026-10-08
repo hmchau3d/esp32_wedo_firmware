@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u16",
+  "unit_title": "Unit 16: At home",
+  "pedagogical_focus": "Chữ cái: Ww. Âm: /w/. Ngữ pháp: Hỏi số lượng đối tượng có thể nhìn thấy với cấu trúc 'How many... can you see?' và trả lời 'I can see...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v61",
+      "word": "washing",
+      "phonetic": "/ˈwɒʃɪŋ/",
+      "meaning": "đang rửa / đang giặt giũ 🧼",
+      "parent_guide": "Bé chu tròn môi phát âm âm 'w', mở miệng vần 'ɒ', bật hơi mạnh âm gió 'ʃ' ở giữa và kết thúc bằng vần ngân mũi 'ɪŋ'.",
+      "file_img": "image/grade_01/Unit_16/washing.png",
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 14.0, "end_sec": 18.0 },
+      "robot_vi_hint": "Bạn nhỏ đang lau chùi dọn dẹp nhà cửa phụ mẹ kìa! Con hãy tìm hành động này trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v62",
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meaning": "nước / nước uống 💧",
+      "parent_guide": "Chu môi phát âm âm 'w', kéo dài vần 'ɔː' tròn môi, sau đó chuyển sang vần 'tơ' nhẹ nhàng.",
+      "file_img": "image/grade_01/Unit_16/water.png",
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 18.0, "end_sec": 22.0 },
+      "robot_vi_hint": "Ly nước mát lành dùng để uống khi khát! Con hãy chỉ vào ly nước trên Web và phát âm cho robot nghe xem nào!"
+    },
+    {
+      "vocab_id": "v63",
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meaning": "cửa sổ 🪟",
+      "parent_guide": "Bắt đầu chu môi âm 'w', phát âm vần 'ɪn' dứt khoát, sau đó kết thúc bằng vần 'đô-u' tròn môi.",
+      "file_img": "image/grade_01/Unit_16/window.png",
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 22.0, "end_sec": 26.0 },
+      "robot_vi_hint": "Cánh cửa sổ phòng ngủ hướng ra khu vườn kìa con! Con hãy tìm cánh cửa sổ trên màn hình máy tính và gọi tên đi nào!"
+    },
+    {
+      "vocab_id": "v64",
+      "word": "Wendy",
+      "phonetic": "/ˈwendi/",
+      "meaning": "bạn Wendy (tên riêng) 👧",
+      "parent_guide": "Chu môi phát âm âm 'w', mở miệng vần 'en' dứt khoát và chuyển nhanh sang vần 'đi' nhẹ nhàng.",
+      "file_img": "image/grade_01/Unit_16/Wendy.png",
+      "audio_segment": { "file_mp3": "audio/g1_u16.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "robot_vi_hint": "Bạn gái Wendy đang đứng ngay trước cửa phòng kìa! Con hãy chỉ vào bạn Wendy trên màn hình và đọc to lên nha!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u16_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 68,
+      "file_scene_image": "image/grade_01/g1_p68.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát các hoạt động dọn dẹp tại nhà trang 68. Nghe băng phát âm mẫu chữ cái Ww, âm /w/ và các từ vựng liên quan.",
+          "audio_controller": { "track_label": "Track 85", "file_mp3": "audio/g1_u16.mp3", "start_sec": 0.0, "end_sec": 31.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui các sự vật tại nhà. Con lắng nghe câu hỏi từ Robot, sau đó click chọn đồ vật/hành động trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các cánh cửa sổ hoặc ly nước ngay tại ngôi nhà thân yêu này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u16_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe đếm số lượng & Nhịp điệu",
+      "page": 69,
+      "file_scene_image": "image/grade_01/g1_p69.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần bài chant vui nhộn tập đếm số lượng cửa sổ tăng dần từ sáu đến mười, vỗ tay theo nhịp điệu của bài nghe.",
+          "audio_controller": { "track_label": "Track 86", "file_mp3": "audio/g1_u16.mp3", "start_sec": 31.0, "end_sec": 137.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy đếm số nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn hỏi số lượng đồ vật và đánh dấu tick vào ô vuông có chữ số tương ứng chính xác (sáu cửa sổ hoặc tám cây bút).",
+          "audio_controller": { "track_label": "Track 87", "file_mp3": "audio/g1_u16.mp3", "start_sec": 137.0, "end_sec": 172.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy hỏi đếm ra bao nhiêu món đồ và click đánh dấu vào ô vuông tương ứng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét mẫu chữ cái Ww (W hoa và w thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ W hoa và w thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u16_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện hỏi đáp số lượng quan sát & Hát",
+      "page": 70,
+      "file_scene_image": "image/grade_01/g1_p70.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu hỏi đáp số lượng đồ vật quan sát thấy: 'How many windows can you see? - I can see six.'",
+          "audio_controller": { "track_label": "Track 88", "file_mp3": "audio/g1_u16.mp3", "start_sec": 172.0, "end_sec": 195.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách hỏi xem đối phương nhìn thấy bao nhiêu món đồ nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành tập nói và đếm số: Bé chỉ tay vào các hình vẽ gợi ý (cửa sổ, quả bóng, xe buýt, cái nồi) rồi tự thực hành cấu trúc hỏi 'How many... can you see?' và đếm số lượng trả lời.",
+          "robot_guide_tts": "Bây giờ con hãy thử thực hành hỏi và đếm số lượng các món đồ con thấy bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'How many...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe nhạc và hát theo bài hát vui nhộn đếm số từ một đến mười kể về bạn Wendy nhìn thấy chiếc mũ trên giường và chú mèo bên cửa sổ.",
+          "audio_controller": { "track_label": "Track 89", "file_mp3": "audio/g1_u16.mp3", "start_sec": 195.0, "end_sec": 230.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'cửa sổ'? ... A: window ... B: water",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'water' trong tiếng Anh dùng để chỉ món gì con nhỉ? ... A: nước uống ... B: hành động rửa tay",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi mẹ đang làm sạch đồ đạc, từ tiếng Anh nào mô tả hành động đó? ... A: washing ... B: running",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn hỏi 'Con có thể nhìn thấy bao nhiêu cái cửa sổ?', con sẽ dùng câu nào? ... A: How many windows can you see? ... B: How many windows?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u08",
+  "unit_title": "Unit 8: In the park",
+  "pedagogical_focus": "Chữ cái: Hh. Âm: /h/. Ngữ pháp: Đưa ra lời mệnh lệnh hoặc yêu cầu hành động với cấu trúc 'Touch your...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v29",
+      "word": "hair",
+      "phonetic": "/heə(r)/",
+      "meaning": "mái tóc / tóc 💇",
+      "parent_guide": "Bé đẩy hơi nhẹ chữ 'h', mở miệng âm 'e' mềm mại và hơi cong nhẹ đầu lưỡi ở cuối từ.",
+      "file_img": "image/grade_01/Unit_08/hair.png",
+      "audio_segment": { "file_mp3": "audio/g1_u08.mp3", "start_sec": 15.0, "end_sec": 20.0 },
+      "robot_vi_hint": "Mái tóc của bạn nhỏ được tết bím thật xinh! Con hãy tìm mái tóc trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v30",
+      "word": "head",
+      "phonetic": "/hed/",
+      "meaning": "cái đầu 🧑",
+      "parent_guide": "Bắt đầu đẩy hơi âm 'h', mở miệng phát âm vần 'e' ngắn dứt khoát và bật hơi nhẹ chữ 'd' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_08/head.png",
+      "audio_segment": { "file_mp3": "audio/g1_u08.mp3", "start_sec": 20.0, "end_sec": 25.0 },
+      "robot_vi_hint": "Bạn nhỏ đang đưa tay lên chỉ vào đầu kìa! Con hãy tìm cái đầu trên màn hình máy tính và gọi tên đi nào!"
+    },
+    {
+      "vocab_id": "v31",
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "meaning": "bàn tay ✋",
+      "parent_guide": "Bé đẩy hơi nhẹ chữ 'h', mở rộng miệng âm 'æ', sau đó giữ âm 'n' và bật nhẹ âm 'd' ở cuối.",
+      "file_img": "image/grade_01/Unit_08/hand.png",
+      "audio_segment": { "file_mp3": "audio/g1_u08.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "robot_vi_hint": "Bàn tay đang giơ cao vẫy chào! Con hãy chỉ vào bàn tay trên Web và đọc to từ này lên nha!"
+    },
+    {
+      "vocab_id": "v32",
+      "word": "horse",
+      "phonetic": "/hɔːs/",
+      "meaning": "con ngựa / chú ngựa đồ chơi 🐴",
+      "parent_guide": "Đẩy hơi chữ 'h', tròn môi kéo dài vần 'o' và kết thúc bằng cách xì nhẹ âm gió 's' rõ ở cuối từ.",
+      "file_img": "image/grade_01/Unit_08/horse.png",
+      "audio_segment": { "file_mp3": "audio/g1_u08.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "robot_vi_hint": "Một chú ngựa bập bênh đồ chơi thật vui! Con hãy tìm chú ngựa trên Web và phát âm cho robot nghe xem nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u08_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 34,
+      "file_scene_image": "image/grade_01/g1_p34.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào tranh công viên trang 34. Nghe băng phát âm mẫu chữ cái Hh, âm /h/ và các từ vựng liên quan.",
+          "audio_controller": { "track_label": "Track 41", "file_mp3": "audio/g1_u08.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui công viên. Con lắng nghe câu hỏi từ Robot, sau đó click chọn bộ phận cơ thể hoặc đồ chơi trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các bộ phận hoặc chú ngựa ở công viên này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u08_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
+      "page": 35,
+      "file_scene_image": "image/grade_01/g1_p35.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay hoặc vận động cơ thể theo nhịp điệu bài chant ngữ âm cho các từ head, hair, hat, hands.",
+          "audio_controller": { "track_label": "Track 42", "file_mp3": "audio/g1_u08.mp3", "start_sec": 35.0, "end_sec": 130.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn chứa âm /h/ và đánh dấu tick vào ô vuông tương ứng với hình bàn tay hoặc chú ngựa.",
+          "audio_controller": { "track_label": "Track 43", "file_mp3": "audio/g1_u08.mp3", "start_sec": 130.0, "end_sec": 170.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc từ gì và click đánh dấu vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét chữ cái Hh (H hoa và h thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ H hoa và h thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u08_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói & Hát hành động",
+      "page": 36,
+      "file_scene_image": "image/grade_01/g1_p36.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại câu mệnh lệnh tương tác cơ bản: 'Touch your hair.'",
+          "audio_controller": { "track_label": "Track 44", "file_mp3": "audio/g1_u08.mp3", "start_sec": 170.0, "end_sec": 183.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách ra lệnh chạm vào bộ phận cơ thể nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói và tương tác: Bé quan sát các hình gợi ý (tóc, bàn tay, đầu, chú ngựa) và tự nói câu yêu cầu 'Touch your...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử tương tác ra lệnh bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'Touch your...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe và hát vận động theo bài hát vui tươi lồng ghép hành động chạm tay lên đầu, tóc, bàn tay và chú ngựa.",
+          "audio_controller": { "track_label": "Track 45", "file_mp3": "audio/g1_u08.mp3", "start_sec": 183.0, "end_sec": 241.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'bàn tay'? ... A: hand ... B: head",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Mái tóc trong tiếng Anh đọc là gì con nhỉ? ... A: horse ... B: hair",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'cái đầu'? ... A: head ... B: hand",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn ra lệnh 'Hãy chạm vào tóc của con', con sẽ nói câu nào? ... A: Touch your hair. ... B: This is my hair.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

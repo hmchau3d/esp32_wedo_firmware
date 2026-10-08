@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u06",
+  "unit_title": "Unit 6: In the classroom",
+  "pedagogical_focus": "Chữ cái: Ee. Âm: /e/. Ngữ pháp: Mô tả đồ vật kết hợp tính từ chỉ màu sắc với cấu trúc 'It's a red...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v21",
+      "word": "bell",
+      "phonetic": "/bel/",
+      "meaning": "cái chuông 🔔",
+      "parent_guide": "Bé phát âm âm 'b', mở rộng miệng vần 'e' và kết thúc bằng cách uốn nhẹ đầu lưỡi chạm ngạc trên ở âm 'l'.",
+      "file_img": "image/grade_01/Unit_06/bell.png",
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "robot_vi_hint": "Cái chuông nhỏ kêu leng keng! Con hãy tìm cái chuông trên màn hình và phát âm thật to bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v22",
+      "word": "pen",
+      "phonetic": "/pen/",
+      "meaning": "cái bút mực / cây bút máy 🖋️",
+      "parent_guide": "Bé bặm nhẹ môi bật hơi âm 'p', mở miệng âm 'e' và kết thúc bằng cách giữ hơi âm 'n' ở mũi.",
+      "file_img": "image/grade_01/Unit_06/pen.png",
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "robot_vi_hint": "Cây bút mực dùng để viết chữ! Con hãy tìm cây bút trên màn hình máy tính và gọi tên bạn ấy đi nào!"
+    },
+    {
+      "vocab_id": "v23",
+      "word": "pencil",
+      "phonetic": "/ˈpensl/",
+      "meaning": "cái bút chì ✏️",
+      "parent_guide": "Phát âm âm 'pen' giống như từ chiếc bút mực, sau đó chuyển nhanh sang âm 'sl' ngắn dứt khoát kết hợp uốn lưỡi âm 'l'.",
+      "file_img": "image/grade_01/Unit_06/pencil.png",
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 20.0, "end_sec": 25.0 },
+      "robot_vi_hint": "Cây bút chì giúp con tập vẽ, tập tô! Con hãy chỉ vào cây bút chì trên Web và đọc to từ này lên nha!"
+    },
+    {
+      "vocab_id": "v24",
+      "word": "red",
+      "phonetic": "/red/",
+      "meaning": "màu đỏ 🔴",
+      "parent_guide": "Bé hơi chu môi phát âm âm 'r', mở miệng âm 'e' và chú ý bật nhẹ âm đầu lưỡi 'd' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_06/red.png",
+      "audio_segment": { "file_mp3": "audio/g1_u06.mp3", "start_sec": 15.0, "end_sec": 20.0 },
+      "robot_vi_hint": "Màu đỏ rực rỡ và nổi bật quá! Con hãy tìm màu đỏ trên Web và phát âm cho robot nghe xem nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u06_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 26,
+      "file_scene_image": "image/grade_01/g1_p26.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào không gian lớp học trang 26. Nghe băng phát âm mẫu chữ cái Ee, âm /e/ và các từ vựng liên quan đến lớp học.",
+          "audio_controller": { "track_label": "Track 31", "file_mp3": "audio/g1_u06.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui lớp học. Con lắng nghe câu hỏi từ Robot, sau đó click chọn đồ vật trên Web và phát âm từ vựng tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các món đồ học tập trong lớp học này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u06_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Vận động",
+      "page": 27,
+      "file_scene_image": "image/grade_01/g1_p27.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm cho các từ red, pen, pencil.",
+          "audio_controller": { "track_label": "Track 32", "file_mp3": "audio/g1_u06.mp3", "start_sec": 35.0, "end_sec": 133.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn mô tả đồ vật màu đỏ và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
+          "audio_controller": { "track_label": "Track 33", "file_mp3": "audio/g1_u06.mp3", "start_sec": 133.0, "end_sec": 174.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét chữ cái Ee (E hoa và e thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ E hoa và e thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u06_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói & Hát",
+      "page": 28,
+      "file_scene_image": "image/grade_01/g1_p28.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu mô tả đặc điểm màu sắc của đồ vật: 'It's a red pen.'",
+          "audio_controller": { "track_label": "Track 34", "file_mp3": "audio/g1_u06.mp3", "start_sec": 174.0, "end_sec": 187.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu món đồ màu đỏ nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói: Bé đóng vai chỉ vào các đồ vật học tập màu đỏ gợi ý (bút chì, bút mực, bàn, chuông) và tự nói cấu trúc 'It's a red...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử mô tả các món đồ màu đỏ bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'It's a red...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc giới thiệu bản thân, sở hữu chiếc bút mực và bút chì màu đỏ.",
+          "audio_controller": { "track_label": "Track 35", "file_mp3": "audio/g1_u06.mp3", "start_sec": 187.0, "end_sec": 223.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'cái bút mực'? ... A: pen ... B: pencil",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Cái bút chì trong tiếng Anh đọc là gì con nhỉ? ... A: bell ... B: pencil",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'màu đỏ'? ... A: red ... B: pen",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn nói 'Đó là một chiếc bút mực màu đỏ', con sẽ nói câu nào? ... A: It's a red pen. ... B: I have a pen.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

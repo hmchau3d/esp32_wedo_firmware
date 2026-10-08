@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u11",
+  "unit_title": "Unit 11: At the bus stop",
+  "pedagogical_focus": "Chữ cái: Uu. Âm: /ʌ/. Ngữ pháp: Mô tả hành động đang diễn ra của một người bằng cấu trúc 'He's running.' và 'She's running.'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v41",
+      "word": "bus",
+      "phonetic": "/bʌs/",
+      "meaning": "xe buýt 🚌",
+      "parent_guide": "Bé phát âm âm 'b', mở miệng âm 'ớ' ngắn dứt khoát và chú ý xì hơi gió âm 's' rõ ràng ở cuối từ.",
+      "file_img": "image/grade_01/Unit_11/bus.png",
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "robot_vi_hint": "Chiếc xe buýt màu vàng to lớn kìa! Con hãy tìm chiếc xe buýt trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v42",
+      "word": "running",
+      "phonetic": "/ˈrʌnɪŋ/",
+      "meaning": "đang chạy 🏃",
+      "parent_guide": "Bé hơi chu môi phát âm âm 'r', kết hợp vần 'ʌn' dứt khoát, sau đó chuyển sang vần 'ɪŋ' ngân nhẹ ở mũi.",
+      "file_img": "image/grade_01/Unit_11/running.png",
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 17.0, "end_sec": 22.0 },
+      "robot_vi_hint": "Bạn nhỏ đang chạy thể dục tung tăng kìa! Con hãy chỉ vào bạn ấy trên Web và phát âm cho robot nghe xem nào!"
+    },
+    {
+      "vocab_id": "v43",
+      "word": "sun",
+      "phonetic": "/sʌn/",
+      "meaning": "ông mặt trời / ánh mặt trời ☀️",
+      "parent_guide": "Bắt đầu bằng cách xì nhẹ âm 's', mở miệng phát âm âm 'ớ' ngắn và kết thúc bằng việc giữ hơi âm 'n' ở mũi.",
+      "file_img": "image/grade_01/Unit_11/sun.png",
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 26.0, "end_sec": 30.0 },
+      "robot_vi_hint": "Ông mặt trời tỏa ánh nắng chói chang! Con hãy tìm ông mặt trời trên màn hình máy tính và gọi tên đi nào!"
+    },
+    {
+      "vocab_id": "v44",
+      "word": "truck",
+      "phonetic": "/trʌk/",
+      "meaning": "xe tải 🚚",
+      "parent_guide": "Bé phát âm tổ hợp âm 'tr', mở miệng phát âm âm 'ớ' ngắn và chú ý bật mạnh hơi âm gió 'k' thật rõ ở cuối từ.",
+      "file_img": "image/grade_01/Unit_11/truck.png",
+      "audio_segment": { "file_mp3": "audio/g1_u11.mp3", "start_sec": 22.0, "end_sec": 26.0 },
+      "robot_vi_hint": "Một chiếc xe tải đang chở hàng hóa! Con hãy chỉ vào chiếc xe tải trên màn hình và đọc to lên nha!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u11_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 48,
+      "file_scene_image": "image/grade_01/g1_p48.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát khung cảnh trạm dừng xe buýt ngày nắng trang 48. Nghe băng phát âm mẫu chữ cái Uu, âm /uː/ hoặc âm /ʌ/ ngắn và các từ vựng liên quan.",
+          "audio_controller": { "track_label": "Track 60", "file_mp3": "audio/g1_u11.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui tại trạm xe buýt. Con lắng nghe câu hỏi từ Robot, sau đó click chọn đồ vật/hành động trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các phương tiện giao thông hoặc hình ảnh ông mặt trời tại trạm xe buýt này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u11_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Nhịp điệu",
+      "page": 49,
+      "file_scene_image": "image/grade_01/g1_p49.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần vui nhộn và vỗ tay hoặc nhún nhảy theo giai điệu bài chant ngữ âm mô tả chiếc xe tải, xe buýt chuyển động và bạn nhỏ đang chạy.",
+          "audio_controller": { "track_label": "Track 61", "file_mp3": "audio/g1_u11.mp3", "start_sec": 35.0, "end_sec": 139.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn chứa âm /ʌ/ mô tả đồ vật hoặc hành động của nhân vật và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
+          "audio_controller": { "track_label": "Track 62", "file_mp3": "audio/g1_u11.mp3", "start_sec": 139.0, "end_sec": 172.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô nét theo mẫu chữ cái Uu (U hoa và u thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ U hoa và u thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u11_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói hành động & Hát",
+      "page": 50,
+      "file_scene_image": "image/grade_01/g1_p50.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại mẫu câu mô tả hành động chạy phân biệt giới tính nam/nữ: 'He's running.' và 'She's running.'",
+          "audio_controller": { "track_label": "Track 63", "file_mp3": "audio/g1_u11.mp3", "start_sec": 172.0, "end_sec": 194.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói mô tả một ai đó đang chạy nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói: Bé quan sát các hình vẽ nhân vật đang vận động và tự giới thiệu hành động của họ bằng cấu trúc 'He's running.' hoặc 'She's running.'.",
+          "robot_guide_tts": "Bây giờ con hãy thử đóng vai mô tả hành động chạy của các bạn nhỏ bằng tiếng Anh cho Robot nghe nhé!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe và hát theo bài hát vui nhộn kể về một ngày nắng đẹp trời có bạn nhỏ đang chạy tung tăng dưới ánh mặt trời.",
+          "audio_controller": { "track_label": "Track 64", "file_mp3": "audio/g1_u11.mp3", "start_sec": 194.0, "end_sec": 228.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'xe buýt'? ... A: bus ... B: truck",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Hành động 'đang chạy' trong tiếng Anh đọc là gì con nhỉ? ... A: sun ... B: running",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'xe tải'? ... A: truck ... B: bus",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn mô tả một bạn nam đang chạy, con sẽ chọn câu nào? ... A: He's running. ... B: She's running.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

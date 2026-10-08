@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u15",
+  "unit_title": "Unit 15: At the football match",
+  "pedagogical_focus": "Chữ cái: Ff. Âm: /f/. Ngữ pháp: Đưa ra lời mệnh lệnh hoặc yêu cầu hành động chỉ hướng với cấu trúc 'Point to your...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v57",
+      "word": "face",
+      "phonetic": "/feɪs/",
+      "meaning": "khuôn mặt / gương mặt 🧑",
+      "parent_guide": "Bé đặt răng trên chạm nhẹ môi dưới phát âm âm 'f', mở miệng vần 'ê-i' mềm mại và xì hơi gió âm 's' rõ ràng ở cuối từ.",
+      "file_img": "image/grade_01/Unit_15/face.png",
+      "audio_segment": { "file_mp3": "audio/g1_u15.mp3", "start_sec": 14.0, "end_sec": 18.0 },
+      "robot_vi_hint": "Một khuôn mặt rạng rỡ và đáng yêu quá! Con hãy tìm gương mặt trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v58",
+      "word": "foot",
+      "phonetic": "/fʊt/",
+      "meaning": "bàn chân 👣",
+      "parent_guide": "Phát âm âm 'f', mở miệng phát âm âm 'u' ngắn dứt khoát và chú ý bật hơi nhẹ chữ 't' ở cuối từ.",
+      "file_img": "image/grade_01/Unit_15/foot.png",
+      "audio_segment": { "file_mp3": "audio/g1_u15.mp3", "start_sec": 18.0, "end_sec": 22.0 },
+      "robot_vi_hint": "Bàn chân giúp con bước đi và sút bóng kìa! Con hãy chỉ vào bàn chân trên Web và phát âm cho robot nghe xem nào!"
+    },
+    {
+      "vocab_id": "v59",
+      "word": "father",
+      "phonetic": "/ˈfɑːðə(r)/",
+      "meaning": "người cha / bố 👨",
+      "parent_guide": "Bắt đầu bằng âm 'f', kéo dài vần 'a', đưa nhẹ đầu lưỡi ra giữa hai răng cho âm 'ð' và kết thúc bằng vần 'ơ' nhẹ.",
+      "file_img": "image/grade_01/Unit_15/father.png",
+      "audio_segment": { "file_mp3": "audio/g1_u15.mp3", "start_sec": 22.0, "end_sec": 26.0 },
+      "robot_vi_hint": "Người cha đang đứng cổ vũ trận đấu bóng đá kìa con! Con hãy tìm người cha trên màn hình máy tính và gọi tên đi nào!"
+    },
+    {
+      "vocab_id": "v60",
+      "word": "football",
+      "phonetic": "/ˈfʊtbɔːl/",
+      "meaning": "môn bóng đá / quả bóng đá ⚽",
+      "parent_guide": "Bé phát âm từ 'foot' dứt khoát, chuyển sang vần 'bɔːl' tròn môi kéo dài kết hợp uốn nhẹ đầu lưỡi ở cuối từ.",
+      "file_img": "image/grade_01/Unit_15/football.png",
+      "audio_segment": { "file_mp3": "audio/g1_u15.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "robot_vi_hint": "Trận đấu bóng đá đang diễn ra rất kịch tính! Con hãy chỉ vào quả bóng đá trên màn hình và đọc to lên nha!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u15_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 65,
+      "file_scene_image": "image/grade_01/g1_p65.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát không gian sân vận động náo nhiệt trang 65. Nghe băng phát âm mẫu chữ cái Ff, âm /f/ và các từ vựng liên quan đến trận đấu.",
+          "audio_controller": { "track_label": "Track 80", "file_mp3": "audio/g1_u15.mp3", "start_sec": 0.0, "end_sec": 31.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui trên sân bóng đá. Con lắng nghe câu hỏi từ Robot, sau đó click chọn nhân vật/bộ phận cơ thể trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các bộ phận cơ thể hoặc quả bóng đá trên sân vận động này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u15_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp ngữ cảnh & Nhịp điệu",
+      "page": 66,
+      "file_scene_image": "image/grade_01/g1_p66.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần bài chant vui nhộn mô tả gương mặt dễ thương của Bill và hành động xem bóng đá của gia đình, vỗ tay theo nhịp điệu bài nghe.",
+          "audio_controller": { "track_label": "Track 81", "file_mp3": "audio/g1_u15.mp3", "start_sec": 31.0, "end_sec": 137.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn mô tả bộ phận hoặc nhân vật và đánh dấu tick vào ô vuông tương ứng với hình bàn chân hoặc người cha.",
+          "audio_controller": { "track_label": "Track 82", "file_mp3": "audio/g1_u15.mp3", "start_sec": 137.0, "end_sec": 172.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào ô vuông tương ứng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét mẫu chữ cái Ff (F hoa và f thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ F hoa và f thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u15_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói tương tác cơ thể & Hát",
+      "page": 67,
+      "file_scene_image": "image/grade_01/g1_p67.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại câu mệnh lệnh chỉ hướng tương tác bộ phận cơ thể: 'Point to your hand.'",
+          "audio_controller": { "track_label": "Track 83", "file_mp3": "audio/g1_u15.mp3", "start_sec": 172.0, "end_sec": 185.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách ra lệnh chỉ tay vào một bộ phận cơ thể nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành tập nói và hành động: Bé chỉ tay vào các hình vẽ gợi ý bộ phận cơ thể (gương mặt, bàn chân, bàn tay) rồi thực hành nói cấu trúc 'Point to your...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử tương tác ra lệnh chỉ hướng bộ phận bằng tiếng Anh cho Robot nghe nhé! Bắt đầu bằng 'Point to your...' nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe nhạc và hát theo bài hát vui nhộn kết hợp thực hiện các động tác chỉ vào gương mặt, bàn chân, mái tóc và đầu của mình.",
+          "audio_controller": { "track_label": "Track 84", "file_mp3": "audio/g1_u15.mp3", "start_sec": 185.0, "end_sec": 229.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'môn bóng đá / quả bóng đá'? ... A: football ... B: foot",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Khuôn mặt trong tiếng Anh đọc là gì con nhỉ? ... A: foot ... B: face",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'bàn chân'? ... A: foot ... B: father",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn ra lệnh 'Hãy chỉ vào khuôn mặt của con', con sẽ chọn câu nào? ... A: Point to your face. ... B: Touch your face.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

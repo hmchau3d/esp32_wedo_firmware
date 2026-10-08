@@ -1,0 +1,156 @@
+{
+  "uid": "g1_u13",
+  "unit_title": "Unit 13: In the school canteen",
+  "pedagogical_focus": "Chữ cái: Nn. Âm: /n/. Ngữ pháp: Diễn tả ai đó đang ăn món gì bằng cấu trúc 'He's having...' và 'She's having...'.",
+  "asset_base_url": "https://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v49",
+      "word": "bananas",
+      "phonetic": "/bəˈnɑːnəz/",
+      "meaning": "những quả chuối 🍌",
+      "parent_guide": "Bé phát âm âm 'bə' nhẹ, nhấn mạnh vào vần 'nɑː', tiếp tục vần 'nə' và kết thúc bằng âm 'z' nhẹ biểu thị số nhiều.",
+      "file_img": "image/grade_01/Unit_13/bananas.png",
+      "audio_segment": { "file_mp3": "audio/g1_u13.mp3", "start_sec": 19.0, "end_sec": 23.0 },
+      "robot_vi_hint": "Những quả chuối chín vàng ngon quá! Con hãy tìm chùm chuối trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
+    },
+    {
+      "vocab_id": "v50",
+      "word": "Nick",
+      "phonetic": "/nɪk/",
+      "meaning": "bạn Nick (tên riêng) 👦",
+      "parent_guide": "Bé phát âm âm 'n', mở miệng phát âm âm 'i' ngắn và chú ý bật mạnh hơi gió chữ 'k' thật rõ ở cuối từ.",
+      "file_img": "image/grade_01/Unit_13/Nick.png",
+      "audio_segment": { "file_mp3": "audio/g1_u13.mp3", "start_sec": 23.0, "end_sec": 28.0 },
+      "robot_vi_hint": "Bạn Nick tinh nghịch đang ngồi trong căng tin kìa! Con hãy chỉ vào bạn Nick trên Web và phát âm cho robot nghe xem nào!"
+    },
+    {
+      "vocab_id": "v51",
+      "word": "noodles",
+      "phonetic": "/ˈnuːdlz/",
+      "meaning": "mì / các món mì 🍜",
+      "parent_guide": "Bắt đầu bằng âm 'n', kéo dài âm 'u' tròn môi, sau đó chuyển nhanh sang vần 'dlz' dứt khoát ở cuối từ.",
+      "file_img": "image/grade_01/Unit_13/noodles.png",
+      "audio_segment": { "file_mp3": "audio/g1_u13.mp3", "start_sec": 15.0, "end_sec": 19.0 },
+      "robot_vi_hint": "Bát mì nóng hổi thơm ngon quá! Con hãy tìm bát mì trên màn hình máy tính và gọi tên đi nào!"
+    },
+    {
+      "vocab_id": "v52",
+      "word": "nuts",
+      "phonetic": "/nʌts/",
+      "meaning": "các loại hạt (đậu, lạc, hạnh nhân...) 🥜",
+      "parent_guide": "Bé phát âm âm 'n', mở miệng vần 'ớ' ngắn dứt khoát và kết thúc bằng việc bật cụm âm 'ts' nhanh sắc nét.",
+      "file_img": "image/grade_01/Unit_13/nuts.png",
+      "audio_segment": { "file_mp3": "audio/g1_u13.mp3", "start_sec": 11.0, "end_sec": 15.0 },
+      "robot_vi_hint": "Những hạt đậu ăn giòn tan và rất bổ dưỡng! Con hãy chỉ vào đĩa hạt trên màn hình và đọc to lên nha!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u13_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 57,
+      "file_scene_image": "image/grade_01/g1_p57.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào không gian căng tin trường học trang 57. Nghe băng phát âm mẫu chữ cái Nn, âm /n/ và các từ vựng đồ ăn liên quan.",
+          "audio_controller": { "track_label": "Track 70", "file_mp3": "audio/g1_u13.mp3", "start_sec": 0.0, "end_sec": 33.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Chơi trò Chỉ tranh đố vui trong căng tin. Con lắng nghe câu hỏi từ Robot, sau đó click chọn đồ ăn trên Web và phát âm tiếng Anh.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy các món ăn hoặc bạn Nick trong căng tin trường học này!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u13_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp hành động ăn uống & Vận động",
+      "page": 58,
+      "file_scene_image": "image/grade_01/g1_p58.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe nhạc vần bài chant vui nhộn kể về món ăn của bạn Nam và bạn Nick, vỗ tay theo nhịp điệu của các câu mẫu 'Nam's having nuts.', 'Nick's having noodles.'",
+          "audio_controller": { "track_label": "Track 71", "file_mp3": "audio/g1_u13.mp3", "start_sec": 33.0, "end_sec": 133.0 },
+          "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bé nghe đoạn hội thoại ngắn mô tả sở thích hoặc hành động ăn uống và đánh dấu tick vào ô vuông có hình vẽ tương ứng chính xác.",
+          "audio_controller": { "track_label": "Track 72", "file_mp3": "audio/g1_u13.mp3", "start_sec": 133.0, "end_sec": 167.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào ô vuông tương ứng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and trace",
+          "description": "Bé nhìn vào các dòng ô ly và thực hành tập tô theo nét mẫu chữ cái Nn (N hoa và n thường).",
+          "robot_guide_tts": "Con hãy dùng ngón tay hoặc chuột để tập tô theo chữ N hoa và n thường trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u13_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện nói cấu trúc đang ăn gì & Hát",
+      "page": 59,
+      "file_scene_image": "image/grade_01/g1_p59.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé nghe và lặp lại câu mô tả hành động ăn uống của nhân vật nam/nữ: 'He's having nuts.' và 'She's having noodles.'",
+          "audio_controller": { "track_label": "Track 73", "file_mp3": "audio/g1_u13.mp3", "start_sec": 167.0, "end_sec": 192.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói mô tả một ai đó đang ăn món gì nhé. Con hãy nghe và đọc theo máy nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành tập nói: Bé chỉ tay vào các hình vẽ nhân vật gợi ý (đang ăn hạt, mì, chuối) rồi thực hành nói cấu trúc 'He's having...' hoặc 'She's having...'.",
+          "robot_guide_tts": "Bây giờ con hãy thử đóng vai mô tả món ăn các bạn đang thưởng thức bằng tiếng Anh cho Robot nghe nhé!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing",
+          "description": "Bé nghe nhạc và hát theo bài hát vui nhộn kể về bạn Nam đang ăn hạt và bạn Nick đang ăn mì trong ngày hôm nay.",
+          "audio_controller": { "track_label": "Track 74", "file_mp3": "audio/g1_u13.mp3", "start_sec": 192.0, "end_sec": 229.0 },
+          "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'mì / các món mì'? ... A: noodles ... B: nuts",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Các loại hạt trong tiếng Anh đọc là gì con nhỉ? ... A: bananas ... B: nuts",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Đâu là từ dùng để chỉ 'những quả chuối'? ... A: bananas ... B: noodles",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn mô tả một bạn nữ đang ăn mì, con sẽ chọn câu nào? ... A: She's having noodles. ... B: He's having noodles.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}
