@@ -12,7 +12,7 @@
       "meaning": "bàn học / bàn làm việc  bàn có ngăn kéo  desks",
       "parent_guide": "Bé phát âm âm 'd' rõ, mở miệng vần 'e', chú ý bật hơi cụm gió 'sk' sắc nét ở cuối từ.",
       "file_img": "image/grade_01/Unit_04/desk.png",
-      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 37.0, "end_sec": 41.0 },
       "robot_vi_hint": "Bàn học ngăn nắp quá! Con hãy tìm chiếc bàn học trên màn hình và phát âm thật chuẩn tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "con chó 🐶",
       "parent_guide": "Phát âm âm 'd', hạ hàm cho âm 'o' ngắn dứt khoát và chặn hơi nhẹ âm 'g' ở cuống họng.",
       "file_img": "image/grade_01/Unit_04/dog.png",
-      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 41.0, "end_sec": 47.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 45.0, "end_sec": 47.0 },
       "robot_vi_hint": "Bạn cún đáng yêu gâu gâu! Con hãy tìm bạn cún trên màn hình máy tính và gọi tên bạn ấy đi nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "cửa ra vào 🚪",
       "parent_guide": "Phát âm âm 'd', kéo dài vần 'o' tròn môi và hơi cong nhẹ đầu lưỡi ở cuối từ.",
       "file_img": "image/grade_01/Unit_04/door.png",
-      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 35.0, "end_sec": 41.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 41.0, "end_sec": 45.0 },
       "robot_vi_hint": "Cánh cửa phòng ngủ kìa con! Con hãy chỉ vào cánh cửa trên Web và đọc to từ này lên nha!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "con vịt 🦆",
       "parent_guide": "Đọc âm 'd', bật âm 'ớ' ngắn dứt khoát rồi bật mạnh hơi âm gió 'k' rõ ở cuối từ.",
       "file_img": "image/grade_01/Unit_04/duck.png",
-      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 24.0, "end_sec": 30.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u04.mp3", "start_sec": 33.0, "end_sec": 37.0 },
       "robot_vi_hint": "Bạn vịt vàng cạp cạp đồ chơi thật ngộ nghĩnh! Con hãy tìm bạn vịt trên Web và đọc to từ này cho robot nghe xem!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát không gian phòng ngủ trang 17. Lắng nghe băng phát âm mẫu chữ cái Dd, âm /d/ cùng các từ vựng phòng ngủ.",
-          "audio_controller": { "track_label": "Track 17", "file_mp3": "audio/g1_u04.mp3", "start_sec": 0.0, "end_sec": 47.0 },
+          "audio_controller": { "track_label": "Track 17", "file_mp3": "audio/g1_u04.mp3", "start_sec": 17.0, "end_sec": 47.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe giai điệu nhạc vần bài chant vui nhộn, vỗ tay hoặc nhún nhảy theo nhịp điệu của các từ duck, dog, door, desk.",
-          "audio_controller": { "track_label": "Track 18", "file_mp3": "audio/g1_u04.mp3", "start_sec": 47.0, "end_sec": 145.0 },
+          "audio_controller": { "track_label": "Track 18", "file_mp3": "audio/g1_u04.mp3", "start_sec": 47.0, "end_sec": 106.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé lắng nghe câu hội thoại ngắn có âm /d/ phát ra từ máy và click đánh dấu chọn vào ô vuông (a hoặc b) chứa bức hình chính xác.",
-          "audio_controller": { "track_label": "Track 19", "file_mp3": "audio/g1_u04.mp3", "start_sec": 145.0, "end_sec": 191.0 },
+          "audio_controller": { "track_label": "Track 19", "file_mp3": "audio/g1_u04.mp3", "start_sec": 106.0, "end_sec": 124.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào ô tương ứng nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu nhận diện đồ vật cơ bản phổ biến trong đời sống: 'This is a dog.'",
-          "audio_controller": { "track_label": "Track 20", "file_mp3": "audio/g1_u04.mp3", "start_sec": 191.0, "end_sec": 203.0 },
+          "audio_controller": { "track_label": "Track 20", "file_mp3": "audio/g1_u04.mp3", "start_sec": 124.0, "end_sec": 140.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu một đồ vật hay con vật nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe giai điệu và hát theo bài hát vui tươi lồng ghép cấu trúc mô tả đồ vật cùng vị trí của chúng trong phòng ngủ.",
-          "audio_controller": { "track_label": "Track 21", "file_mp3": "audio/g1_u04.mp3", "start_sec": 203.0, "end_sec": 242.0 },
+          "audio_controller": { "track_label": "Track 21", "file_mp3": "audio/g1_u04.mp3", "start_sec": 140.0, "end_sec": 233.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
