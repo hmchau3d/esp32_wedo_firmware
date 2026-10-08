@@ -12,7 +12,7 @@
       "meaning": "quả táo 🍎",
       "parent_guide": "Mở rộng miệng phát âm âm 'æ' lai giữa 'a' và 'e', sau đó mím nhẹ môi ở âm 'p' và kết thúc bằng âm 'l' uốn lưỡi chạm ngạc trên.",
       "file_img": "image/grade_01/Unit_03/apple.png",
-      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 19.0, "end_sec": 24.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 40.0, "end_sec": 44.0 },
       "robot_vi_hint": "Quả táo màu đỏ chín mọng! Con hãy tìm quả táo trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "cái túi / chiếc cặp 🎒",
       "parent_guide": "Phát âm âm 'æ' dứt khoát và kết thúc bằng cách bật hơi nhẹ âm 'g' ở cuống họng.",
       "file_img": "image/grade_01/Unit_03/bag.png",
-      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 28.0, "end_sec": 33.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 47.0, "end_sec": 51.0 },
       "robot_vi_hint": "Chiếc cặp xinh xắn để đi học! Hãy chỉ vào chiếc túi trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "cái lon (nước ngọt) 🥫",
       "parent_guide": "Bắt đầu bằng âm bật 'k', mở rộng miệng với âm 'æ' và kết thúc bằng âm 'n' giữ hơi ở mũi.",
       "file_img": "image/grade_01/Unit_03/can.png",
-      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 24.0, "end_sec": 28.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 44.0, "end_sec": 47.0 },
       "robot_vi_hint": "Một lon nước ngọt mát lạnh! Con hãy tìm cái lon trên màn hình máy tính và gọi tên bạn ấy đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "cái mũ / cái nón 🤠",
       "parent_guide": "Đẩy hơi chữ 'h' nhẹ nhàng, mở miệng âm 'æ' và bật hơi rõ chữ 't' ở cuối từ.",
       "file_img": "image/grade_01/Unit_03/hat.png",
-      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 14.0, "end_sec": 19.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u03.mp3", "start_sec": 35.0, "end_sec": 40.0 },
       "robot_vi_hint": "Cái mũ dùng để đội che nắng! Con hãy chỉ vào cái mũ trên màn hình và đọc to lên nha!"
     }
   ],
