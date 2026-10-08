@@ -12,7 +12,7 @@
       "meaning": "con gấu bông 🧸",
       "parent_guide": "Bé phát âm từ 'teddy' dứt khoát, sau đó mở miệng phát âm âm 'b', vần 'e' kéo dài mềm mại và hơi cong nhẹ đầu lưỡi ở cuối từ 'bear'.",
       "file_img": "image/grade_01/Unit_14/teddy_bear.png",
-      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 16.0, "end_sec": 21.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 33.0, "end_sec": 42.0 },
       "robot_vi_hint": "Chú gấu bông thật là dễ thương! Con hãy tìm chú gấu bông trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "con hổ / con cọp 🐯",
       "parent_guide": "Bắt đầu bằng âm 't', mở miệng phát âm vần 'ai', sau đó chuyển sang vần 'gơ' và hơi cong nhẹ đầu lưỡi ở cuối từ.",
       "file_img": "image/grade_01/Unit_14/tiger.png",
-      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 11.0, "end_sec": 16.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 33.0, "end_sec": 37.0 },
       "robot_vi_hint": "Bạn hổ vằn đồ chơi trông thật oai phong! Con hãy chỉ vào bạn hổ trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "con quay / con tu tu 🪀",
       "parent_guide": "Phát âm âm 't', mở miệng phát âm âm 'o' ngắn dứt khoát và chú ý mím nhẹ môi tạo âm bật 'p' ở cuối từ.",
       "file_img": "image/grade_01/Unit_14/top.png",
-      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 21.0, "end_sec": 25.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 43.0, "end_sec": 46.0 },
       "robot_vi_hint": "Một con quay đồ chơi sắc màu đang xoay tít! Con hãy tìm con quay trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "con rùa 🐢",
       "parent_guide": "Bé phát âm âm 't', kéo dài vần 'ơ' kết hợp uốn lưỡi, sau đó kết thúc bằng vần 'tl' nhanh dứt khoát.",
       "file_img": "image/grade_01/Unit_14/turtle.png",
-      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u14.mp3", "start_sec": 46.0, "end_sec": 49.0 },
       "robot_vi_hint": "Bạn rùa nhỏ đồ chơi có chiếc mai thật cứng! Con hãy chỉ vào bạn rùa trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào không gian cửa hàng đồ chơi trang 60. Nghe băng phát âm mẫu chữ cái Tt, âm /t/ và các từ vựng đồ chơi liên quan.",
-          "audio_controller": { "track_label": "Track 75", "file_mp3": "audio/g1_u14.mp3", "start_sec": 0.0, "end_sec": 30.0 },
+          "audio_controller": { "track_label": "Track 75", "file_mp3": "audio/g1_u14.mp3", "start_sec": 17.0, "end_sec": 51.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần bài chant vui nhộn kể về những món đồ chơi bạn Tony sở hữu, vỗ tay theo nhịp điệu của các câu mẫu 'Tony has a top.', 'Tony has a turtle.'",
-          "audio_controller": { "track_label": "Track 76", "file_mp3": "audio/g1_u14.mp3", "start_sec": 30.0, "end_sec": 132.0 },
+          "audio_controller": { "track_label": "Track 76", "file_mp3": "audio/g1_u14.mp3", "start_sec": 51.0, "end_sec": 127.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn mô tả khả năng nhìn thấy đồ vật với cấu trúc 'I can see a...' và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 77", "file_mp3": "audio/g1_u14.mp3", "start_sec": 132.0, "end_sec": 172.0 },
+          "audio_controller": { "track_label": "Track 77", "file_mp3": "audio/g1_u14.mp3", "start_sec": 127.0, "end_sec": 153.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với đồ chơi gì và click đánh dấu vào ô vuông tương ứng nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại câu mô tả khả năng quan sát đồ vật/con vật cơ bản: 'I can see a tiger.'",
-          "audio_controller": { "track_label": "Track 78", "file_mp3": "audio/g1_u14.mp3", "start_sec": 172.0, "end_sec": 185.0 },
+          "audio_controller": { "track_label": "Track 78", "file_mp3": "audio/g1_u14.mp3", "start_sec": 153.0, "end_sec": 172.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói khi mình nhìn thấy một món đồ hoặc một con vật nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe nhạc và hát theo bài hát vui nhộn kể về việc nhìn thấy bạn Tony đang ôm gấu bông và chú hổ đồ chơi được đặt nằm trên kệ tiệm.",
-          "audio_controller": { "track_label": "Track 79", "file_mp3": "audio/g1_u14.mp3", "start_sec": 185.0, "end_sec": 232.0 },
+          "audio_controller": { "track_label": "Track 79", "file_mp3": "audio/g1_u14.mp3", "start_sec": 172.0, "end_sec": 229.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
