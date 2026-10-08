@@ -12,7 +12,7 @@
       "meaning": "những chiếc đồng hồ (treo tường/để bàn) ⏰",
       "parent_guide": "Bé phát âm tổ hợp âm 'kl', mở miệng phát âm âm 'o' ngắn dứt khoát và kết thúc bằng việc bật cụm âm gió 'ks' rõ ở cuối từ.",
       "file_img": "image/grade_01/Unit_09/clocks.png",
-      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 21.0, "end_sec": 26.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 38.0, "end_sec": 43.0 },
       "robot_vi_hint": "Những chiếc đồng hồ đang chỉ giờ kìa! Con hãy tìm các chiếc đồng hồ trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "những chiếc ổ khóa 🔒",
       "parent_guide": "Phát âm âm 'l', hạ hàm cho âm 'o' ngắn dứt khoát và chú ý bật hơi rõ cụm âm gió 'ks' ở cuối từ để biểu thị số nhiều.",
       "file_img": "image/grade_01/Unit_09/locks.png",
-      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 16.0, "end_sec": 21.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 33.0, "end_sec": 38.0 },
       "robot_vi_hint": "Những chiếc ổ khóa màu sắc treo trên kệ kìa con! Con hãy chỉ vào các chiếc ổ khóa trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "những chiếc cây lau nhà 🧹",
       "parent_guide": "Bắt đầu bằng âm 'm', mở miệng phát âm âm 'o' ngắn, sau đó mím nhẹ môi ở âm 'p' và xì hơi âm 's' sắc nét ở cuối từ.",
       "file_img": "image/grade_01/Unit_09/mops.png",
-      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 26.0, "end_sec": 31.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 43.0, "end_sec": 48.0 },
       "robot_vi_hint": "Những chiếc cây lau nhà dựng ở góc tiệm kìa con! Con hãy tìm chúng trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "những cái nồi / cái xoong 🍲",
       "parent_guide": "Bé bặm nhẹ môi bật hơi âm 'p', hạ hàm phát âm âm 'o' ngắn và kết thúc bằng việc bật cụm âm 'ts' nhanh dứt khoát.",
       "file_img": "image/grade_01/Unit_09/pots.png",
-      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 31.0, "end_sec": 36.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u09.mp3", "start_sec": 48.0, "end_sec": 51.0 },
       "robot_vi_hint": "Những cái nồi nhiều màu xếp ngăn nắp quá! Con hãy chỉ vào các cái nồi trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát gian hàng mua sắm đồ gia dụng trang 40. Nghe băng phát âm mẫu chữ cái Oo, âm /e/ hoặc âm /ɒ/ ngắn và các từ vựng số nhiều liên quan.",
-          "audio_controller": { "track_label": "Track 50", "file_mp3": "audio/g1_u09.mp3", "start_sec": 0.0, "end_sec": 36.0 },
+          "audio_controller": { "track_label": "Track 50", "file_mp3": "audio/g1_u09.mp3", "start_sec": 20.0, "end_sec": 51.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe bài chant nhạc vần vui tươi lồng ghép số đếm đồ vật, vỗ tay theo nhịp điệu của các câu mẫu 'There are two locks.', 'There are three clocks.'",
-          "audio_controller": { "track_label": "Track 51", "file_mp3": "audio/g1_u09.mp3", "start_sec": 36.0, "end_sec": 139.0 },
+          "audio_controller": { "track_label": "Track 51", "file_mp3": "audio/g1_u09.mp3", "start_sec": 54.0, "end_sec": 114.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn thông báo số lượng của một loại đồ vật và đánh dấu tick vào ô vuông có hình vẽ số lượng tương ứng chính xác.",
-          "audio_controller": { "track_label": "Track 52", "file_mp3": "audio/g1_u09.mp3", "start_sec": 139.0, "end_sec": 172.0 },
+          "audio_controller": { "track_label": "Track 52", "file_mp3": "audio/g1_u09.mp3", "start_sec": 114.0, "end_sec": 138.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình số lượng bao nhiêu và click đánh dấu vào ô đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại đoạn hội thoại hỏi đáp ngắn về số lượng đồ vật cơ bản: 'How many clocks? - Two.'",
-          "audio_controller": { "track_label": "Track 53", "file_mp3": "audio/g1_u09.mp3", "start_sec": 172.0, "end_sec": 192.0 },
+          "audio_controller": { "track_label": "Track 53", "file_mp3": "audio/g1_u09.mp3", "start_sec": 144.0, "end_sec": 161.0 },
           "robot_guide_tts": "Chúng mình cùng học cách hỏi xem có bao nhiêu món đồ nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe nhạc và hát theo bài hát vui nhộn đếm số lượng tăng dần từ hai đến năm cho các món đồ vật trong Unit 9.",
-          "audio_controller": { "track_label": "Track 54", "file_mp3": "audio/g1_u09.mp3", "start_sec": 192.0, "end_sec": 234.0 },
+          "audio_controller": { "track_label": "Track 54", "file_mp3": "audio/g1_u09.mp3", "start_sec": 161.0, "end_sec": 223.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
