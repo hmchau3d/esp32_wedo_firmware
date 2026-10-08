@@ -12,7 +12,7 @@
       "meaning": "khu vườn 🏡",
       "parent_guide": "Bé phát âm âm 'g', kéo dài vần 'a' một chút và kết thúc bằng vần 'dn' dứt khoát.",
       "file_img": "image/grade_01/Unit_07/garden.png",
-      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 30.0, "end_sec": 35.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 44.0, "end_sec": 47.0 },
       "robot_vi_hint": "Một khu vườn đầy hoa xinh đẹp! Con hãy tìm khu vườn trên màn hình và phát âm thật to bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "cái cổng 🚪",
       "parent_guide": "Phát âm âm 'g', mở miệng phát âm vần 'ê-i' mềm mượt và bật hơi nhẹ chữ 't' ở cuối từ.",
       "file_img": "image/grade_01/Unit_07/gate.png",
-      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 25.0, "end_sec": 30.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 40.0, "end_sec": 44.0 },
       "robot_vi_hint": "Cái cổng rào màu trắng kìa con! Con hãy tìm cái cổng trên màn hình máy tính và gọi tên bạn ấy đi nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "bạn gái / cô bé 👧",
       "parent_guide": "Bắt đầu bằng âm 'g', phát âm vần 'ơ' kéo dài rồi uốn nhẹ đầu lưỡi chạm ngạc trên ở âm 'l' cuối từ.",
       "file_img": "image/grade_01/Unit_07/girl.png",
-      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 20.0, "end_sec": 25.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 36.0, "end_sec": 40.0 },
       "robot_vi_hint": "Một bạn gái mặc váy vàng thật dễ thương! Con hãy chỉ vào bạn gái trên Web và đọc to từ này lên nha!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "con dê 🐐",
       "parent_guide": "Bé phát âm âm 'g', mở miệng vần 'ô-u' tròn môi và chú ý bật hơi rõ chữ 't' ở cuối từ.",
       "file_img": "image/grade_01/Unit_07/goat.png",
-      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 15.0, "end_sec": 20.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u07.mp3", "start_sec": 32.0, "end_sec": 36.0 },
       "robot_vi_hint": "Bạn dê đang gặm cỏ kìa! Con hãy tìm bạn dê trên Web và phát âm cho robot nghe xem nào!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé nhìn vào không gian khu vườn trang 31. Nghe băng phát âm mẫu chữ cái Gg, âm /ɡ/ và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 36", "file_mp3": "audio/g1_u07.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "audio_controller": { "track_label": "Track 36", "file_mp3": "audio/g1_u07.mp3", "start_sec": 19.0, "end_sec": 47.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần vui nhộn và vỗ tay theo nhịp điệu bài chant ngữ âm cho các từ goat, gate, girl, garden.",
-          "audio_controller": { "track_label": "Track 37", "file_mp3": "audio/g1_u07.mp3", "start_sec": 35.0, "end_sec": 134.0 },
+          "audio_controller": { "track_label": "Track 37", "file_mp3": "audio/g1_u07.mp3", "start_sec": 53.0, "end_sec": 112.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn mô tả sự vật với 'There's a...' và đánh dấu tick vào ô vuông có hình ảnh tương ứng.",
-          "audio_controller": { "track_label": "Track 38", "file_mp3": "audio/g1_u07.mp3", "start_sec": 134.0, "end_sec": 174.0 },
+          "audio_controller": { "track_label": "Track 38", "file_mp3": "audio/g1_u07.mp3", "start_sec": 112.0, "end_sec": 133.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy đọc câu ứng với hình gì và click đánh dấu vào hình đó nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại mẫu câu diễn tả sự tồn tại của sự vật: 'There's a garden.'",
-          "audio_controller": { "track_label": "Track 39", "file_mp3": "audio/g1_u07.mp3", "start_sec": 174.0, "end_sec": 187.0 },
+          "audio_controller": { "track_label": "Track 39", "file_mp3": "audio/g1_u07.mp3", "start_sec": 135.0, "end_sec": 152.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói giới thiệu có một nơi chốn hoặc đồ vật gì đó nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui nhộn lồng ghép cấu trúc mô tả có một bạn gái và một con dê đang ở trong khu vườn.",
-          "audio_controller": { "track_label": "Track 40", "file_mp3": "audio/g1_u07.mp3", "start_sec": 187.0, "end_sec": 224.0 },
+          "audio_controller": { "track_label": "Track 40", "file_mp3": "audio/g1_u07.mp3", "start_sec": 152.0, "end_sec": 208.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
