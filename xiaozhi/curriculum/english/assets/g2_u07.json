@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u07",
+  "unit_title": "Unit 7: In the kitchen",
+  "pedagogical_focus": "Chữ cái: Jj. Âm phát âm: /dʒ/. Ngữ pháp: Cấu trúc câu đưa ra lời yêu cầu lịch sự khi muốn ai đó đưa cho mình thứ gì và câu đáp lại lịch sự: 'Pass me the..., please. - Here you are.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v20",
+      "word": "juice",
+      "phonetic": "/dʒuːs/",
+      "meaning": "nước hoa quả, nước ép 🥤",
+      "parent_guide": "Nhắc bé chu môi phát âm rõ âm /dʒ/ ở đầu từ và đặc biệt là bật hơi âm đuôi /s/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_07/juice.png",
+      "audio_segment": { "file_mp3": "audio/g2_u07.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Bình nước cam ép mát lạnh trên bàn tiệc! Con hãy chỉ vào bình nước ép và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v21",
+      "word": "jelly",
+      "phonetic": "/ˈdʒeli/",
+      "meaning": "thạch 🍮",
+      "parent_guide": "Chú ý nhắc bé chu môi phát âm rõ âm /dʒ/ ở đầu từ, nhấn nhẹ vào âm tiết đầu tiên.",
+      "file_img": "image/grade_02/Unit_07/jelly.png",
+      "audio_segment": { "file_mp3": "audio/g2_u07.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Đĩa thạch màu hồng núng nính dễ thương chưa kìa! Con hãy tìm đĩa thạch trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v22",
+      "word": "jam",
+      "phonetic": "/dʒæm/",
+      "meaning": "mứt 🍯",
+      "parent_guide": "Phát âm âm /dʒ/ chu môi ở đầu từ, hạ hàm mở rộng miệng với nguyên âm /æ/ và khép môi lại với âm /m/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_07/jam.png",
+      "audio_segment": { "file_mp3": "audio/g2_u07.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Lọ mứt dâu đỏ mọng dùng để phết bánh mì! Con hãy chỉ tay vào lọ mứt trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u07_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng trong nhà bếp",
+      "page": 31,
+      "file_scene_image": "image/grade_02/g2_p31.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh mẹ và hai bạn nhỏ đang thưởng thức bữa ăn trong căn bếp ở trang 31. Lắng nghe băng phát âm mẫu chữ cái Jj, âm /dʒ/ và 3 từ vựng: juice, jelly, jam.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u07.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh nhà bếp ấm cúng trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Hôm nay tụi mình cùng học chữ cái J nha!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng món ăn/thức uống trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy nước ép juice, đĩa thạch jelly và lọ mứt jam ở đâu trên bàn ăn nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u07_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Jj",
+      "page": 32,
+      "file_scene_image": "image/grade_02/g2_p32.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn trong nhà bếp (J, j, jam / I like jam...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u07.mp3", "start_sec": 72.0, "end_sec": 136.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe vui tươi quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả món ăn và click chọn đánh dấu tick vào ô vuông tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u07.mp3", "start_sec": 136.0, "end_sec": 163.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến món ăn nào và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ J hoa, j thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ: _elly, _uice, _am.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ J hoa, chữ j thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u07_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu yêu cầu lịch sự & Ca hát kết bài",
+      "page": 33,
+      "file_scene_image": "image/grade_02/g2_p33.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu đưa ra lời yêu cầu và đáp lại lịch sự: 'Pass me the jam, please. - Here you are.' (Làm ơn đưa cho mẹ lọ mứt với. - Của mẹ đây ạ.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u07.mp3", "start_sec": 163.0, "end_sec": 203.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu yêu cầu nhờ ai đó lấy đồ giúp mình một cách lịch sự nhé. Con hãy nghe máy đọc đoạn hội thoại và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các từ vựng tương ứng (a: juice, b: jam, c: jelly) vào cấu trúc câu '______, please.' và câu trả lời 'Here ______.' để thực hành giao tiếp nói.",
+          "robot_guide_tts": "Con hãy chọn một món ăn ngẫu nhiên trên màn hình và thực hành nhờ Robot lấy giúp đi nào! Thử nói câu nhờ lấy nước ép 'Juice, please.' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng kết hợp các từ vựng và mẫu câu đã học (Jam, juice, jelly / Pass me the jam...) và hát theo để ôn tập lại toàn bộ Unit 7.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u07.mp3", "start_sec": 203.0, "end_sec": 265.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về các món ăn trong nhà bếp để kết thúc Unit 7 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'thạch'? ... A: jelly ... B: jam",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'juice' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: mứt ... B: nước hoa quả, nước ép",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn nhờ bạn lấy hộ đĩa mứt một cách lịch sự, con sẽ chọn câu nào? ... A: Pass me the jam, please. ... B: Let's look at the sea!",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi đưa một món đồ cho ai đó và nói 'Của bạn đây', con sẽ dùng câu nào? ... A: Here you are. ... B: Yes, there is.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

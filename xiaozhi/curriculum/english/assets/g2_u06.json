@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u06",
+  "unit_title": "Unit 6: On the farm",
+  "pedagogical_focus": "Chữ cái: Xx. Âm phát âm: /ks/. Ngữ pháp: Cấu trúc câu hỏi xem có loài vật hay đồ vật nào đó ở một địa điểm không và câu trả lời ngắn: 'Is there a/an...? - Yes, there is. / No, there isn't.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v17",
+      "word": "box",
+      "phonetic": "/bɒks/",
+      "meaning": "cái hộp, cái thùng 📦",
+      "parent_guide": "Nhắc bé phát âm rõ âm /b/ ở đầu và đặc biệt là bật hơi âm đuôi /ks/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_06/box.png",
+      "audio_segment": { "file_mp3": "audio/g2_u06.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Một chiếc thùng gỗ chứa đầy táo ngọt! Con hãy chỉ vào cái thùng trên xe đẩy và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v18",
+      "word": "fox",
+      "phonetic": "/fɒks/",
+      "meaning": "con cáo 🦊",
+      "parent_guide": "Chú ý nhắc bé đặt răng cửa hàm trên chạm nhẹ môi dưới để phát âm âm /f/ ở đầu, sau đó bật rõ âm đuôi /ks/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_06/fox.png",
+      "audio_segment": { "file_mp3": "audio/g2_u06.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Chú cáo nhỏ màu cam đang nấp sau gốc cây kìa! Con hãy tìm con cáo trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v19",
+      "word": "ox",
+      "phonetic": "/ɒks/",
+      "meaning": "con bò đực 🐂",
+      "parent_guide": "Phát âm nguyên âm /ɒ/ ngắn ở đầu và nhớ bật rõ âm đuôi /ks/ thật sắc ở cuối từ, tránh đọc thành 'óc'.",
+      "file_img": "image/grade_02/Unit_06/ox.png",
+      "audio_segment": { "file_mp3": "audio/g2_u06.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Chú bò đực to khỏe đang đứng ở nông trại! Con hãy chỉ tay vào con bò đực trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u06_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng trên nông trại",
+      "page": 26,
+      "file_scene_image": "image/grade_02/g2_p26.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh toàn cảnh một trang trại thanh bình ở trang 26. Lắng nghe băng phát âm mẫu chữ cái Xx, âm /ks/ và 3 từ vựng: box, fox, ox.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u06.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh nông trại tuyệt đẹp trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Hôm nay tụi mình cùng làm quen với các con vật và đồ vật có chữ cái X nha!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng đồ vật/con vật trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy cái thùng box, con cáo fox và con bò đực ox ở đâu trên nông trại nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u06_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Xx",
+      "page": 27,
+      "file_scene_image": "image/grade_02/g2_p27.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại nông trại (X, x, a box / I can see a box on the farm...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u06.mp3", "start_sec": 71.0, "end_sec": 137.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe rộn ràng quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu nông trại nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả và click chọn khoanh tròn vào ô tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u06.mp3", "start_sec": 137.0, "end_sec": 165.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến con vật hay đồ vật nào và nhanh tay chọn khoanh tròn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ X hoa, x thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ đuôi '-x': fo_, o_, bo_.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ X hoa, chữ x thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u06_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi tồn tại & Ca hát kết bài",
+      "page": 28,
+      "file_scene_image": "image/grade_02/g2_p28.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi xem có con vật nào không: 'Is there a fox? - Yes, there is.' và 'Is there a fox? - No, there isn't.'",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u06.mp3", "start_sec": 165.0, "end_sec": 205.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem có con vật nào ở đó không nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp 'Is there a fox?' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các từ vựng tương ứng (a: box, b: fox, c: ox) vào cấu trúc câu 'Is there a/an...?' để luyện tập hỏi và trả lời.",
+          "robot_guide_tts": "Con hãy chọn một hình ảnh ngẫu nhiên trên màn hình và thực hành hỏi đáp cùng Robot đi nào! Thử hỏi Robot xem có con bò đực không bằng câu 'Is there an ox?' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát vui tươi (Is there a fox? / Yes, there is / There's a fox in the box...) và hát theo để ôn tập lại toàn bộ Unit 6.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u06.mp3", "start_sec": 205.0, "end_sec": 275.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về chú cáo ở trong chiếc thùng để kết thúc Unit 6 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'con bò đực'? ... A: ox ... B: box",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'fox' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: cái thùng ... B: con cáo",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi 'Có một con cáo ở đây không?', con sẽ chọn câu nào? ... A: Is there a fox? ... B: What can you see?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu trong hình không có con bò đực nào, khi được hỏi 'Is there an ox?', con sẽ trả lời thế nào? ... A: No, there isn't. ... B: Yes, there is.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

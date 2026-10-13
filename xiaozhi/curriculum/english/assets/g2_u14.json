@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u14",
+  "unit_title": "Unit 14: At home",
+  "pedagogical_focus": "Chữ cái: Er. Âm phát âm: /ə(r)/. Ngữ pháp: Cấu trúc câu hỏi xem thành viên trong gia đình bao nhiêu tuổi và câu trả lời số tuổi tương ứng: 'How old is your...? - He's/She's...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v42",
+      "word": "brother",
+      "phonetic": "/ˈbrʌðə(r)/",
+      "meaning": "anh trai, em trai 👦",
+      "parent_guide": "Nhắc bé uốn lưỡi nhẹ âm /r/ đầu từ, chú ý đặt lưỡi giữa hai hàm răng cho âm /ð/ ở giữa và uốn lưỡi nhẹ âm đuôi '-er' ở cuối từ.",
+      "file_img": "image/grade_02/Unit_14/brother.png",
+      "audio_segment": { "file_mp3": "audio/g2_u14.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Người anh trai đang đứng trong phòng khách kìa! Con hãy chỉ vào người anh trai và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v43",
+      "word": "sister",
+      "phonetic": "/ˈsɪstə(r)/",
+      "meaning": "chị gái, em gái 👧",
+      "parent_guide": "Chú ý nhắc bé phát âm rõ âm /s/ ở đầu và âm /s/ ở giữa từ, sau đó kết thúc bằng việc uốn nhẹ âm đuôi '-er'.",
+      "file_img": "image/grade_02/Unit_14/sister.png",
+      "audio_segment": { "file_mp3": "audio/g2_u14.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Người em gái nhỏ trông thật đáng yêu! Con hãy tìm cô em gái trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v44",
+      "word": "grandmother",
+      "phonetic": "/ˈɡrænmʌðə(r)/",
+      "meaning": "bà nội, bà ngoại 👵",
+      "parent_guide": "Từ này gồm 3 âm tiết, nhắc bé chú ý nhấn mạnh vào âm tiết đầu tiên 'grand-', phát âm rõ âm /ð/ ở giữa và kết thúc bằng âm đuôi uốn lưỡi '-er'.",
+      "file_img": "image/grade_02/Unit_14/grandmother.png",
+      "audio_segment": { "file_mp3": "audio/g2_u14.mp3", "start_sec": 48.0, "end_sec": 54.0 },
+      "robot_vi_hint": "Bà kính yêu đang ngồi trên chiếc ghế tựa! Con hãy chỉ tay vào bà trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u14_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng các thành viên tại gia đình",
+      "page": 60,
+      "file_scene_image": "image/grade_02/g2_p60.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh một gia đình đang quây quần trong ngôi nhà ấm cúng của mình ở trang 60. Lắng nghe băng phát âm mẫu chữ cái Er, âm /ə(r)/ và các từ vựng: brother, sister, grandmother.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u14.mp3", "start_sec": 30.0, "end_sec": 60.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh gia đình ấm áp trên màn hình, click vào nút loa màu hồng để nghe máy phát âm các thành viên nhé! Robot xem con gọi tên người thân giỏi không nào!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui về các thành viên gia đình. Con nghe câu đố từ Robot, dùng chuột chọn đúng người trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy anh trai brother, chị gái sister và bà grandmother ở đâu trong phòng nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u14_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái đuôi er",
+      "page": 61,
+      "file_scene_image": "image/grade_02/g2_p61.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn về các thành viên trong nhà và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u14.mp3", "start_sec": 71.0, "end_sec": 136.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe thật tình cảm và vui tươi! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả số tuổi hoặc thành viên và chọn hình ảnh chính xác tương ứng (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u14.mp3", "start_sec": 136.0, "end_sec": 165.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến ai hoặc số tuổi của ai và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo các chữ cái và điền vần '-er' còn thiếu để hoàn thiện các từ vựng trên màn hình.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ và hoàn thành bài tập viết từ vựng gia đình trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u14_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi đáp số tuổi thành viên & Hát kết bài",
+      "page": 62,
+      "file_scene_image": "image/grade_02/g2_p62.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp về số tuổi của người thân: 'How old is your brother? - He's nineteen.' (Anh trai của cậu bao nhiêu tuổi rồi? - Anh ấy mười chín tuổi.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u14.mp3", "start_sec": 165.0, "end_sec": 201.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem một thành viên trong nhà bao nhiêu tuổi nhé. Con hãy nghe máy đọc đoạn hội thoại mẫu và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé nhìn vào tranh và thay thế các từ vựng thành viên cùng số tuổi tương ứng vào cấu trúc câu câu hỏi 'How old is your ______?' để thực hành hỏi đáp nói chuyện với Robot.",
+          "robot_guide_tts": "Con hãy chọn một thành viên ngẫu nhiên trên màn hình và thực hành hỏi đáp cùng Robot đi nào! Thử đóng vai hỏi tuổi của chị gái xem nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng về ngôi nhà thân thương và các thành viên gia đình và hát theo để ôn tập lại toàn bộ Unit 14.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u14.mp3", "start_sec": 201.0, "end_sec": 265.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về gia đình để kết thúc Unit 14 thật nhiều niềm vui nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'chị gái, em gái'? ... A: sister ... B: brother",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'grandmother' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: mẹ ... B: bà nội, bà ngoại",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi ai đó 'Anh trai của bạn bao nhiêu tuổi?', con sẽ chọn câu nào? ... A: How old is your brother? ... B: What number is it?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu có ai hỏi con 'How old is your sister?' và trong hình bạn gái mười chín tuổi, con sẽ trả lời thế nào? ... A: She's nineteen. ... B: He's nineteen.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u03",
+  "unit_title": "Unit 3: At the seaside",
+  "pedagogical_focus": "Chữ cái: Ss. Âm phát âm: /s/. Ngữ pháp: Cấu trúc đưa ra lời rủ rê, gợi ý cùng làm một hoạt động nào đó: 'Let's look at the...!' và cách diễn đạt những gì mình nhìn thấy 'I can see the...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v8",
+      "word": "sail",
+      "phonetic": "/seɪl/",
+      "meaning": "cánh buồm ⛵",
+      "parent_guide": "Nhắc bé phát âm rõ âm /s/ ở đầu, kéo dài nguyên âm đôi /eɪ/ và uốn nhẹ đầu lưỡi ở cuối từ cho âm /l/.",
+      "file_img": "image/grade_02/Unit_03/sail.png",
+      "audio_segment": { "file_mp3": "audio/g2_u03.mp3", "start_sec": 32.0, "end_sec": 37.0 },
+      "robot_vi_hint": "Cánh buồm đón gió ngoài khơi kìa! Con hãy chỉ vào cánh buồm trên màn hình và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v9",
+      "word": "sand",
+      "phonetic": "/sænd/",
+      "meaning": "bãi cát 🏖️",
+      "parent_guide": "Chú ý nhắc bé bật hơi nhẹ âm /d/ ở cuối từ để từ vựng được tròn âm nhất.",
+      "file_img": "image/grade_02/Unit_03/sand.png",
+      "audio_segment": { "file_mp3": "audio/g2_u03.mp3", "start_sec": 37.0, "end_sec": 41.0 },
+      "robot_vi_hint": "Bãi cát vàng mịn màng quá! Con hãy tìm bãi cát trên Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v10",
+      "word": "sea",
+      "phonetic": "/siː/",
+      "meaning": "biển, bờ biển 🌊",
+      "parent_guide": "Phát âm âm /s/ nhẹ nhàng và kéo dài âm 'ee' một chút (/iː/), tránh đọc giật cục.",
+      "file_img": "image/grade_02/Unit_03/sea.png",
+      "audio_segment": { "file_mp3": "audio/g2_u03.mp3", "start_sec": 41.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Biển trong xanh mát rượi! Con hãy chỉ tay vào vùng biển rộng lớn trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u3_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng bãi biển",
+      "page": 14,
+      "file_scene_image": "image/grade_02/g2_p14.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh phong cảnh bãi biển ở trang 14. Lắng nghe băng phát âm mẫu chữ cái Ss, âm /s/ và 3 từ vựng: sail, sand, sea.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u03.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bãi biển tuyệt đẹp trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Robot cũng muốn đi biển cùng con đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng đồ vật/cảnh vật trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy cánh buồm sail, bãi cát sand và nước biển sea ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u3_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái",
+      "page": 15,
+      "file_scene_image": "image/grade_02/g2_p15.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại bãi biển (S, s, sea / I can see the sea...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u03.mp3", "start_sec": 70.0, "end_sec": 134.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe mát mẻ vị biển quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả và click đánh dấu tick vào ô vuông tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u03.mp3", "start_sec": 134.0, "end_sec": 160.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy đọc từ nào và nhanh tay chọn đánh dấu tick vào hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ S hoa, s thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ: _ea, _ail, _and.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ S hoa, chữ s thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u3_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu rủ rê & Ca hát kết bài",
+      "page": 16,
+      "file_scene_image": "image/grade_02/g2_p16.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu rủ rê cùng ngắm cảnh: 'Let's look at the sea!' (Chúng mình hãy cùng ngắm biển nào!).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u03.mp3", "start_sec": 160.0, "end_sec": 199.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu rủ bạn cùng nhìn một cảnh đẹp nhé. Con hãy nghe máy đọc câu 'Let's look at the sea!' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các từ vựng tương ứng (a: sea, b: sail, c: sand) vào cấu trúc câu 'Let's ______!' để luyện nói.",
+          "robot_guide_tts": "Con hãy chọn một hình ảnh ngẫu nhiên trên màn hình và thực hành rủ Robot ngắm cảnh đi nào! Ví dụ như câu 'Let's look at the sail!' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu đầy không khí ngày hè cuối tuần (It's Saturday / It's a sunny day...) và hát theo để ôn tập lại toàn bộ Unit 3.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u03.mp3", "start_sec": 199.0, "end_sec": 265.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về ngày chủ nhật đầy nắng tại bãi biển để kết thúc Unit 3 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'bãi cát'? ... A: sand ... B: sail",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'sea' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: con diều ... B: biển, bờ biển",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn rủ bạn 'Chúng mình cùng ngắm nhìn cánh buồm kia đi!', con sẽ chọn câu nào? ... A: Let's look at the sail! ... B: I can see a rainbow.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Điền chữ cái còn thiếu vào chỗ trống để tạo thành từ 'cánh buồm': _ail ... A: s ... B: k",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u16",
+  "unit_title": "Unit 16: At the campsite",
+  "pedagogical_focus": "Chữ cái: Tt. Âm phát âm: /t/. Ngữ pháp: Cấu trúc câu hỏi xem một đồ vật có ở gần một vị trí nào đó không và câu trả lời tương ứng tại khu cắm trại: 'Is the blanket near the tent? - No, it isn't. It's in the tent.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v48",
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meaning": "cái lều, lều trại ⛺",
+      "parent_guide": "Nhắc bé phát âm rõ âm /t/ ở đầu từ và đặc biệt là bật hơi nhẹ âm đuôi /nt/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_16/tent.png",
+      "audio_segment": { "file_mp3": "audio/g2_u16.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Một chiếc lều cắm trại màu xanh dựng bên gốc cây kìa! Con hãy chỉ vào chiếc lều và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v49",
+      "word": "teapot",
+      "phonetic": "/ˈtiːpɒt/",
+      "meaning": "ấm pha trà, ấm trà 🫖",
+      "parent_guide": "Từ này gồm 2 âm tiết, nhắc bé chú ý nhấn mạnh vào âm tiết đầu tiên 'tea-', phát âm rõ nguyên âm /ɒ/ ngắn ở âm tiết sau và bật hơi âm /t/ ở cuối.",
+      "file_img": "image/grade_02/Unit_16/teapot.png",
+      "audio_segment": { "file_mp3": "audio/g2_u16.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Chiếc ấm pha trà được đặt ngay ngắn trên tấm thảm dã ngoại! Con hãy tìm chiếc ấm trà trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v50",
+      "word": "blanket",
+      "phonetic": "/ˈblæŋkɪt/",
+      "meaning": "cái chăn, chiếc mền 🛏️",
+      "parent_guide": "Phát âm rõ tổ hợp âm /bl/ đầu từ, chú ý âm mũi /ŋ/ ở giữa và bật hơi nhẹ âm đuôi /t/ ở cuối từ, tránh đọc thành 'bờ-lăng-két'.",
+      "file_img": "image/grade_02/Unit_16/blanket.png",
+      "audio_segment": { "file_mp3": "audio/g2_u16.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Chiếc chăn ấm áp được gấp gọn bên trong lều! Con hãy chỉ tay vào chiếc chăn trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u16_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng đồ dùng tại khu cắm trại",
+      "page": 68,
+      "file_scene_image": "image/grade_02/g2_p68.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh một gia đình đang tham gia hoạt động cắm trại ngoài trời ở trang 68. Lắng nghe băng phát âm mẫu chữ cái Tt, âm /t/ và 3 từ vựng đồ dùng: tent, teapot, blanket.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u16.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh dã ngoại cắm trại ngoài trời trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Khung cảnh thiên nhiên đẹp quá con ơi!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui về đồ vật dã ngoại. Con nghe câu đố từ Robot, dùng chuột chọn đúng món đồ trên Web và tự phát âm to từ vựng.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy chiếc lều trại tent, ấm pha trà teapot và chiếc chăn blanket ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u16_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp khu cắm trại & Tập viết chữ cái Tt",
+      "page": 69,
+      "file_scene_image": "image/grade_02/g2_p69.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại khu cắm trại ngoài trời về các hoạt động, đồ vật dã ngoại và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u16.mp3", "start_sec": 68.0, "end_sec": 132.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' dã ngoại hôm nay nghe vui tươi quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe nhận diện: Bé nghe audio ngắn mô tả vị trí, đồ vật và click chọn đáp án tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u16.mp3", "start_sec": 132.0, "end_sec": 160.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến đồ vật nào ở khu cắm trại và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ T hoa, t thường và điền chữ cái còn thiếu để hoàn chỉnh các từ vựng đồ dùng dã ngoại trên màn hình.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ T hoa và chữ t thường, sau đó điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u16_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu vị trí không gian dã ngoại & Hát kết bài",
+      "page": 70,
+      "file_scene_image": "image/grade_02/g2_p70.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp về vị trí tương đối: 'Is the blanket near the tent? - No, it isn't. It's in the tent.' (Chiếc chăn có ở gần cái lều không? - Không, không phải. Nó ở bên trong cái lều cơ.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u16.mp3", "start_sec": 160.0, "end_sec": 200.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem một món đồ có nằm gần một món đồ khác ở khu cắm trại không nhé. Con hãy nghe máy đọc đoạn hội thoại mẫu và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé nhìn vào tranh và đóng vai để hỏi bạn mình xem các vật dụng (a: tent, b: teapot, c: blanket) đang nằm ở đâu bằng cấu trúc 'Is the ______ near the ______?' để luyện nói đối thoại với Robot.",
+          "robot_guide_tts": "Con hãy chọn một đồ vật ngẫu nhiên trên thảm cỏ và thực hành hỏi vị trí với Robot đi nào! Thử hỏi xem ấm trà có gần cái lều không bằng câu 'Is the teapot near the tent?' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát vui nhộn về một đêm cắm trại dã ngoại thú vị dưới ánh sao và hát theo để ôn tập lại toàn bộ Unit 16.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u16.mp3", "start_sec": 200.0, "end_sec": 270.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về chuyến đi cắm trại tuyệt vời này để kết thúc Unit 16 và hoàn thành cuốn sách nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'ấm pha trà'? ... A: teapot ... B: tent",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'blanket' trong bài học ngày hôm nay dùng để chỉ vật gì con nhỉ? ... A: chiếc lều ... B: cái chăn, chiếc mền",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi 'Chiếc chăn có ở gần cái lều không?', con sẽ chọn câu nào? ... A: Is the blanket near the tent? ... B: Where are the shoes?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu đồ vật nằm ở BÊN TRONG chiếc lều, con sẽ dùng cụm từ nào để diễn đạt vị trí? ... A: in the tent ... B: near the tent",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

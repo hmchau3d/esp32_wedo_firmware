@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u11",
+  "unit_title": "Unit 11: In the playground",
+  "pedagogical_focus": "Chữ cái: Ii. Âm phát âm: /aɪ/. Ngữ pháp: Cấu trúc câu diễn tả hành động đang diễn ra của họ (số nhiều): 'They're...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v32",
+      "word": "sliding",
+      "phonetic": "/ˈslaɪdɪŋ/",
+      "meaning": "đang chơi cầu trượt 🛝",
+      "parent_guide": "Nhắc bé phát âm rõ tổ hợp âm /sl/, chú ý nguyên âm đôi /aɪ/ ở giữa từ và đuôi '-ing' ngân nhẹ.",
+      "file_img": "image/grade_02/Unit_11/sliding.png",
+      "audio_segment": { "file_mp3": "audio/g2_u11.mp3", "start_sec": 20.0, "end_sec": 28.0 },
+      "robot_vi_hint": "Các bạn nhỏ đang trượt xuống cầu trượt kìa! Con hãy chỉ vào cầu trượt và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v33",
+      "word": "riding",
+      "phonetic": "/ˈraɪdɪŋ/",
+      "meaning": "đang đi xe (đạp/ngựa) 🚲",
+      "parent_guide": "Chú ý nhắc bé uốn lưỡi nhẹ ở đầu từ cho âm /r/, phát âm rõ nguyên âm đôi /aɪ/ và kết thúc bằng đuôi '-ing'.",
+      "file_img": "image/grade_02/Unit_11/riding.png",
+      "audio_segment": { "file_mp3": "audio/g2_u11.mp3", "start_sec": 28.0, "end_sec": 36.0 },
+      "robot_vi_hint": "Bạn nhỏ đang đạp xe đạp tung tăng! Con hãy tìm bạn nhỏ đi xe đạp trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v34",
+      "word": "driving",
+      "phonetic": "/ˈdraɪvɪŋ/",
+      "meaning": "đang lái xe (ô tô) 🚗",
+      "parent_guide": "Phát âm rõ tổ hợp âm /dr/ ở đầu từ (tránh đọc thành 'đơ-rai'), chú ý nguyên âm đôi /aɪ/ và âm /v/ ở giữa từ.",
+      "file_img": "image/grade_02/Unit_11/driving.png",
+      "audio_segment": { "file_mp3": "audio/g2_u11.mp3", "start_sec": 36.0, "end_sec": 45.0 },
+      "robot_vi_hint": "Các bạn đang ngồi lái những chiếc ô tô đồ chơi! Con hãy chỉ tay vào xe ô tô đồ chơi và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u11_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng tại sân chơi",
+      "page": 48,
+      "file_scene_image": "image/grade_02/g2_p48.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh các bạn nhỏ đang vui chơi náo nhiệt tại sân chơi công viên ở trang 48. Lắng nghe băng phát âm mẫu chữ cái Ii, âm /aɪ/ và 3 từ vựng: sliding, riding, driving.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u11.mp3", "start_sec": 10.0, "end_sec": 50.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh sân chơi vui nhộn trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Các bạn đang chơi nhiều trò chơi thích quá!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng hoạt động trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy các bạn đang chơi cầu trượt sliding, đạp xe riding và lái xe đồ chơi driving ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u11_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe & Tập viết",
+      "page": 49,
+      "file_scene_image": "image/grade_02/g2_p49.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại sân chơi về các hoạt động đang diễn ra và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u11.mp3", "start_sec": 70.0, "end_sec": 132.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rộn ràng quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo các bạn trong sân chơi nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio mô tả hoạt động của nhóm bạn và chọn hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u11.mp3", "start_sec": 132.0, "end_sec": 165.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến hoạt động nào của các bạn và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ I hoa, i thường và hoàn thiện các chữ cái còn thiếu trong từ.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ I hoa, chữ i thường và điền chữ cái còn thiếu cho các từ trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u11_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu diễn đạt hành động nhóm & Hát kết bài",
+      "page": 50,
+      "file_scene_image": "image/grade_02/g2_p50.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu diễn tả hành động của một nhóm người: 'They're driving cars.' (Họ đang lái những chiếc ô tô).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u11.mp3", "start_sec": 165.0, "end_sec": 201.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách nói khi thấy một nhóm bạn đang cùng chơi một trò chơi nhé. Con hãy nghe máy đọc mẫu câu 'They're driving cars.' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé nhìn vào hình ảnh và thay thế hoạt động tương ứng vào cấu trúc câu 'They're ______.' để thực hành nói diễn đạt với Robot.",
+          "robot_guide_tts": "Con hãy chọn một hoạt động ngẫu nhiên trên màn hình và tập nói cho Robot nghe xem họ đang làm gì đi nào! Ví dụ như nói 'They're sliding.' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc vui tươi về các trò chơi vận động tại sân chơi và hát theo để ôn tập lại toàn bộ Unit 11.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u11.mp3", "start_sec": 201.0, "end_sec": 260.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc Unit 11 đầy năng lượng ngày hôm nay nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'đang chơi cầu trượt'? ... A: sliding ... B: riding",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'driving' trong tiếng Anh dùng để diễn đạt hành động gì con nhỉ? ... A: đang lái xe ô tô ... B: đang đạp xe đạp",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn diễn đạt 'Họ đang lái những chiếc ô tô', con sẽ chọn câu nào? ... A: They're driving cars. ... B: What can you see?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Điền chữ cái còn thiếu vào chỗ trống để tạo thành từ 'đang đi xe đạp': _iding ... A: r ... B: d",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

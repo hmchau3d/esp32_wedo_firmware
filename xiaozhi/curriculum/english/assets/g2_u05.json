@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u05",
+  "unit_title": "Unit 5: In the classroom",
+  "pedagogical_focus": "Chữ cái: Qq. Âm phát âm: /kw/. Ngữ pháp: Cấu trúc câu hỏi xem ai đó đang làm gì và câu trả lời diễn đạt hành động đang diễn ra của họ: 'What's he/she doing? - He's/She's...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v14",
+      "word": "question",
+      "phonetic": "/ˈkwestʃən/",
+      "meaning": "câu hỏi ❓",
+      "parent_guide": "Nhắc bé phát âm rõ tổ hợp âm /kw/ ở đầu từ và chú ý đuôi '-tion' đọc là /tʃən/.",
+      "file_img": "image/grade_02/Unit_05/question.png",
+      "audio_segment": { "file_mp3": "audio/g2_u05.mp3", "start_sec": 32.0, "end_sec": 37.0 },
+      "robot_vi_hint": "Một dấu hỏi chấm to đùng! Con hãy chỉ vào đám mây có dấu câu hỏi trên bảng và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v15",
+      "word": "square",
+      "phonetic": "/skweə(r)/",
+      "meaning": "hình vuông 🔲",
+      "parent_guide": "Chú ý nhắc bé phát âm rõ âm /s/ rồi đến tổ hợp /kw/, kéo dài nguyên âm đôi /eə/ ở sau.",
+      "file_img": "image/grade_02/Unit_05/square.png",
+      "audio_segment": { "file_mp3": "audio/g2_u05.mp3", "start_sec": 37.0, "end_sec": 41.0 },
+      "robot_vi_hint": "Hình vuông màu trắng trên bảng kìa! Con hãy tìm hình vuông trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v16",
+      "word": "quiz",
+      "phonetic": "/kwɪz/",
+      "meaning": "bài kiểm tra ngắn, câu đố vui 📝",
+      "parent_guide": "Phát âm âm /kw/ ở đầu, nguyên âm /ɪ/ ngắn và chú ý bật rõ âm đuôi /z/ ở cuối từ, tránh đọc thành 'quýt'.",
+      "file_img": "image/grade_02/Unit_05/quiz.png",
+      "audio_segment": { "file_mp3": "audio/g2_u05.mp3", "start_sec": 41.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Bạn nhỏ đang cầm một bài tương tác đố vui! Con hãy chỉ tay vào tờ giấy có chữ QUIZ và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u05_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng trong lớp học",
+      "page": 23,
+      "file_scene_image": "image/grade_02/g2_p23.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh cô giáo và các bạn học sinh trong lớp học ở trang 23. Lắng nghe băng phát âm mẫu chữ cái Qq, âm /kw/ và 3 từ vựng: question, square, quiz.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u05.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh lớp học vui nhộn trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học cùng cô giáo nhé! Hôm nay chúng mình học chữ cái Q nha!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng hình ảnh trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy từ câu hỏi question, hình vuông square và bài quiz ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u05_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Qq",
+      "page": 24,
+      "file_scene_image": "image/grade_02/g2_p24.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn về các hoạt động trong lớp (Q, q, a square / He's colouring a square...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u05.mp3", "start_sec": 68.0, "end_sec": 134.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rất hay! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả hành động và click chọn đánh dấu tick vào ô vuông tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u05.mp3", "start_sec": 134.0, "end_sec": 161.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến hành động nào của các bạn và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ Q hoa, q thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ: s_uare, _uiz, _uestion.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ Q hoa, chữ q thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u05_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi đáp hành động & Ca hát kết bài",
+      "page": 25,
+      "file_scene_image": "image/grade_02/g2_p25.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp hành động đang diễn ra: 'What's she doing? - She's colouring a square.' và 'What's he doing? - He's doing a quiz.'",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u05.mp3", "start_sec": 161.0, "end_sec": 202.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem ai đó đang làm gì nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các hình ảnh tương ứng (a: answering a question, b: doing a quiz, c: colouring a square) vào cấu trúc câu hỏi đáp để thực hành giao tiếp nói.",
+          "robot_guide_tts": "Con hãy chọn một hình ảnh ngẫu nhiên trên màn hình và thực hành đóng vai hỏi đáp cùng Robot đi nào! Thử hỏi Robot 'What's he doing?' xem nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng về các bạn nhỏ trong lớp học (What's he doing? / He's doing a quiz...) và hát theo để ôn tập lại toàn bộ Unit 5.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u05.mp3", "start_sec": 202.0, "end_sec": 262.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay để ôn tập lại toàn bộ các câu hỏi đáp của bài học ngày hôm nay và kết thúc Unit 5 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'hình vuông'? ... A: square ... B: quiz",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'question' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: bài kiểm tra ... B: câu hỏi",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi 'Cậu ấy đang làm gì thế?', con sẽ chọn câu nào? ... A: What's he doing? ... B: What's she doing?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu bạn nữ đang trả lời câu hỏi, con sẽ dùng câu nào để diễn đạt? ... A: She's answering a question. ... B: He's doing a quiz.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

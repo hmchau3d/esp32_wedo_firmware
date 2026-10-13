@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u10",
+  "unit_title": "Unit 10: At the zoo",
+  "pedagogical_focus": "Chữ cái: Zz. Âm phát âm: /z/. Ngữ pháp: Cấu trúc câu hỏi xem ai đó có thích một địa điểm hoặc một loài động vật nào đó không và câu trả lời bày tỏ sở thích phản hồi: 'Do you like the...? - Yes, I do. / No, I don't.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v29",
+      "word": "zoo",
+      "phonetic": "/zuː/",
+      "meaning": "vườn bách thú, sở thú 🦁",
+      "parent_guide": "Nhắc bé phát âm rõ âm /z/ rung nhẹ ở đầu từ (tránh đọc nhầm thành âm /j/ hay /d/) và kéo dài nguyên âm đôi /uː/.",
+      "file_img": "image/grade_02/Unit_10/zoo.png",
+      "audio_segment": { "file_mp3": "audio/g2_u10.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Cổng chào vườn bách thú mở rộng đón chào chúng mình kìa! Con hãy chỉ vào chữ ZOO trên cổng và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v30",
+      "word": "zebu",
+      "phonetic": "/ˈziːbuː/",
+      "meaning": "bò bướu, bò zê-bu 🐂",
+      "parent_guide": "Chú ý nhắc bé phát âm rõ âm /z/ ở đầu từ, nhấn mạnh vào âm tiết đầu tiên và kéo dài âm /uː/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_10/zebu.png",
+      "audio_segment": { "file_mp3": "audio/g2_u10.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Chú bò bướu zebu to lớn đang đứng gặm cỏ trong chuồng! Con hãy tìm chú bò bướu trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v31",
+      "word": "zebra",
+      "phonetic": "/ˈzebrə/",
+      "meaning": "con ngựa vằn 🦓",
+      "parent_guide": "Phát âm âm /z/ rung đầu từ, nguyên âm /e/ ngắn ở âm tiết đầu tiên và kết thúc nhẹ nhàng bằng âm /rə/ ở âm tiết sau.",
+      "file_img": "image/grade_02/Unit_10/zebra.png",
+      "audio_segment": { "file_mp3": "audio/g2_u10.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Chú ngựa vằn với những sọc đen trắng trông thật ngộ nghĩnh! Con hãy chỉ tay vào chú ngựa vằn và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u10_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng tại sở thú",
+      "page": 43,
+      "file_scene_image": "image/grade_02/g2_p43.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh một chuyến tham quan sở thú náo nhiệt đầy thú vị ở trang 43. Lắng nghe băng phát âm mẫu chữ cái Zz, âm /z/ và 3 từ vựng: zoo, zebu, zebra.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u10.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh các bạn nhỏ đi chơi vườn bách thú trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Nhiều con vật đáng yêu quá con ơi!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng loài động vật/địa điểm trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy cổng sở thú zoo, chú bò bướu zebu và bạn ngựa vằn zebra ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u10_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Zz",
+      "page": 44,
+      "file_scene_image": "image/grade_02/g2_p44.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn cùng các loài vật trong sở thú (Z, z, zoo / Do you like the zoo?...) và vỗ tay hoặc nhún nhảy bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u10.mp3", "start_sec": 72.0, "end_sec": 138.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rộn ràng quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu các con vật nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio đoạn đối thoại ngắn mô tả sở thích và click chọn đánh dấu tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u10.mp3", "start_sec": 138.0, "end_sec": 166.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem các bạn nhỏ thích con vật nào và nhanh tay chọn đáp án chính xác nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ Z hoa, z thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ vựng: _oo, _ebu, _ebra.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ Z hoa, chữ z thường và điền chữ cái còn thiếu cho các loài vật trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u10_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi sở thích & Ca hát kết bài",
+      "page": 45,
+      "file_scene_image": "image/grade_02/g2_p45.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp sở thích: 'Do you like the zoo? - Yes, I do.' hoặc 'No, I don't.' (Cậu có thích đi sở thú không? - Mình có chứ. / Mình không thích lắm.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u10.mp3", "start_sec": 166.0, "end_sec": 206.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem bạn mình có thích địa điểm hay loài vật nào không nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai khách tham quan và thay thế các từ vựng tương ứng vào cấu trúc câu câu hỏi 'Do you like the ______?' để thực hành giao tiếp đối thoại nói với Robot.",
+          "robot_guide_tts": "Con hãy chọn một con vật ngẫu nhiên trên màn hình và thực hành hỏi Robot xem Robot có thích không đi nào! Thử hỏi câu hỏi sở thú 'Do you like the zoo?' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát vui vẻ dạo chơi ngắm ngựa vằn, bò bướu và hát theo để ôn tập lại toàn bộ Unit 10.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u10.mp3", "start_sec": 206.0, "end_sec": 275.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về các loài thú để chúc mừng chúng mình đã hoàn thành Unit 10 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'con ngựa vằn'? ... A: zebra ... B: zebu",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'zoo' trong tiếng Anh dùng để chỉ địa điểm nào con nhỉ? ... A: lớp học ... B: vườn bách thú, sở thú",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi bạn 'Cậu có thích sở thú không?', con sẽ chọn câu nào? ... A: Do you like the zoo? ... B: What do you want?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu con vô cùng thích ngựa vằn, khi được bạn hỏi 'Do you like the zebra?', con sẽ trả lời thế nào? ... A: Yes, I do. ... B: No, I don't.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

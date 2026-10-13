@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u15",
+  "unit_title": "Unit 15: In the clothes shop",
+  "pedagogical_focus": "Chữ cái: Sh. Âm phát âm: /ʃ/. Ngữ pháp: Cấu trúc câu hỏi xem trang phục ở đâu (số nhiều) và câu trả lời chỉ vị trí tương ứng trong cửa hàng quần áo: 'Where are the...? - Over there.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v45",
+      "word": "shirts",
+      "phonetic": "/ʃɜːts/",
+      "meaning": "áo sơ mi (số nhiều) 👔",
+      "parent_guide": "Nhắc bé chu môi phát âm rõ âm /ʃ/ ở đầu từ, chú ý vần '-irt-' uốn lưỡi nhẹ và bật hơi âm đuôi /ts/ vì từ ở dạng số nhiều.",
+      "file_img": "image/grade_02/Unit_15/shirts.png",
+      "audio_segment": { "file_mp3": "audio/g2_u15.mp3", "start_sec": 34.0, "end_sec": 39.0 },
+      "robot_vi_hint": "Những chiếc áo sơ mi nam được treo ngay ngắn trên giá quần áo kìa! Con hãy chỉ vào dãy áo sơ mi và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v46",
+      "word": "shoes",
+      "phonetic": "/ʃuːz/",
+      "meaning": "đôi giày, những chiếc giày 👟",
+      "parent_guide": "Chú ý nhắc bé chu môi phát âm rõ âm /ʃ/ ở đầu từ, kéo dài nguyên âm đôi /uː/ và kết thúc bằng việc bật rõ âm đuôi /z/.",
+      "file_img": "image/grade_02/Unit_15/shoes.png",
+      "audio_segment": { "file_mp3": "audio/g2_u15.mp3", "start_sec": 39.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Những đôi giày thể thao xinh xắn xếp trên kệ hàng! Con hãy tìm kệ để giày trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v47",
+      "word": "shorts",
+      "phonetic": "/ʃɔːts/",
+      "meaning": "quần đùi, quần soóc 🩳",
+      "parent_guide": "Phát âm âm chu môi /ʃ/ ở đầu từ, chú ý uốn lưỡi nhẹ cho nguyên âm dài /ɔː/ và bật hơi rõ tổ hợp âm đuôi /ts/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_15/shorts.png",
+      "audio_segment": { "file_mp3": "audio/g2_u15.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Những chiếc quần đùi nhiều màu sắc sặc sỡ! Con hãy chỉ tay vào khu vực treo quần đùi và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u15_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng trang phục trong cửa hàng",
+      "page": 65,
+      "file_scene_image": "image/grade_02/g2_p65.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh một gia đình đang đi mua sắm tại cửa hàng quần áo ở trang 65. Lắng nghe mộc băng phát âm mẫu chữ cái Sh, âm /ʃ/ và 3 từ vựng trang phục: shirts, shoes, shorts.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u15.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh cửa hàng quần áo thời trang trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Nhiều đồ đẹp quá con ơi!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui về trang phục. Con nghe câu đố trang phục nằm ở đâu từ Robot, dùng chuột chọn đúng khu vực trên Web và tự phát âm to từ vựng.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy những chiếc áo sơ mi shirts, kệ để giày shoes và những chiếc quần soóc shorts ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u15_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp trang phục & Tập viết chữ cái Sh",
+      "page": 66,
+      "file_scene_image": "image/grade_02/g2_p66.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại cửa hàng quần áo về các món đồ thời trang và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u15.mp3", "start_sec": 66.0, "end_sec": 130.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' thời trang hôm nay nghe vui tươi quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe nhận diện: Bé nghe audio ngắn mô tả một loại trang phục và click chọn đánh dấu tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u15.mp3", "start_sec": 130.0, "end_sec": 158.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến loại trang phục nào trong tiệm và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét cặp chữ cái Sh, sh và điền chữ cái còn thiếu để hoàn chỉnh các từ vựng trang phục số nhiều trên màn hình.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ Sh hoa và thường, sau đó điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u15_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi vị trí trang phục & Hát kết bài",
+      "page": 67,
+      "file_scene_image": "image/grade_02/g2_p67.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp về vị trí đồ đạc: 'Where are the shoes? - Over there.' (Những đôi giày ở đâu thế? - Ở đằng kia kìa.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u15.mp3", "start_sec": 158.0, "end_sec": 198.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem các món đồ trang phục ở đâu trong cửa hàng nhé. Con hãy nghe máy đọc đoạn hội thoại mẫu và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé nhìn vào tranh và đóng vai người mua hàng để thay thế các từ vựng trang phục tương ứng vào cấu trúc câu hỏi 'Where are the ______?' để thực hành hỏi đáp chỉ đường với Robot.",
+          "robot_guide_tts": "Con hãy chọn một loại trang phục ngẫu nhiên trên kệ và thực hành hỏi vị trí với Robot đi nào! Thử hỏi vị trí những chiếc áo sơ mi 'Where are the shirts?' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát vui nhộn về chuyến đi mua sắm quần áo thời trang và hát theo để ôn tập lại toàn bộ Unit 15.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u15.mp3", "start_sec": 198.0, "end_sec": 262.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về các bộ quần áo và đôi giày xinh xắn để kết thúc Unit 15 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'những chiếc quần đùi, quần soóc'? ... A: shorts ... B: shirts",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'shoes' trong bài học ngày hôm nay dùng để chỉ vật gì con nhỉ? ... A: những chiếc áo sơ mi ... B: đôi giày, những chiếc giày",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi một ai đó 'Những đôi giày ở đâu thế?', con sẽ chọn câu nào? ... A: Where are the shoes? ... B: What do you want?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Khi muốn trả lời bạn 'Ở đằng kia kìa!', con sẽ dùng cụm từ nào bằng tiếng Anh? ... A: Over there. ... B: Here you are.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

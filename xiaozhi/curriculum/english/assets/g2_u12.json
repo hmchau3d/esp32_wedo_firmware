@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u12",
+  "unit_title": "Unit 12: At the café",
+  "pedagogical_focus": "Chữ cái: Aa. Âm phát âm: /eɪ/. Ngữ pháp: Cấu trúc câu diễn tả vị trí của đồ vật trên bàn (số ít và số nhiều): 'The cake is on the table.' và 'The grapes are on the table.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v35",
+      "word": "grapes",
+      "phonetic": "/ɡreɪps/",
+      "meaning": "chùm nho, quả nho 🍇",
+      "parent_guide": "Nhắc bé phát âm rõ âm /ɡr/ ở đầu, chú ý nguyên âm đôi /eɪ/ ở giữa từ và bật hơi âm đuôi /ps/ vì từ ở dạng số nhiều.",
+      "file_img": "image/grade_02/Unit_12/grapes.png",
+      "audio_segment": { "file_mp3": "audio/g2_u12.mp3", "start_sec": 42.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Đĩa nho tím mọng nước trên bàn kìa! Con hãy chỉ vào đĩa nho và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v36",
+      "word": "cake",
+      "phonetic": "/keɪk/",
+      "meaning": "bánh ngọt, chiếc bánh kem 🍰",
+      "parent_guide": "Chú ý nhắc bé phát âm rõ nguyên âm đôi /eɪ/ ở giữa từ và nhớ bật nhẹ hơi âm /k/ ở cuối từ, tránh đọc giật cục thành 'cếch'.",
+      "file_img": "image/grade_02/Unit_12/cake.png",
+      "audio_segment": { "file_mp3": "audio/g2_u12.mp3", "start_sec": 46.0, "end_sec": 50.0 },
+      "robot_vi_hint": "Chiếc bánh ngọt phủ kem dâu ngon quá! Con hãy tìm chiếc bánh ngọt trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v37",
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meaning": "cái bàn, bàn ăn  bàn ăn",
+      "parent_guide": "Từ này gồm 2 âm tiết, nhắc bé chú ý nhấn mạnh vào âm tiết đầu tiên có chứa nguyên âm đôi /eɪ/ và uốn nhẹ đầu lưỡi ở cuối cho âm /l/.",
+      "file_img": "image/grade_02/Unit_12/table.png",
+      "audio_segment": { "file_mp3": "audio/g2_u12.mp3", "start_sec": 50.0, "end_sec": 54.0 },
+      "robot_vi_hint": "Chiếc bàn ăn trải khăn xanh đẹp đẽ! Con hãy chỉ tay vào cái bàn trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u12_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng tại quán cà phê",
+      "page": 51,
+      "file_scene_image": "image/grade_02/g2_p51.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh một gia đình đang ngồi thư giãn tại quán cà phê ở trang 51. Lắng nghe băng phát âm mẫu chữ cái Aa, âm /eɪ/ và 3 từ vựng: grapes, cake, table.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u12.mp3", "start_sec": 35.0, "end_sec": 60.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh quán cà phê ấm cúng trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Trên bàn có nhiều món ăn ngon quá con ơi!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng đồ vật/món ăn trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy đĩa nho grapes, chiếc bánh kem cake và cái bàn table ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u12_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe & Tập viết chữ cái",
+      "page": 52,
+      "file_scene_image": "image/grade_02/g2_p52.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại quán cà phê về vị trí các món ăn ngon trên bàn và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u12.mp3", "start_sec": 71.0, "end_sec": 135.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe vui tai quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu quán cà phê nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả vị trí đồ vật và chọn hình ảnh chính xác tương ứng (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u12.mp3", "start_sec": 135.0, "end_sec": 175.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến món ăn nào trên bàn và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ A hoa, a thường và điền chữ cái còn thiếu để hoàn thiện các từ vựng.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ A hoa, chữ a thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u12_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu vị trí đồ vật & Hát kết bài",
+      "page": 53,
+      "file_scene_image": "image/grade_02/g2_p53.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu diễn tả vị trí của đồ vật trên bàn: 'The cake is on the table.' (Chiếc bánh ngọt ở trên bàn.) và 'The grapes are on the table.' (Những quả nho ở trên bàn.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u12.mp3", "start_sec": 175.0, "end_sec": 206.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu nói về một đồ vật hay món ăn đang nằm trên bàn nhé. Con hãy nghe máy đọc hai câu mẫu này và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé nhìn vào hình ảnh và thay thế các từ vựng món ăn tương ứng (a: pasta, b: pizza, c: popcorn, hoặc grapes, cake) vào cấu trúc câu 'The ______ is/are on the table.' để luyện nói giao tiếp đối thoại với Robot.",
+          "robot_guide_tts": "Con hãy chọn một món ăn ngẫu nhiên trên màn hình và thực hành tập nói vị trí của nó cho Robot nghe đi nào! Thử nói câu chiếc bánh ngọt 'The cake is on the table.' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng về không gian quán cà phê và các món ăn ngon trên bàn ăn và hát theo để ôn tập lại toàn bộ Unit 12.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u12.mp3", "start_sec": 206.0, "end_sec": 284.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về các món ăn ngọt ngào tại quán café để kết thúc Unit 12 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'những quả nho, chùm nho'? ... A: grapes ... B: cake",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'table' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: con đường ... B: cái bàn",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn nói 'Chiếc bánh ngọt ở trên bàn.', con sẽ chọn câu nào? ... A: The cake is on the table. ... B: The grapes are on the table.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Đối với từ số nhiều 'grapes', khi diễn đạt chúng ở trên bàn, con sẽ điền từ nào vào chỗ trống: 'The grapes ______ on the table.' ... A: is ... B: are",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    }
+  ]
+}

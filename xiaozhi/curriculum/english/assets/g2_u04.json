@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u04",
+  "unit_title": "Unit 4: In the countryside",
+  "pedagogical_focus": "Chữ cái: Rr. Âm phát âm: /r/. Ngữ pháp: Cấu trúc câu hỏi xem ai đó nhìn thấy gì và câu trả lời diễn đạt những gì mình nhìn thấy ở vùng nông thôn: 'What can you see? - I can see a...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v11",
+      "word": "rainbow",
+      "phonetic": "/ˈreɪnbəʊ/",
+      "meaning": "cầu vồng 🌈",
+      "parent_guide": "Nhắc bé uốn cong lưỡi nhẹ ở đầu từ cho âm /r/ và phát âm trọn vẹn nguyên âm đôi /eɪ/ và /əʊ/.",
+      "file_img": "image/grade_02/Unit_04/rainbow.png",
+      "audio_segment": { "file_mp3": "audio/g2_u04.mp3", "start_sec": 32.0, "end_sec": 37.0 },
+      "robot_vi_hint": "Cầu vồng rực rỡ nhiều màu sắc quá! Con hãy chỉ vào chiếc cầu vồng trên trời và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v12",
+      "word": "river",
+      "phonetic": "/ˈrɪvə(r)/",
+      "meaning": "dòng sông 🏞️",
+      "parent_guide": "Chú ý nhắc bé phát âm rõ âm /v/ ở giữa từ và uốn nhẹ lưỡi âm /r/ ở cuối từ (theo giọng Anh-Mỹ) để từ vựng tròn âm.",
+      "file_img": "image/grade_02/Unit_04/river.png",
+      "audio_segment": { "file_mp3": "audio/g2_u04.mp3", "start_sec": 37.0, "end_sec": 41.0 },
+      "robot_vi_hint": "Dòng sông uốn lượn mát mẻ chưa kìa! Con hãy tìm dòng sông trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v13",
+      "word": "road",
+      "phonetic": "/rəʊd/",
+      "meaning": "con đường 🛣️",
+      "parent_guide": "Phát âm âm /r/ uốn lưỡi đầu từ, chu môi nhẹ ở nguyên âm /əʊ/ và nhớ bật nhẹ hơi âm /d/ ở cuối từ, tránh đọc thành 'rốt'.",
+      "file_img": "image/grade_02/Unit_04/road.png",
+      "audio_segment": { "file_mp3": "audio/g2_u04.mp3", "start_sec": 41.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Con đường làng dài thênh thang! Con hãy chỉ tay vào con đường trên màn hình và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u04_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng vùng nông thôn",
+      "page": 17,
+      "file_scene_image": "image/grade_02/g2_p18.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh phong cảnh vùng nông thôn thanh bình ở trang 17. Lắng nghe băng phát âm mẫu chữ cái Rr, âm /r/ và 3 từ vựng: rainbow, river, road.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u04.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh đồng quê tuyệt đẹp trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Khung cảnh yên bình quá con nhỉ!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng đồ vật/cảnh vật trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy chiếc cầu vồng rainbow, dòng sông river và con đường road ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u04_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Rr",
+      "page": 18,
+      "file_scene_image": "image/grade_02/g2_p19.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại miền quê (R, r, road / There's a road...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u04.mp3", "start_sec": 67.0, "end_sec": 133.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay nghe thật vui tươi! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả khung cảnh và click chọn khoanh tròn vào ô tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u04.mp3", "start_sec": 133.0, "end_sec": 159.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến cảnh vật nào và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ R hoa, r thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ: _oad, _iver, _ainbow.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ R hoa, chữ r thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u04_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi đáp nhìn thấy gì & Ca hát kết bài",
+      "page": 19,
+      "file_scene_image": "image/grade_02/g2_p20.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp những gì nhìn thấy: 'What can you see? - I can see a rainbow.' (Bạn có thể nhìn thấy gì? - Mình có thể nhìn thấy một chiếc cầu vồng).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u04.mp3", "start_sec": 159.0, "end_sec": 197.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem bạn nhìn thấy gì nhé. Con hãy nghe máy đọc đoạn hội thoại 'What can you see? - I can see a rainbow.' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các từ vựng tương ứng (a: road, b: rainbow, c: river) vào cấu trúc câu 'I can see a ______.' để luyện nói trả lời.",
+          "robot_guide_tts": "Con hãy chọn một hình ảnh ngẫu nhiên trên màn hình và thực hành trả lời câu hỏi của Robot đi nào! Thử với hình dòng sông và nói 'I can see a river.' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng về miền quê (What can you see? / I can see a rainbow / A rainbow in the sky...) và hát theo để ôn tập lại toàn bộ Unit 4.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u04.mp3", "start_sec": 197.0, "end_sec": 274.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về chiếc cầu vồng trên trời và dòng sông bên cạnh con đường để kết thúc Unit 4 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'dòng sông'? ... A: river ... B: road",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'rainbow' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: bãi cát ... B: cầu vồng",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi ai đó 'Bạn có thể nhìn thấy gì?', con sẽ chọn câu nào? ... A: What can you see? ... B: Is she flying a kite?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Điền chữ cái còn thiếu vào chỗ trống để tạo thành từ 'con đường': _oad ... A: r ... B: s",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

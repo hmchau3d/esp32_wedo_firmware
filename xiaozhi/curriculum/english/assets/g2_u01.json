@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u01",
+  "unit_title": "Unit 1: At my birthday party",
+  "pedagogical_focus": "Chữ cái: Pp. Âm phát âm: /p/. Ngữ pháp: Cấu trúc khen món ăn ngon 'The... is yummy.' và bày tỏ sở thích 'I like...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v1",
+      "word": "pasta",
+      "phonetic": "/ˈpɑːstə/",
+      "meaning": "mì Ý 🍝",
+      "parent_guide": "Nhắc bé mím nhẹ môi và bật hơi âm /p/ thật rõ ở đầu từ, tránh đọc nhầm thành âm /b/.",
+      "file_img": "image/grade_02/Unit_01/pasta.png",
+      "audio_segment": { "file_mp3": "audio/g2_u01.mp3", "start_sec": 48.0, "end_sec": 53.0 },
+      "robot_vi_hint": "Mì Ý thơm ngon quá! Con hãy tìm đĩa mì Ý trên màn hình và đọc to từ này cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v2",
+      "word": "popcorn",
+      "phonetic": "/ˈpɒpkɔːn/",
+      "meaning": "bắp rang bơ 🍿",
+      "parent_guide": "Từ này có hai âm /p/, nhắc bé chú ý bật hơi cả âm ở giữa từ và kéo dài vần 'orn' ở cuối.",
+      "file_img": "image/grade_02/Unit_01/popcorn.png",
+      "audio_segment": { "file_mp3": "audio/g2_u01.mp3", "start_sec": 53.0, "end_sec": 57.0 },
+      "robot_vi_hint": "Bắp rang bơ đây rồi! Con hãy chỉ vào rổ bắp rang bơ trên màn hình Web và phát âm tiếng Anh thật hay nào!"
+    },
+    {
+      "vocab_id": "v3",
+      "word": "pizza",
+      "phonetic": "/ˈpiːtsə/",
+      "meaning": "bánh pizza 🍕",
+      "parent_guide": "Nhắc bé bật hơi âm /p/, kéo dài âm 'ee' một chút và chú ý âm /ts/ ở giữa từ.",
+      "file_img": "image/grade_02/Unit_01/pizza.png",
+      "audio_segment": { "file_mp3": "audio/g2_u01.mp3", "start_sec": 53.0, "end_sec": 57.0 },
+      "robot_vi_hint": "Bánh pizza tròn xòe hấp dẫn quá! Con hãy chỉ vào chiếc bánh pizza và đọc to lên nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u1_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 6,
+      "file_scene_image": "image/grade_02/g2_p06.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào tranh toàn cảnh bữa tiệc sinh nhật trang 6. Nghe băng phát âm mẫu chữ Pp, âm /p/ và các từ vựng pasta, popcorn, pizza.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u01.mp3", "start_sec": 33.0, "end_sec": 57.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm các món ăn trong bữa tiệc sinh nhật nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ vào tranh đố vui. Con lắng nghe câu đố từ Robot, sau đó click chọn món ăn đúng trên Web và tự phát âm thành tiếng.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy đĩa mì Ý pasta, rổ bắp rang bơ popcorn và bánh pizza ở trên bàn tiệc nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u1_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái",
+      "page": 7,
+      "file_scene_image": "image/grade_02/g2_p07.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn (P, p, pasta / I like pasta...) và vỗ tay hoặc nhún nhảy theo nhịp điệu ngữ âm.",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u01.mp3", "start_sec": 72.0, "end_sec": 132.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' này vui quá! Con hãy bấm nút Phát băng trên màn hình Web để tụi mình cùng nhún nhảy và đọc theo nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bài tập trắc nghiệm nghe: Bé nghe đoạn audio ngắn mô tả món ăn và đánh dấu tick chọn vào ô vuông đáp án hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u01.mp3", "start_sec": 147.0, "end_sec": 174.0 },
+          "robot_guide_tts": "Bây giờ tới cuộc thi thính giác nhé! Con hãy lắng nghe xem máy đọc món ăn nào rồi dùng chuột click đánh dấu tick vào ô của hình đó nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô chữ cái P hoa, p thường và hoàn thiện các chữ cái còn thiếu của các từ: _izza, _opcorn, _asta.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tập viết chữ P hoa và p thường, sau đó điền chữ cái còn thiếu cho các món ăn trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u1_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu diễn đạt & Ca hát",
+      "page": 8,
+      "file_scene_image": "image/grade_02/g2_p08.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe và lặp lại mẫu câu khen ngợi món ăn: 'The popcorn is yummy.' (Bắp rang bơ ngon tuyệt).",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u01.mp3", "start_sec": 187.0, "end_sec": 202.0 },
+          "robot_guide_tts": "Chúng mình cùng học cách khen món ăn ngon nhé. Con hãy nghe máy đọc mẫu câu 'The popcorn is yummy' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói tự do: Bé thay thế các món ăn khác nhau (a: pasta, b: pizza, c: popcorn) vào cấu trúc 'The ______ is yummy.' để tập nói.",
+          "robot_guide_tts": "Đến lượt con trổ tài rồi! Con hãy thử thay thế đĩa mì Ý hoặc bánh pizza vào và nói câu khen ngợi cho Robot nghe xem nào! Ví dụ: 'The pizza is yummy'!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu và hát theo bài hát sinh nhật lồng ghép toàn bộ từ vựng và cấu trúc mẫu câu đã học trong Unit 1.",
+          "audio_controller": { "track_label": "Track 6", "file_mp3": "audio/g2_u01.mp3", "start_sec": 216.0, "end_sec": 276.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát vang bài hát mừng sinh nhật thật vui để kết thúc Unit 1 tuyệt vời này nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'mì Ý'? ... A: pasta ... B: pizza",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Món 'bắp rang bơ' trong tiếng Anh đọc là gì con nhỉ? ... A: pizza ... B: popcorn",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn khen 'Bánh pizza ngon tuyệt!', con sẽ chọn câu nào? ... A: The pizza is yummy. ... B: I like pasta.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Từ nào có chứa chữ cái 'p' dùng để chỉ món bánh hình tròn nướng lò cắt thành từng miếng? ... A: popcorn ... B: pizza",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    }
+  ]
+}

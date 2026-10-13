@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u02",
+  "unit_title": "Unit 2: In the backyard",
+  "pedagogical_focus": "Chữ cái: Kk. Âm phát âm: /k/. Ngữ pháp: Cấu trúc hỏi và trả lời về hành động đang diễn ra của một người 'Is he/she flying a kite? - Yes, he/she is. / No, he/she isn't.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v5",
+      "word": "kite",
+      "phonetic": "/kaɪt/",
+      "meaning": "con diều 🪁",
+      "parent_guide": "Nhắc bé bật hơi nhẹ chữ 't' ở cuối từ để phát âm chuẩn xác.",
+      "file_img": "image/grade_02/Unit_02/kite.png",
+      "audio_segment": { "file_mp3": "audio/g2_u02.mp3", "start_sec": 30.0, "end_sec": 34.0 },
+      "robot_vi_hint": "Con diều bay cao quá! Con hãy chỉ vào con diều trên màn hình và đọc to từ này cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v6",
+      "word": "bike",
+      "phonetic": "/baɪk/",
+      "meaning": "xe đạp 🚲",
+      "parent_guide": "Nhắc bé bật hơi âm bật 'k' thật rõ ở cuối từ, tránh bỏ quên âm đuôi này.",
+      "file_img": "image/grade_02/Unit_02/bike.png",
+      "audio_segment": { "file_mp3": "audio/g2_u02.mp3", "start_sec": 34.0, "end_sec": 39.0 },
+      "robot_vi_hint": "Chiếc xe đạp màu hồng xinh xắn! Con hãy tìm chiếc xe đạp trên Web và phát âm tiếng Anh thật hay nào!"
+    },
+    {
+      "vocab_id": "v7",
+      "word": "kitten",
+      "phonetic": "/ˈkɪtn/",
+      "meaning": "mèo con 🐱",
+      "parent_guide": "Từ này có hai âm tiết, âm đầu phát âm với âm /k/, nhắc bé nhấn nhẹ vào âm tiết đầu tiên.",
+      "file_img": "image/grade_02/Unit_02/kitten.png",
+      "audio_segment": { "file_mp3": "audio/g2_u02.mp3", "start_sec": 39.0, "end_sec": 44.0 },
+      "robot_vi_hint": "Chú mèo con dễ thương chưa kìa! Con hãy chỉ vào chú mèo con trên màn hình và đọc to lên nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u2_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng",
+      "page": 10,
+      "file_scene_image": "image/grade_02/g2_p10.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé nhìn vào tranh toàn cảnh sân sau nhà trang 10. Nghe băng phát âm mẫu chữ Kk, âm /k/ và các từ vựng: kite, bike, kitten.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u02.mp3", "start_sec": 20.0, "end_sec": 50.0 },
+          "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút loa màu hồng để nghe máy phát âm các hoạt động ở sân sau nhé! Robot đang ngồi xem con học đây!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ vào tranh đố vui. Con lắng nghe câu đố từ Robot, sau đó chọn từ đúng trên Web và tự phát âm thành tiếng.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nhé! Robot đố con tìm thấy con diều kite, chiếc xe đạp bike và chú mèo con kitten ở trong sân nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u2_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái",
+      "page": 11,
+      "file_scene_image": "image/grade_02/g2_p11.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn (K, k, kite / He's flying a kite...) và vỗ tay hoặc nhún nhảy theo nhịp điệu ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u02.mp3", "start_sec": 67.0, "end_sec": 131.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rất sôi động! Con hãy bấm nút Phát băng trên màn hình Web để tụi mình cùng đọc theo nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and circle",
+          "description": "Bài tập trắc nghiệm nghe: Bé nghe đoạn audio ngắn và khoanh tròn vào hình ảnh đáp án chính xác tương ứng (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u02.mp3", "start_sec": 131.0, "end_sec": 156.0 },
+          "robot_guide_tts": "Bây giờ chúng mình cùng thi tài thính giác nhé! Con hãy lắng nghe xem máy đọc từ gì rồi click chọn khoanh tròn vào đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô chữ cái K hoa, k thường và hoàn thiện các chữ cái còn thiếu của các từ: bi_e, _ite, _itten.",
+          "robot_guide_tts": "Con hãy dùng chuột hoặc ngón tay cảm ứng để viết chữ K hoa và k thường, sau đó điền chữ cái còn thiếu cho các từ trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u2_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu diễn đạt & Ca hát",
+      "page": 12,
+      "file_scene_image": "image/grade_02/g2_p12.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe và lặp lại mẫu câu hỏi đáp hành động: 'Is she flying a kite? - Yes, she is.' và 'Is he flying a kite? - No, he isn't.'",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u02.mp3", "start_sec": 156.0, "end_sec": 196.0 },
+          "robot_guide_tts": "Chúng mình cùng học cấu trúc hỏi xem ai đó đang làm gì không nhé. Con hãy nghe máy đọc mẫu câu hỏi đáp và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành nói: Bé thay thế các hình ảnh hoạt động khác nhau (a: flying a kite, b: playing with a kitten, c: riding a bike) vào cấu trúc hỏi đáp để tập nói.",
+          "robot_guide_tts": "Đến lượt con thực hành rồi! Con hãy nhìn vào các hình và tập đóng vai hỏi đáp cùng Robot nhé. Thử với câu 'Is he riding a bike?' xem nào!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu và hát theo bài hát lồng ghép toàn bộ từ vựng và cấu trúc hỏi đáp hành động đã học trong Unit 2.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u02.mp3", "start_sec": 196.0, "end_sec": 265.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, tụi mình cùng hát vang bài hát vui nhộn về các bạn nhỏ trong sân yard để kết thúc Unit 2 thật vui nha!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'con diều'? ... A: kite ... B: bike",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Chú 'mèo con' trong tiếng Anh đọc là gì con nhỉ? ... A: kitten ... B: pasta",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi 'Có phải cậu ấy đang thả diều không?', con sẽ nói câu nào? ... A: Is he flying a kite? ... B: Is she riding a bike?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu ai đó hỏi 'Is she riding a bike?' và trong hình bạn nữ đang đạp xe thật, con sẽ trả lời thế nào? ... A: Yes, she is. ... B: No, he isn't.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

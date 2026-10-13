@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u08",
+  "unit_title": "Unit 8: In the village",
+  "pedagogical_focus": "Chữ cái: Vv. Âm phát âm: /v/. Ngữ pháp: Cấu trúc câu hỏi khả năng có thể vẽ một vật gì đó và câu trả lời tương ứng: 'Can you draw a/an...? - Yes, I can. / No, I can't.'",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v23",
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meaning": "ngôi làng, dân làng 🏡",
+      "parent_guide": "Nhắc bé phát âm rõ âm /v/ ở đầu từ và chú ý đuôi '-ge' phát âm âm bật /dʒ/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_08/village.png",
+      "audio_segment": { "file_mp3": "audio/g2_u08.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Ngôi làng yên bình có cổng chào Làng Lim kìa! Con hãy chỉ vào cổng làng và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v24",
+      "word": "van",
+      "phonetic": "/væn/",
+      "meaning": "xe tải nhỏ, xe bán tải 🚐",
+      "parent_guide": "Chú ý nhắc bé đặt răng cửa hàm trên chạm nhẹ môi dưới để phát âm âm /v/ ở đầu, hạ hàm mở rộng miệng với nguyên âm /væn/.",
+      "file_img": "image/grade_02/Unit_08/van.png",
+      "audio_segment": { "file_mp3": "audio/g2_u08.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Chiếc xe tải nhỏ màu vàng đang đỗ bên đường! Con hãy tìm chiếc xe tải trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v25",
+      "word": "volleyball",
+      "phonetic": "/ˈvɒlibɔːl/",
+      "meaning": "quả bóng chuyền, môn bóng chuyền 🏐",
+      "parent_guide": "Từ này gồm 3 âm tiết, nhắc bé chú ý phát âm rõ âm /v/ ở đầu và kéo dài vần '-ball' ở âm tiết cuối.",
+      "file_img": "image/grade_02/Unit_08/volleyball.png",
+      "audio_segment": { "file_mp3": "audio/g2_u08.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Quả bóng chuyền nhiều màu sắc sọc xanh vàng đang bay! Con hãy chỉ tay vào quả bóng chuyền và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u08_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng tại ngôi làng",
+      "page": 34,
+      "file_scene_image": "image/grade_02/g2_p34.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh các bạn nhỏ đang chơi bóng chuyền ở sân đình ngôi làng vùng quê trang 34. Lắng nghe băng phát âm mẫu chữ cái Vv, âm /v/ và 3 từ vựng: village, van, volleyball.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u08.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh làng quê tuyệt đẹp trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Hôm nay tụi mình học chữ cái V nha!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng cảnh vật/đồ vật trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy cổng làng village, chiếc xe tải nhỏ van và quả bóng chuyền volleyball ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u08_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Vv",
+      "page": 35,
+      "file_scene_image": "image/grade_02/g2_p35.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại nông thôn (V, v, van / This is a van...) và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u08.mp3", "start_sec": 70.0, "end_sec": 136.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rộn ràng quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and circle",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả đồ vật/cảnh vật và click chọn khoanh tròn vào đáp án chính xác tương ứng (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u08.mp3", "start_sec": 136.0, "end_sec": 166.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến đồ vật hay cảnh vật nào và nhanh tay chọn đáp án khoanh tròn đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ V hoa, v thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ: _illage, _olleyball, _an.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ V hoa, chữ v thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u08_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi khả năng họa sĩ & Ca hát kết bài",
+      "page": 36,
+      "file_scene_image": "image/grade_02/g2_p36.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp khả năng vẽ tranh: 'Can you draw a van? - Yes, I can.' và 'No, I can't.'",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u08.mp3", "start_sec": 166.0, "end_sec": 206.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem bạn có thể vẽ một bức tranh nào đó không nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các từ vựng tương ứng (a: van, b: volleyball, c: football, d: village) vào cấu trúc câu 'Can you draw a ______?' để luyện nói hỏi đáp khả năng vẽ.",
+          "robot_guide_tts": "Con hãy chọn một hình ảnh ngẫu nhiên trên màn hình và thực hành hỏi Robot xem có vẽ được không đi nào! Thử hỏi câu hỏi vẽ bóng chuyền 'Can you draw a volleyball?' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu ca hát rộn ràng kết hợp tài năng vẽ tranh (Can you draw a van? / Yes, I can...) và hát theo để ôn tập lại toàn bộ Unit 8.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u08.mp3", "start_sec": 206.0, "end_sec": 279.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về khả năng tập vẽ của các bạn nhỏ ngoài trời để kết thúc Unit 8 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'xe tải nhỏ'? ... A: van ... B: ox",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'village' trong bài học ngày hôm nay có nghĩa là gì con nhỉ? ... A: bãi cát ... B: ngôi làng, dân làng",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi bạn 'Cậu có biết vẽ một quả bóng chuyền không?', con sẽ chọn câu nào? ... A: Can you draw a volleyball? ... B: Is there a fox?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu con không biết vẽ một ngôi làng, khi được bạn hỏi 'Can you draw a village?', con sẽ trả lời thế nào? ... A: No, I can't. ... B: Yes, I can.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

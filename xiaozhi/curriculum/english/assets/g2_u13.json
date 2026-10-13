@@ -1,0 +1,156 @@
+{
+  "uid": "g2_u13",
+  "unit_title": "Unit 13: In the maths class",
+  "pedagogical_focus": "Chữ cái: Nn. Âm phát âm: /n/. Ngữ pháp: Cấu trúc câu hỏi xem đây là con số mấy và câu trả lời tương ứng trong lớp học Toán: 'What number is it? - It's...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v38",
+      "word": "eleven",
+      "phonetic": "/ɪˈlevn/",
+      "meaning": "số mười một ⑪",
+      "parent_guide": "Nhắc bé nhấn mạnh vào âm tiết thứ hai '-le-', phát âm nhẹ nhàng âm /v/ ở giữa và khép nhẹ lưỡi cho âm /n/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_13/eleven.png",
+      "audio_segment": { "file_mp3": "audio/g2_u13.mp3", "start_sec": 38.0, "end_sec": 42.0 },
+      "robot_vi_hint": "Con số mười một màu xanh lá cây trên bảng kìa! Con hãy chỉ vào số 11 và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v39",
+      "word": "thirteen",
+      "phonetic": "/ˌθɜːˈtiːn/",
+      "meaning": "số mười ba ⑬",
+      "parent_guide": "Chú ý nhắc bé đặt đầu lưỡi giữa hai hàm răng để phát âm âm /θ/ ở đầu, kéo dài âm 'ee' (/tiːn/) và ngân nhẹ âm /n/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_13/thirteen.png",
+      "audio_segment": { "file_mp3": "audio/g2_u13.mp3", "start_sec": 42.0, "end_sec": 46.0 },
+      "robot_vi_hint": "Con số mười ba màu hồng xinh xắn! Con hãy tìm số 13 trên màn hình Web và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v40",
+      "word": "fourteen",
+      "phonetic": "/ˌfɔːˈtiːn/",
+      "meaning": "số mười bốn ⑭",
+      "parent_guide": "Phát âm rõ âm /f/ đầu từ, chú ý nhấn mạnh vào âm tiết kéo dài phía sau '-teen' (/tiːn/) và kết thúc bằng âm /n/.",
+      "file_img": "image/grade_02/Unit_13/fourteen.png",
+      "audio_segment": { "file_mp3": "audio/g2_u13.mp3", "start_sec": 46.0, "end_sec": 50.0 },
+      "robot_vi_hint": "Số mười bốn màu cam nổi bật trên bảng! Con hãy chỉ tay vào số 14 và đọc to lên cùng robot nào!"
+    },
+    {
+      "vocab_id": "v41",
+      "word": "fifteen",
+      "phonetic": "/ˌfɪfˈtiːn/",
+      "meaning": "số mười lăm ⑮",
+      "parent_guide": "Nhắc bé chú ý phát âm rõ âm /f/ ở cả hai vị trí trong âm tiết đầu 'fif-', sau đó nhấn mạnh vào đuôi '-teen' ở phía sau.",
+      "file_img": "image/grade_02/Unit_13/fifteen.png",
+      "audio_segment": { "file_mp3": "audio/g2_u13.mp3", "start_sec": 50.0, "end_sec": 55.0 },
+      "robot_vi_hint": "Số mười lăm màu xanh dương ở cuối hàng! Con hãy chỉ tay vào số 15 và phát âm thật to lên xem nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u13_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng số đếm trong giờ Toán",
+      "page": 57,
+      "file_scene_image": "image/grade_02/g2_p57.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh thầy giáo đang hướng dẫn các bạn học sinh học đếm các số từ 11 đến 15 trong lớp học Toán ở trang 57. Lắng nghe băng phát âm mẫu chữ cái Nn, âm /n/ và các số: eleven, thirteen, fourteen, fifteen.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u13.mp3", "start_sec": 30.0, "end_sec": 60.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh lớp học Toán vui nhộn trên màn hình, click vào nút loa màu hồng để nghe máy phát âm các con số nhé! Robot xem con đếm số giỏi không nào!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui về các con số. Con nghe câu đố số mấy từ Robot, dùng chuột chọn đúng con số trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố số nha! Robot đố con tìm thấy số mười một eleven, số mười ba thirteen, số mười bốn fourteen và số mười lăm fifteen ở đâu trên bảng nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u13_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp số đếm & Tập viết chữ cái Nn",
+      "page": 58,
+      "file_scene_image": "image/grade_02/g2_p58.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn về các con số đếm toán học và vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u13.mp3", "start_sec": 69.0, "end_sec": 141.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' về các con số hôm nay rất sôi động! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy đếm số nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick/circle",
+          "description": "Bài tập luyện nghe số đếm: Bé nghe audio ngắn đọc một con số ngẫu nhiên và chọn hình ảnh chữ số chính xác tương ứng (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u13.mp3", "start_sec": 141.0, "end_sec": 180.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh xem con nhận diện số giỏi chưa nè! Con hãy lắng nghe thật kỹ xem máy nhắc đến số mấy và nhanh tay chọn đáp án đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ N hoa, n thường và hoàn thiện chữ cái còn thiếu của các từ số đếm trên màn hình.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ N hoa, chữ n thường và hoàn thành bài tập viết số trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u13_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu hỏi đáp con số & Ca hát kết bài",
+      "page": 59,
+      "file_scene_image": "image/grade_02/g2_p59.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp về con số: 'What number is it? - It's eleven.' (Đây là số mấy thế? - Đây là số mười một.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u13.mp3", "start_sec": 180.0, "end_sec": 209.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem một chữ số là số mấy nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp 'What number is it? - It's eleven.' và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai và thay thế các chữ số tương ứng (a: 11, b: 13, c: 14, d: 15) vào cấu trúc câu câu hỏi 'What number is it?' để thực hành hỏi đáp nói với Robot.",
+          "robot_guide_tts": "Con hãy chọn một con số bất kỳ trên màn hình và thực hành hỏi đáp cùng Robot đi nào! Thử hỏi Robot và tự trả lời xem số 13 đọc thế nào nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát rộn ràng đếm các con số toán học vui nhộn trong lớp học và hát theo để ôn tập lại toàn bộ Unit 13.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u13.mp3", "start_sec": 209.0, "end_sec": 281.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về các con số từ 11 đến 15 để kết thúc Unit 13 toán học đầy thú vị này nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây là số '11'? ... A: eleven ... B: thirteen",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Số '15' trong tiếng Anh đọc là gì con nhỉ? ... A: fourteen ... B: fifteen",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi ai đó 'Đây là số mấy thế?', con sẽ chọn câu nào? ... A: What number is it? ... B: What can you see?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu có ai hỏi con 'What number is it?' và con đang nhìn vào số 14, con sẽ trả lời thế nào? ... A: It's fourteen. ... B: It's thirteen.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}

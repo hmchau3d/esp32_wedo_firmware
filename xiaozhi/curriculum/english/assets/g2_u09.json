@@ -1,0 +1,146 @@
+{
+  "uid": "g2_u09",
+  "unit_title": "Unit 9: In the grocery store",
+  "pedagogical_focus": "Chữ cái: Yy. Âm phát âm: /j/. Ngữ pháp: Cấu trúc câu hỏi xem ai đó muốn mua/cần thứ gì và câu trả lời bày tỏ mong muốn của mình tại cửa hàng bách hóa: 'What do you want? - I want some...'.",
+  "asset_base_url": "ttps://raw.githubusercontent.com/hmchau3d/esp32_wedo_firmware/refs/heads/main/xiaozhi/curriculum/english/assets/",
+  
+  "vocabulary_pool": [
+    {
+      "vocab_id": "v26",
+      "word": "yogurt",
+      "phonetic": "/ˈjɒɡət/",
+      "meaning": "sữa chua 🥛",
+      "parent_guide": "Nhắc bé phát âm rõ âm /j/ ở đầu từ (giống âm 'gi' nhưng nhẹ và mượt hơn), chú ý âm tiết thứ hai phát âm ngắn gọn.",
+      "file_img": "image/grade_02/Unit_09/yogurt.png",
+      "audio_segment": { "file_mp3": "audio/g2_u09.mp3", "start_sec": 34.0, "end_sec": 38.0 },
+      "robot_vi_hint": "Những lốc sữa chua mát lạnh trên kệ hàng! Con hãy chỉ vào vỉ sữa chua và phát âm tiếng Anh cho robot nghe nhé!"
+    },
+    {
+      "vocab_id": "v27",
+      "word": "yams",
+      "phonetic": "/jæmz/",
+      "meaning": "củ khoai mỡ, củ khoai lang 🍠",
+      "parent_guide": "Chú ý nhắc bé phát âm âm /j/ ở đầu, hạ hàm mở rộng miệng với nguyên âm /æ/ và khép môi lại bật hơi âm đuôi /z/ vì từ ở dạng số nhiều.",
+      "file_img": "image/grade_02/Unit_09/yams.png",
+      "audio_segment": { "file_mp3": "audio/g2_u09.mp3", "start_sec": 38.0, "end_sec": 43.0 },
+      "robot_vi_hint": "Rổ khoai mỡ xếp ngay ngắn trong xe đẩy của mẹ! Con hãy tìm rổ khoai và đọc to từ này lên nào!"
+    },
+    {
+      "vocab_id": "v28",
+      "word": "yo-yos",
+      "phonetic": "/ˈjəʊjəʊz/",
+      "meaning": "đồ chơi yo-yo 🪀",
+      "parent_guide": "Từ này lặp lại hai âm /jəʊ/, nhắc bé chú ý chu môi nhẹ ở nguyên âm đôi /əʊ/ và nhớ phát âm cả âm đuôi /z/ ở cuối từ.",
+      "file_img": "image/grade_02/Unit_09/yo-yos.png",
+      "audio_segment": { "file_mp3": "audio/g2_u09.mp3", "start_sec": 43.0, "end_sec": 48.0 },
+      "robot_vi_hint": "Bạn nhỏ đang cầm trên tay những chiếc yo-yo nhiều màu sắc! Con hãy chỉ tay vào đồ chơi yo-yo và đọc to lên cùng robot nào!"
+    }
+  ],
+
+  "lessons_timeline": [
+    {
+      "lesson_id": "u09_l1",
+      "lesson_title": "Lesson 1 - Presentation: Nhận diện Ngữ âm & Từ vựng tại cửa hàng bách hóa",
+      "page": 40,
+      "file_scene_image": "image/grade_02/g2_p40.png",
+      "activities": [
+        {
+          "activity_idx": 1,
+          "title": "1. Listen and repeat",
+          "description": "Bé quan sát tranh mẹ và bạn nhỏ đi mua sắm tại cửa hàng bách hóa ở trang 40. Lắng nghe băng phát âm mẫu chữ cái Yy, âm /j/ và 3 từ vựng: yogurt, yams, yo-yos.",
+          "audio_controller": { "track_label": "Track 1", "file_mp3": "audio/g2_u09.mp3", "start_sec": 25.0, "end_sec": 55.0 },
+          "robot_guide_tts": "Con hãy nhìn lên bức tranh siêu thị bách hóa đông đúc trên màn hình, click vào nút loa màu hồng để nghe máy phát âm bài học nhé! Hôm nay tụi mình học chữ cái Y nha!"
+        },
+        {
+          "activity_idx": 2,
+          "title": "2. Point and say",
+          "description": "Thực hành tương tác: Chỉ tranh đố vui. Con nghe câu đố từ Robot, dùng chuột chọn đúng món đồ/món ăn trên Web và tự phát âm to.",
+          "robot_guide_tts": "Chúng mình cùng chơi trò Chỉ tranh đố vui nha! Robot đố con tìm thấy sữa chua yogurt, củ khoai yams và đồ chơi yo-yos ở đâu nào!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u09_l2",
+      "lesson_title": "Lesson 2 - Practice: Luyện nghe tích hợp & Tập viết chữ cái Yy",
+      "page": 41,
+      "file_scene_image": "image/grade_02/g2_p41.png",
+      "activities": [
+        {
+          "activity_idx": 3,
+          "title": "3. Listen and chant",
+          "description": "Bé nghe bài nhạc vần vui nhộn tại quầy hàng bách hóa (Y, y, yo-yos / Can you see the yo-yos?...) and vỗ tay hoặc nhún nhảy theo nhịp điệu bài chant ngữ âm.",
+          "audio_controller": { "track_label": "Track 2", "file_mp3": "audio/g2_u09.mp3", "start_sec": 70.0, "end_sec": 136.0 },
+          "robot_guide_tts": "Bài hát vần 'Listen and chant' hôm nay rộn ràng quá! Con hãy bấm nút Phát băng trên màn hình Web để chúng mình cùng nhún nhảy theo giai điệu mua sắm nha!"
+        },
+        {
+          "activity_idx": 4,
+          "title": "4. Listen and tick",
+          "description": "Bài tập luyện nghe: Bé nghe audio ngắn mô tả nhu cầu sắm sửa và click chọn đánh dấu tick vào ô vuông tương ứng với hình ảnh chính xác (hình a hoặc b).",
+          "audio_controller": { "track_label": "Track 3", "file_mp3": "audio/g2_u09.mp3", "start_sec": 136.0, "end_sec": 163.0 },
+          "robot_guide_tts": "Đến bài tập thử tài tai tinh rồi! Con hãy lắng nghe thật kỹ xem máy nhắc đến món đồ nào và nhanh tay chọn đáp án đánh dấu tick đúng nha!"
+        },
+        {
+          "activity_idx": 5,
+          "title": "5. Look and write",
+          "description": "Tập viết chữ: Bé tập tô theo nét chữ Y hoa, y thường và điền các chữ cái còn thiếu để hoàn chỉnh các từ vựng: _ams, _ogurt, _o-_os.",
+          "robot_guide_tts": "Con hãy dùng ngón tay cảm ứng hoặc chuột để tô chữ Y hoa, chữ y thường và điền chữ cái còn thiếu cho các từ vựng trên màn hình nhé!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "u09_l3",
+      "lesson_title": "Lesson 3 - Production: Luyện mẫu câu mua sắm & Ca hát kết bài",
+      "page": 42,
+      "file_scene_image": "image/grade_02/g2_p42.png",
+      "activities": [
+        {
+          "activity_idx": 6,
+          "title": "6. Listen and repeat",
+          "description": "Bé lắng nghe băng và lặp lại mẫu câu hỏi đáp mong muốn mua sắm: 'What do you want? - I want some yams.' (Bạn muốn mua gì thế? - Mình muốn mua một ít khoai mỡ.).",
+          "audio_controller": { "track_label": "Track 4", "file_mp3": "audio/g2_u09.mp3", "start_sec": 163.0, "end_sec": 203.0 },
+          "robot_guide_tts": "Chúng mình cùng học mẫu câu hỏi xem bạn muốn mua hoặc cần món đồ nào khi đi siêu thị nhé. Con hãy nghe máy đọc đoạn hội thoại hỏi đáp và lặp lại thật to nào!"
+        },
+        {
+          "activity_idx": 7,
+          "title": "7. Let's talk",
+          "description": "Thực hành giao tiếp: Bé đóng vai người đi chợ và thay thế các món hàng tương ứng (a: yams, b: yogurt, c: yo-yos) vào cấu trúc câu câu trả lời 'I want some ______.' để thực hành giao tiếp đối thoại nói với Robot.",
+          "robot_guide_tts": "Con hãy chọn một món hàng ngẫu nhiên trên màn hình và thực hành nói cho Robot biết con muốn mua gì đi nào! Thử nói câu mua sữa chua 'I want some yogurt.' nha!"
+        },
+        {
+          "activity_idx": 8,
+          "title": "8. Let's sing!",
+          "description": "Bài hát tổng kết: Bé lắng nghe giai điệu nhạc ca hát vui nhộn về đi chợ siêu thị mua đồ ăn và đồ chơi (Yo-yos and yogurt / I want some yo-yos...) và hát theo để ôn tập lại toàn bộ Unit 9.",
+          "audio_controller": { "track_label": "Track 5", "file_mp3": "audio/g2_u09.mp3", "start_sec": 203.0, "end_sec": 279.0 },
+          "robot_guide_tts": "Yeah! Cuối cùng, chúng mình cùng hát một bài hát thật hay về những món quà mua sắm cho con và cho mẹ để kết thúc Unit 9 nha con!"
+        }
+      ]
+    }
+  ],
+
+  "quiz_arena": [
+    {
+      "q_idx": 1,
+      "question_text": "Từ nào dưới đây có nghĩa là 'sữa chua'? ... A: yogurt ... B: yams",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 2,
+      "question_text": "Từ 'yo-yos' trong bài học ngày hôm nay dùng để chỉ thứ gì con nhỉ? ... A: củ khoai mỡ ... B: đồ chơi yo-yo",
+      "options": ["A", "B"],
+      "correct_option": "B"
+    },
+    {
+      "q_idx": 3,
+      "question_text": "Khi muốn hỏi ai đó đi siêu thị 'Cậu muốn mua món gì?', con sẽ chọn câu nào? ... A: What do you want? ... B: What can you see?",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    },
+    {
+      "q_idx": 4,
+      "question_text": "Nếu con muốn mua một vài củ khoai mỡ, con sẽ trả lời thế nào bằng tiếng Anh? ... A: I want some yams. ... B: Pass me the jam, please.",
+      "options": ["A", "B"],
+      "correct_option": "A"
+    }
+  ]
+}
