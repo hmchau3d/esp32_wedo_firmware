@@ -12,7 +12,7 @@
       "meaning": "hồ nước / cái hồ 🏞️",
       "parent_guide": "Bé phát âm âm 'l', mở miệng phát âm âm 'ê-i' mềm mại và chú ý bật mạnh hơi gió chữ 'k' rõ ở cuối từ.",
       "file_img": "image/grade_01/Unit_12/lake.png",
-      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 19.0, "end_sec": 23.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 39.0, "end_sec": 43.0 },
       "robot_vi_hint": "Hồ nước trong xanh mát mẻ quá! Con hãy tìm hồ nước trên màn hình và đọc to từ này bằng tiếng Anh nhé!"
     },
     {
@@ -22,7 +22,7 @@
       "meaning": "những quả chanh vàng 🍋",
       "parent_guide": "Bé phát âm vần 'lem' dứt khoát, chuyển sang vần 'ən' và kết thúc bằng việc phát âm âm 'z' nhẹ ở cuối biểu thị số nhiều.",
       "file_img": "image/grade_01/Unit_12/lemons.png",
-      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 23.0, "end_sec": 27.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 43.0, "end_sec": 47.0 },
       "robot_vi_hint": "Những quả chanh vàng chín mọng trên cây kìa! Con hãy chỉ vào các quả chanh trên Web và phát âm cho robot nghe xem nào!"
     },
     {
@@ -32,7 +32,7 @@
       "meaning": "chiếc lá / lá cây 🍃",
       "parent_guide": "Bắt đầu bằng âm 'l', kéo dài âm 'i' một chút và kết thúc bằng cách đẩy hơi nhẹ chữ 'f' ở cuối từ bằng răng trên chạm môi dưới.",
       "file_img": "image/grade_01/Unit_12/leaf.png",
-      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 27.0, "end_sec": 31.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 47.0, "end_sec": 52.0 },
       "robot_vi_hint": "Một chiếc lá xanh đang rơi xuống kìa! Con hãy tìm chiếc lá trên màn hình máy tính và gọi tên đi nào!"
     },
     {
@@ -42,7 +42,7 @@
       "meaning": "bạn Lucy (tên riêng) 👧",
       "parent_guide": "Bé phát âm âm 'lu' kéo dài tròn môi, sau đó chuyển sang vần 'si' nhẹ nhàng.",
       "file_img": "image/grade_01/Unit_12/Lucy.png",
-      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 14.0, "end_sec": 19.0 },
+      "audio_segment": { "file_mp3": "audio/g1_u12.mp3", "start_sec": 28.0, "end_sec": 39.0 },
       "robot_vi_hint": "Bạn gái Lucy dễ thương đang đi dạo kìa! Con hãy chỉ vào bạn Lucy trên màn hình và đọc to lên nha!"
     }
   ],
@@ -58,7 +58,7 @@
           "activity_idx": 1,
           "title": "1. Listen and repeat",
           "description": "Bé quan sát khung cảnh thiên nhiên bên hồ nước trang 51. Nghe băng phát âm mẫu chữ cái Ll, âm /l/ và các từ vựng liên quan.",
-          "audio_controller": { "track_label": "Track 65", "file_mp3": "audio/g1_u12.mp3", "start_sec": 0.0, "end_sec": 35.0 },
+          "audio_controller": { "track_label": "Track 65", "file_mp3": "audio/g1_u12.mp3", "start_sec": 20.0, "end_sec": 52.0 },
           "robot_guide_tts": "Con hãy nhìn lên màn hình máy tính, click vào nút biểu tượng loa màu hồng để nghe máy phát âm bài học nhé! Robot đang ngồi xem con học đây!"
         },
         {
@@ -79,14 +79,14 @@
           "activity_idx": 3,
           "title": "3. Listen and chant",
           "description": "Bé nghe nhạc vần bài chant sôi động hướng sự chú ý, vỗ tay theo nhịp điệu của các câu mẫu 'Look at Lucy.', 'Look at the lake.', 'Look at the lemons.'",
-          "audio_controller": { "track_label": "Track 66", "file_mp3": "audio/g1_u12.mp3", "start_sec": 35.0, "end_sec": 137.0 },
+          "audio_controller": { "track_label": "Track 66", "file_mp3": "audio/g1_u12.mp3", "start_sec": 55.0, "end_sec": 124.0 },
           "robot_guide_tts": "Bài học này có bài hát vần rất vui! Con hãy bấm nút Phát băng nghe trên màn hình Web để chúng mình cùng nhún nhảy nha!"
         },
         {
           "activity_idx": 4,
           "title": "4. Listen and tick",
           "description": "Bé nghe đoạn hội thoại ngắn chứa cấu trúc 'Look at...' và đánh dấu tick vào ô vuông tương ứng với bức hình chanh vàng hoặc hồ nước.",
-          "audio_controller": { "track_label": "Track 67", "file_mp3": "audio/g1_u12.mp3", "start_sec": 137.0, "end_sec": 173.0 },
+          "audio_controller": { "track_label": "Track 67", "file_mp3": "audio/g1_u12.mp3", "start_sec": 124.0, "end_sec": 152.0 },
           "robot_guide_tts": "Bây giờ chúng mình cùng thi nghe nhé! Con hãy lắng nghe xem máy bảo nhìn vào hình gì và click đánh dấu vào ô vuông tương ứng nha!"
         },
         {
@@ -107,7 +107,7 @@
           "activity_idx": 6,
           "title": "6. Listen and repeat",
           "description": "Bé nghe và lặp lại các câu hướng sự chú ý cơ bản: 'Look at Lucy.' và 'Look at the lemons.'",
-          "audio_controller": { "track_label": "Track 68", "file_mp3": "audio/g1_u12.mp3", "start_sec": 173.0, "end_sec": 194.0 },
+          "audio_controller": { "track_label": "Track 68", "file_mp3": "audio/g1_u12.mp3", "start_sec": 152.0, "end_sec": 182.0 },
           "robot_guide_tts": "Chúng mình cùng học cách nói yêu cầu ai đó nhìn vào một món đồ hoặc một người nhé. Con hãy nghe và đọc theo máy nào!"
         },
         {
@@ -120,7 +120,7 @@
           "activity_idx": 8,
           "title": "8. Let's sing",
           "description": "Bé nghe và hát theo bài hát vui tươi miêu tả bạn Lucy đang chạy quanh hồ và chiếc lá đang rơi rụng xuống đất.",
-          "audio_controller": { "track_label": "Track 69", "file_mp3": "audio/g1_u12.mp3", "start_sec": 194.0, "end_sec": 234.0 },
+          "audio_controller": { "track_label": "Track 69", "file_mp3": "audio/g1_u12.mp3", "start_sec": 182.0, "end_sec": 221.0 },
           "robot_guide_tts": "Cuối cùng, chúng mình cùng hát một bài hát thật hay để kết thúc bài học nha con!"
         }
       ]
